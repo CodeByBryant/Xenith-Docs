@@ -1,0 +1,12 @@
+{
+  "label": "Growth & Insights",
+  "position": 5,
+  "collapsible": true,
+  "collapsed": false,
+  "link": {
+    "type": "generated-index",
+    "title": "Growth & Insights",
+    "description": "AI growth paths, your personal coach, projects, and the analytics that tie everything together.",
+    "slug": "/category/growth-and-insights"
+  }
+}

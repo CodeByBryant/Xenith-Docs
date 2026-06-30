@@ -1,0 +1,35 @@
+name: Documentation issue
+description: Report an error, something confusing, or a gap in the Xenith docs.
+title: "[Docs]: "
+labels: ["documentation"]
+body:
+  - type: markdown
+    attributes:
+      value: Thanks for helping improve the Xenith documentation.
+  - type: input
+    id: page
+    attributes:
+      label: Which page?
+      description: The URL or file path of the page with the issue.
+      placeholder: https://docs.xenith.life/life-dimensions/overview
+    validations:
+      required: true
+  - type: dropdown
+    id: kind
+    attributes:
+      label: What kind of issue?
+      options:
+        - Something is incorrect
+        - Something is confusing or unclear
+        - Something is missing
+        - Broken link or formatting
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      description: What's wrong, and what would be more accurate or clearer?
+    validations:
+      required: true

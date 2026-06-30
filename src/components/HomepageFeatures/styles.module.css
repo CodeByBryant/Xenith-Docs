@@ -1,8 +1,48 @@
 .features {
-  display: flex;
-  align-items: center;
-  padding: 2rem 0 4rem;
+  padding: 1rem 0 5rem;
   width: 100%;
+}
+
+.sectionHead {
+  text-align: center;
+  margin-bottom: 2.5rem;
+}
+
+.eyebrow {
+  display: block;
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.28em;
+  text-transform: uppercase;
+  color: var(--ifm-color-content-secondary);
+  margin-bottom: 0.5rem;
+}
+
+.sectionTitle {
+  font-family: var(--ifm-heading-font-family);
+  font-size: 2rem;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  margin: 0;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.75rem;
+}
+
+@media screen and (max-width: 996px) {
+  .grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1.25rem;
+  }
+}
+
+@media screen and (max-width: 640px) {
+  .grid {
+    grid-template-columns: 1fr;
+  }
 }
 
 .card {
@@ -10,30 +50,50 @@
   flex-direction: column;
   height: 100%;
   padding: 1.75rem;
-  border: 1px solid var(--ifm-toc-border-color, #e5e5e5);
+  border: 1px solid var(--ifm-toc-border-color);
   border-radius: var(--ifm-global-radius);
   background: var(--ifm-background-surface-color);
   text-decoration: none;
   transition:
     border-color 0.2s ease,
-    transform 0.2s ease;
+    transform 0.2s ease,
+    background 0.2s ease;
 }
 
 .card:hover {
   text-decoration: none;
   border-color: var(--ifm-color-content-secondary);
-  transform: translateY(-2px);
+  transform: translateY(-3px);
+}
+
+.cardIcon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2.75rem;
+  height: 2.75rem;
+  border-radius: 0.65rem;
+  border: 1px solid var(--ifm-toc-border-color);
+  background: var(--ifm-background-color);
+  color: var(--ifm-color-content);
+  margin-bottom: 1.1rem;
+}
+
+.cardIcon svg {
+  width: 1.4rem;
+  height: 1.4rem;
 }
 
 .cardTitle {
-  font-size: 1.25rem;
+  font-size: 1.2rem;
   margin-bottom: 0.5rem;
 }
 
 .cardBody {
   color: var(--ifm-color-content-secondary);
   font-size: 0.95rem;
-  margin-bottom: 1rem;
+  line-height: 1.55;
+  margin-bottom: 1.1rem;
   flex: 1;
 }
 

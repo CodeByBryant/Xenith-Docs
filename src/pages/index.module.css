@@ -1,37 +1,95 @@
 /**
  * Homepage hero — Xenith branded.
- * CSS modules are scoped locally.
+ * Mirrors the marketing site: grid backdrop, soft radial glow,
+ * Chomsky brand mark, serif headline, monochrome buttons.
  */
 
 .heroBanner {
-  padding: 6rem 0 5rem;
-  text-align: center;
   position: relative;
   overflow: hidden;
+  padding: 7rem 1rem 5.5rem;
+  text-align: center;
+}
+
+/* Faint engineering grid, identical idea to the app hero. */
+.grid {
+  position: absolute;
+  inset: 0;
+  background-image:
+    linear-gradient(var(--xn-grid-line) 1px, transparent 1px),
+    linear-gradient(90deg, var(--xn-grid-line) 1px, transparent 1px);
+  background-size: 72px 72px;
+  mask-image: radial-gradient(ellipse 80% 60% at 50% 30%, #000 40%, transparent 100%);
+  -webkit-mask-image: radial-gradient(ellipse 80% 60% at 50% 30%, #000 40%, transparent 100%);
+  pointer-events: none;
+}
+
+/* Soft radial glow behind the brand mark. */
+.glow {
+  position: absolute;
+  left: 50%;
+  top: 26%;
+  width: 680px;
+  height: 680px;
+  max-width: 90vw;
+  transform: translate(-50%, -50%);
+  background: radial-gradient(circle, var(--xn-glow) 0%, transparent 70%);
+  filter: blur(40px);
+  pointer-events: none;
+}
+
+.heroInner {
+  position: relative;
+  z-index: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .brandMark {
   font-family: 'Chomsky', serif;
-  font-size: 6rem;
+  font-size: 5.5rem;
   line-height: 1;
   color: var(--ifm-heading-color);
-  margin-bottom: 1.5rem;
+  margin-bottom: 1.25rem;
   user-select: none;
+}
+
+.badge {
+  display: inline-flex;
+  align-items: center;
+  border: 1px solid var(--ifm-toc-border-color);
+  background: var(--ifm-background-surface-color);
+  color: var(--ifm-color-content-secondary);
+  border-radius: 999px;
+  padding: 0.35rem 0.9rem;
+  font-size: 0.7rem;
+  font-weight: 600;
+  letter-spacing: 0.28em;
+  text-transform: uppercase;
+  margin-bottom: 1.5rem;
 }
 
 .heroTitle {
   font-family: var(--ifm-heading-font-family);
-  font-size: 3rem;
-  font-weight: 700;
+  font-size: 3.25rem;
+  font-weight: 600;
+  line-height: 1.05;
   letter-spacing: -0.03em;
-  margin-bottom: 0.75rem;
+  margin-bottom: 1rem;
+  max-width: 20ch;
+}
+
+.heroTitleMuted {
+  color: var(--ifm-color-content-secondary);
 }
 
 .heroSubtitle {
-  font-size: 1.25rem;
+  font-size: 1.2rem;
+  line-height: 1.6;
   color: var(--ifm-color-content-secondary);
-  max-width: 36rem;
-  margin: 0 auto 2.25rem;
+  max-width: 40rem;
+  margin: 0 auto 2.5rem;
 }
 
 .buttons {
@@ -46,6 +104,7 @@
   background: var(--ifm-color-primary);
   color: var(--ifm-background-color);
   border: none;
+  font-weight: 600;
 }
 
 .primaryBtn:hover {
@@ -54,9 +113,10 @@
 }
 
 .secondaryBtn {
-  background: transparent;
+  background: var(--ifm-background-surface-color);
   color: var(--ifm-color-content);
-  border: 1px solid var(--ifm-toc-border-color, #d4d4d4);
+  border: 1px solid var(--ifm-toc-border-color);
+  font-weight: 600;
 }
 
 .secondaryBtn:hover {
@@ -66,14 +126,18 @@
 
 @media screen and (max-width: 996px) {
   .heroBanner {
-    padding: 3.5rem 1.5rem;
+    padding: 4.5rem 1.25rem 3.5rem;
   }
 
   .brandMark {
-    font-size: 4.5rem;
+    font-size: 4.25rem;
   }
 
   .heroTitle {
-    font-size: 2.25rem;
+    font-size: 2.35rem;
+  }
+
+  .heroSubtitle {
+    font-size: 1.05rem;
   }
 }

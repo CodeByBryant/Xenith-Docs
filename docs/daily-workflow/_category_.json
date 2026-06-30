@@ -1,0 +1,12 @@
+{
+  "label": "Daily Workflow",
+  "position": 3,
+  "collapsible": true,
+  "collapsed": false,
+  "link": {
+    "type": "generated-index",
+    "title": "Daily Workflow",
+    "description": "The rhythm of a deliberate day in Xenith: set intentions, focus, run your routines, and reflect.",
+    "slug": "/category/daily-workflow"
+  }
+}

@@ -1,0 +1,25 @@
+name: Site bug
+description: Report a bug with the documentation site itself (rendering, search, navigation).
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: Describe the bug and what you expected instead.
+    validations:
+      required: true
+  - type: textarea
+    id: repro
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1. Go to '...'
+        2. Click '...'
+        3. See the problem
+  - type: input
+    id: env
+    attributes:
+      label: Browser / device
+      placeholder: Chrome 126 on Windows 11

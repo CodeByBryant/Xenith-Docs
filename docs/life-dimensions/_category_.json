@@ -1,0 +1,12 @@
+{
+  "label": "Life Dimensions",
+  "position": 4,
+  "collapsible": true,
+  "collapsed": false,
+  "link": {
+    "type": "generated-index",
+    "title": "Life Dimensions",
+    "description": "The eight areas of life Xenith helps you track and balance, each with its own dedicated tools.",
+    "slug": "/category/life-dimensions"
+  }
+}

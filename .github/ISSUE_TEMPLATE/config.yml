@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Xenith Support
+    url: mailto:support@xenith.life
+    about: Account help, billing, or anything not about the docs themselves.
+  - name: Service Status
+    url: https://status.xenith.life
+    about: Check whether Xenith is experiencing an outage.
+  - name: Open the App
+    url: https://xenith.life
+    about: Go to the Xenith web app.
