@@ -1,0 +1,97 @@
+/**
+ * Xenith Docs theme — monochrome, dark by default.
+ * Mirrors the web app: #0a0a0a / #fafafa, Inter body, Playfair headings,
+ * Chomsky blackletter for the brand mark.
+ */
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Playfair+Display:wght@500;600;700&family=JetBrains+Mono:wght@400;500&display=swap');
+
+/* Brand blackletter font (used for the homepage "X" mark). */
+@font-face {
+  font-family: 'Chomsky';
+  src: url('/fonts/Chomsky.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* ── Light mode ──────────────────────────────────────────────────────── */
+:root {
+  --ifm-color-primary: #18181b;
+  --ifm-color-primary-dark: #161618;
+  --ifm-color-primary-darker: #0f0f11;
+  --ifm-color-primary-darkest: #0a0a0a;
+  --ifm-color-primary-light: #3f3f46;
+  --ifm-color-primary-lighter: #52525b;
+  --ifm-color-primary-lightest: #71717a;
+
+  --ifm-font-family-base: 'Inter', system-ui, -apple-system, sans-serif;
+  --ifm-heading-font-family: 'Playfair Display', Georgia, serif;
+  --ifm-font-family-monospace: 'JetBrains Mono', ui-monospace, monospace;
+
+  --ifm-code-font-size: 90%;
+  --ifm-global-radius: 0.75rem;
+  --ifm-navbar-shadow: none;
+
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.08);
+}
+
+/* ── Dark mode (default) ─────────────────────────────────────────────── */
+[data-theme='dark'] {
+  --ifm-color-primary: #fafafa;
+  --ifm-color-primary-dark: #e4e4e7;
+  --ifm-color-primary-darker: #d4d4d8;
+  --ifm-color-primary-darkest: #a1a1aa;
+  --ifm-color-primary-light: #ffffff;
+  --ifm-color-primary-lighter: #ffffff;
+  --ifm-color-primary-lightest: #ffffff;
+
+  --ifm-background-color: #0a0a0a;
+  --ifm-background-surface-color: #161616;
+  --ifm-navbar-background-color: rgba(10, 10, 10, 0.8);
+  --ifm-footer-background-color: #0a0a0a;
+  --ifm-color-content: #fafafa;
+  --ifm-color-content-secondary: #a3a3a3;
+  --ifm-toc-border-color: #262626;
+  --ifm-hr-border-color: #262626;
+  --ifm-table-border-color: #262626;
+
+  --docusaurus-highlighted-code-line-bg: rgba(255, 255, 255, 0.08);
+}
+
+/* ── Refinements ─────────────────────────────────────────────────────── */
+.navbar {
+  backdrop-filter: saturate(180%) blur(10px);
+  border-bottom: 1px solid #e5e5e5;
+}
+
+[data-theme='dark'] .navbar {
+  border-bottom-color: #1a1a1a;
+}
+
+.navbar__title {
+  font-family: var(--ifm-heading-font-family);
+  font-weight: 600;
+  letter-spacing: -0.01em;
+}
+
+.menu__link,
+.navbar__link {
+  font-weight: 500;
+}
+
+/* Links: keep them legible against near-monochrome body text in dark mode. */
+[data-theme='dark']
+  a:not(.navbar__link):not(.menu__link):not(.footer__link-item):not(.card) {
+  text-decoration-color: #525252;
+  text-underline-offset: 0.2em;
+}
+
+article header h1 {
+  letter-spacing: -0.02em;
+}
+
+.footer--dark {
+  --ifm-footer-background-color: #0a0a0a;
+  border-top: 1px solid #1a1a1a;
+}

@@ -1,0 +1,79 @@
+/**
+ * Homepage hero — Xenith branded.
+ * CSS modules are scoped locally.
+ */
+
+.heroBanner {
+  padding: 6rem 0 5rem;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+
+.brandMark {
+  font-family: 'Chomsky', serif;
+  font-size: 6rem;
+  line-height: 1;
+  color: var(--ifm-heading-color);
+  margin-bottom: 1.5rem;
+  user-select: none;
+}
+
+.heroTitle {
+  font-family: var(--ifm-heading-font-family);
+  font-size: 3rem;
+  font-weight: 700;
+  letter-spacing: -0.03em;
+  margin-bottom: 0.75rem;
+}
+
+.heroSubtitle {
+  font-size: 1.25rem;
+  color: var(--ifm-color-content-secondary);
+  max-width: 36rem;
+  margin: 0 auto 2.25rem;
+}
+
+.buttons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+}
+
+.primaryBtn {
+  background: var(--ifm-color-primary);
+  color: var(--ifm-background-color);
+  border: none;
+}
+
+.primaryBtn:hover {
+  color: var(--ifm-background-color);
+  opacity: 0.9;
+}
+
+.secondaryBtn {
+  background: transparent;
+  color: var(--ifm-color-content);
+  border: 1px solid var(--ifm-toc-border-color, #d4d4d4);
+}
+
+.secondaryBtn:hover {
+  color: var(--ifm-color-content);
+  border-color: var(--ifm-color-content-secondary);
+}
+
+@media screen and (max-width: 996px) {
+  .heroBanner {
+    padding: 3.5rem 1.5rem;
+  }
+
+  .brandMark {
+    font-size: 4.5rem;
+  }
+
+  .heroTitle {
+    font-size: 2.25rem;
+  }
+}
