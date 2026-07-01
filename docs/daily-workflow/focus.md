@@ -20,7 +20,7 @@ your full attention.
 
 1. Open **Focus** from the sidebar (**/app/focus**). No setup required — the
    timer is ready immediately.
-2. **Set a duration.** Choose a preset (for example 25, 50, or 90 minutes) or
+2. **Set a duration.** Choose a preset (25, 45, or 90 minutes) or
    enter a **custom length**. Whether you sprint in Pomodoro-style blocks or
    settle into a 90-minute deep block, Focus adapts to your rhythm.
 3. **Name your focus** (optional) so you can look back later on what you gave
@@ -35,7 +35,6 @@ Focus includes ambient audio to help you settle in:
   always available and never need to load.
 - **Rain** and **Rain & thunder** — natural soundscapes.
 - **Lo-fi** — relaxed background music with a gentle fade-in.
-- **Coffee shop** — a warm ambient murmur.
 
 Adjust the **volume** at any time, or turn sound off entirely. If a track can't
 load, Focus quietly falls back to generated noise so your session is never

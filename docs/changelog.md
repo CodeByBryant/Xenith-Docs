@@ -22,9 +22,9 @@ frequent improvements.
 
 **Focus, refined.**
 
-- **New and improved soundscapes** — added Rain & Thunder and Coffee Shop, plus a
-  gentle fade-in for Lo-fi. White and brown noise are generated locally so they
-  start instantly and work offline.
+- **New and improved soundscapes** — added Rain & Thunder, plus a gentle fade-in
+  for Lo-fi. White and brown noise are generated locally so they start instantly
+  and work offline.
 - **Custom session durations** — set any length alongside the presets.
 - **Full-screen Focus mode** and a **session goal** field, so you can name what
   you're working on and give it your whole attention.
