@@ -1,18 +1,18 @@
 ---
 sidebar_position: 1
 title: Creating an Account
-description: How to sign up for Xenith, sign in securely, and what you get during the free beta.
+description: How to sign up for Xenith, sign in securely, and what you get with a free account.
 keywords:
   - xenith sign up
   - create xenith account
   - xenith login
-  - free productivity app beta
+  - free productivity app
 ---
 
 # Creating an Account
 
-Getting into Xenith takes about a minute. Xenith is **free during beta** — no
-credit card, no trial timer, no locked features.
+Getting into Xenith takes about a minute, and it's **free to start** — no
+credit card and no trial timer.
 
 ## Ways to sign in
 
@@ -69,11 +69,12 @@ Returning users select **Sign in** and use the same method they signed up with:
 > Use the **Forgot password?** link on the sign-in form. Xenith emails you a magic
 > link so you can get back in, then reset your password.
 
-## What you get in the beta
+## What you get
 
-- Every feature unlocked — all eight [Life Dimensions](../life-dimensions/overview.md),
-  [Focus](../daily-workflow/focus.md), [Growth paths](../growth-and-insights/growth.md),
-  [Insights](../growth-and-insights/insights.md), and more.
+- The core toolkit — all eight [Life Dimensions](../life-dimensions/overview.md),
+  the daily loop (intentions, routines, reflection),
+  [Focus](../daily-workflow/focus.md), and
+  [Insights](../growth-and-insights/insights.md).
 - Your data synced across every device you sign in on.
 - No ads, and your private entries are never used to train AI models. See
   [Privacy & Data](../account/privacy-and-data.md) for the details.

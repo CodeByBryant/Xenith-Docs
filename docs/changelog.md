@@ -11,12 +11,25 @@ keywords:
 
 # Changelog
 
-Notable changes to Xenith, newest first. Xenith is in active beta, so expect
-frequent improvements.
+Notable changes to Xenith, newest first. We ship improvements often.
 
 > **Suspect an outage instead of a change?**
 >
 > Check the [status page](https://status.xenith.life) for real-time service health.
+
+## 2.1.0 — July 2026
+
+**Out of beta — and your data is truly yours.**
+
+- **Xenith is out of beta.** Same calm, no-streaks app you've been using — now on
+  its stable 2.x release line.
+- **Delete account now means delete.** Removing your account permanently and
+  immediately erases all of your data — every entry, across every dimension —
+  and there's no way to recover it. Your data is yours; when you leave, it's gone
+  for good. See [Privacy & Data](./account/privacy-and-data.md).
+- Fixed a handful of display and loading glitches, including profile avatars and
+  in-app analytics.
+- Behind-the-scenes security and reliability improvements.
 
 ## 1.5.0 — June 2026
 

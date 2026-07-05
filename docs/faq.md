@@ -14,8 +14,8 @@ keywords:
 
 ## Is Xenith free?
 
-Yes. Xenith is **free during beta** — no credit card, no trial countdown, and
-every feature is unlocked. See [Creating an Account](./getting-started/creating-an-account.md).
+Yes — Xenith is **free to start**: no credit card and no trial countdown. Create
+an account and use it as long as you like. See [Creating an Account](./getting-started/creating-an-account.md).
 
 ## What makes Xenith different from other productivity apps?
 
