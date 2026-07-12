@@ -17,6 +17,19 @@ Notable changes to Xenith, newest first. We ship improvements often.
 >
 > Check the [status page](https://status.xenith.life) for real-time service health.
 
+## 2.2.0 — July 2026
+
+**Bring your own calendar, and build on top of Xenith.**
+
+- **Two-way Calendar sync (Google Calendar & Notion).** Connect from the
+  Calendar page or Settings. Events you create or edit in Xenith push to the
+  connected provider, and events from the provider pull into Xenith —
+  automatically when you open the Calendar, on demand with "Sync now", and
+  daily in the background as a backstop. See [Calendar Sync](./integrations/calendar-sync.md).
+- **Public API (v1).** Issue an API key in Settings and read/write your
+  intentions, focus sessions, and dimension scores from your own scripts and
+  tools. See the [API Reference](./api-reference.md).
+
 ## 2.1.0 — July 2026
 
 **Out of beta — and your data is truly yours.**

@@ -1,0 +1,12 @@
+{
+  "label": "Integrations",
+  "position": 5.5,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "title": "Integrations",
+    "description": "Connect Xenith to the other tools you already use.",
+    "slug": "/category/integrations"
+  }
+}
