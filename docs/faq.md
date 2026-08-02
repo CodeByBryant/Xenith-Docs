@@ -14,8 +14,28 @@ keywords:
 
 ## Is Xenith free?
 
-Yes — Xenith is **free to start**: no credit card and no trial countdown. Create
-an account and use it as long as you like. See [Creating an Account](./getting-started/creating-an-account.md).
+Yes — Xenith is **free to start**: no credit card and no trial countdown. The
+free plan is real and complete, not a demo:
+
+- Daily [Intentions](./daily-workflow/daily-intentions.md), the
+  [Focus](./daily-workflow/focus.md) timer, and
+  [Reflection](./daily-workflow/reflection.md)
+- [Routines](./daily-workflow/routines.md)
+- The 8-point [Life Dimensions](./life-dimensions/overview.md) overview
+- The [Insights](./growth-and-insights/insights.md) dashboard
+- White and brown noise soundscapes
+- One [project](./growth-and-insights/projects.md)
+
+**Xenith Pro** ($7.99/mo, or $66.99/yr) unlocks the tool behind each Life
+Dimension — nutrition, workouts, sleep, finances, and the rest across all
+eight — plus [Growth Paths and Coach](./growth-and-insights/coach.md), every
+Focus soundscape, unlimited projects, and priority support. Pro-only screens
+show a preview with an "Unlock with Pro" prompt rather than hiding
+completely, so you always know what you're missing. Upgrade anytime from
+Settings or at [xenith.life/app/pricing](https://xenith.life/app/pricing);
+cancel anytime, and new subscriptions include a 14-day money-back guarantee.
+See [Creating an Account](./getting-started/creating-an-account.md) to get
+started.
 
 ## What makes Xenith different from other productivity apps?
 

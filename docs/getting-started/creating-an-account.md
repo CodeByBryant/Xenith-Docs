@@ -71,13 +71,25 @@ Returning users select **Sign in** and use the same method they signed up with:
 
 ## What you get
 
-- The core toolkit — all eight [Life Dimensions](../life-dimensions/overview.md),
-  the daily loop (intentions, routines, reflection),
-  [Focus](../daily-workflow/focus.md), and
-  [Insights](../growth-and-insights/insights.md).
-- Your data synced across every device you sign in on.
+Every account, free or Pro, gets:
+
+- The core daily loop — [Daily Intentions](../daily-workflow/daily-intentions.md),
+  [Routines](../daily-workflow/routines.md),
+  [Reflection](../daily-workflow/reflection.md), and the
+  [Focus](../daily-workflow/focus.md) timer.
+- The 8-point [Life Dimensions](../life-dimensions/overview.md) overview and
+  the [Insights](../growth-and-insights/insights.md) dashboard.
+- One [project](../growth-and-insights/projects.md), white and brown noise,
+  and your data synced across every device you sign in on.
 - No ads, and your private entries are never used to train AI models. See
   [Privacy & Data](../account/privacy-and-data.md) for the details.
+
+**Xenith Pro** ($7.99/mo or $66.99/yr) additionally unlocks every Life
+Dimension's tracking tool (nutrition, workouts, sleep, finances, and more),
+[Growth Paths and Coach](../growth-and-insights/coach.md), every Focus
+soundscape, unlimited projects, and priority support — see the
+[FAQ](../faq.md#is-xenith-free) for the full comparison. You can start free
+and upgrade anytime from Settings; nothing here requires a card up front.
 
 ## Next steps
 
