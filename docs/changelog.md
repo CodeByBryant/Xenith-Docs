@@ -38,7 +38,7 @@ Notable changes to Xenith, newest first. We ship improvements often.
 - **Billing by Stripe.** Subscriptions are billed and managed through
   Stripe's hosted checkout and billing portal — Xenith never sees or stores
   your card details. Cancel anytime from Settings; new subscriptions include
-  a 14-day money-back guarantee.
+  a 7-day money-back guarantee, self-serve from Settings.
 - **Cookie consent.** A first-visit banner now lets you accept or reject
   non-essential analytics cookies; essential cookies (sign-in, core
   functionality) are unaffected. Manage your choice anytime from the

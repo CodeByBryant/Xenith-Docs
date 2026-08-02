@@ -45,7 +45,8 @@ overview stay free regardless of plan — Pro unlocks the logging tools behind
 them. Pro-only screens show a preview with an "Unlock with Pro" prompt rather
 than hiding completely, so you always know what you're missing. Upgrade
 anytime from Settings or at [xenith.life/app/pricing](https://xenith.life/app/pricing);
-cancel anytime, and new subscriptions include a 14-day money-back guarantee.
+cancel anytime, and new subscriptions include a 7-day money-back guarantee —
+self-serve from Settings, refunds your first charge in full.
 See [Creating an Account](./getting-started/creating-an-account.md) to get
 started.
 
