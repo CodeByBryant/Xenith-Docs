@@ -15,6 +15,12 @@ The **Finances** dimension (shown in amber) is about awareness, not accounting.
 You don't need a full budgeting suite to change your relationship with money — you
 need to actually see where it goes.
 
+> **Pro feature**
+>
+> Transactions is part of [Xenith Pro](https://xenith.life/app/pricing). Finances'
+> score and its place on your [Life Dimensions overview](./overview.md) stay free
+> either way.
+
 ## Tool
 
 ### Transactions

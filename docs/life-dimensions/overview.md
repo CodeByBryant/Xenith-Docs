@@ -34,6 +34,12 @@ something is quietly slipping.
 Each dimension keeps its color consistently throughout the app, so you always
 know which area you're looking at.
 
+> **Free vs Pro**
+>
+> The eight-dimension overview and every dimension's score are **free**, always.
+> The tracking tool(s) inside each dimension — the actual logging screens linked
+> from the table above — are part of [Xenith Pro](https://xenith.life/app/pricing).
+
 > **Where does Focus fit?**
 >
 > [Focus](../daily-workflow/focus.md) — deep, intentional work — is a core part of
@@ -45,8 +51,9 @@ know which area you're looking at.
 1. **Pick your dimensions.** During [onboarding](../getting-started/onboarding.md)
    you choose which areas matter to you right now. Add or remove them any time
    from [Settings](../account/settings.md).
-2. **Log what's meaningful.** Each dimension has dedicated tools. Add entries at
-   whatever cadence fits — daily, weekly, or only when something changes.
+2. **Log what's meaningful.** Each dimension has dedicated tools — these are part
+   of [Xenith Pro](https://xenith.life/app/pricing). Add entries at whatever
+   cadence fits — daily, weekly, or only when something changes.
 3. **Reflect.** Each dimension surfaces gentle insights so you can see patterns
    without being judged.
 

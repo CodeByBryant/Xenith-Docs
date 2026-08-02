@@ -16,6 +16,12 @@ that matter. Good relationships rarely fail from a single dramatic moment — th
 fade quietly from neglect. This dimension makes that neglect visible before it
 costs you.
 
+> **Pro feature**
+>
+> Connections is part of [Xenith Pro](https://xenith.life/app/pricing).
+> Relationships' score and its place on your [Life Dimensions overview](./overview.md)
+> stay free either way.
+
 ## Tool
 
 ### Connections

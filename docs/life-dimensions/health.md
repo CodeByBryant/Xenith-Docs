@@ -16,6 +16,12 @@ The **Health** dimension (shown in green) is where you keep an eye on your body 
 the inputs and movement that keep you running well. It's built from a few focused
 tools rather than one overwhelming dashboard.
 
+> **Pro feature**
+>
+> Biometrics, Calories, Water, and Workouts are part of [Xenith Pro](https://xenith.life/app/pricing).
+> Health's score and its place on your [Life Dimensions overview](./overview.md)
+> stay free either way.
+
 ## Tools
 
 ### Biometrics

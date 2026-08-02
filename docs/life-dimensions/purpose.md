@@ -15,6 +15,12 @@ The **Purpose** dimension (shown in orange) is the compass for everything else.
 When your daily actions are connected to what you actually value, the other
 dimensions stop feeling like a checklist and start feeling like a life.
 
+> **Pro feature**
+>
+> Values and Decisions are part of [Xenith Pro](https://xenith.life/app/pricing).
+> Purpose's score and its place on your [Life Dimensions overview](./overview.md)
+> stay free either way.
+
 ## Tools
 
 ### Values

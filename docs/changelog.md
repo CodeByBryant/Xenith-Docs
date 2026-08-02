@@ -21,12 +21,16 @@ Notable changes to Xenith, newest first. We ship improvements often.
 
 **Pro is here.**
 
-- **Xenith Pro.** A paid plan alongside the free plan: every Life Dimension
-  tool (nutrition, workouts, sleep, finances, and more across all eight
-  dimensions), [AI Coach and Growth Paths](./growth-and-insights/coach.md),
-  every Focus soundscape, unlimited [Projects](./growth-and-insights/projects.md),
-  and priority support. The free plan stays real and complete — daily
-  intentions, Focus timer, reflection, routines, the 8-point Life Dimensions
+- **Xenith Pro.** A paid plan alongside the free plan: every Life Dimension's
+  tracking tool — Biometrics/Calories/Water/Workouts (Health), Daily
+  Gratitude/Thought Audit (Mind), Energy & Tasks/Wins & Losses (Work),
+  Connections (Relationships), Transactions (Finances), Books (Learning),
+  Sleep/Recharge (Rest), and Values/Decisions (Purpose) — plus
+  [AI Coach and Growth Paths](./growth-and-insights/coach.md), every Focus
+  soundscape, unlimited [Projects](./growth-and-insights/projects.md), and
+  priority support. Each dimension's score and the 8-point overview stay free
+  regardless of plan. The free plan stays real and complete — daily
+  intentions, Focus timer, reflection, routines, the Life Dimensions
   overview, Insights, and one project, forever. See the
   [FAQ](./faq.md#is-xenith-free) for the full breakdown and
   [xenith.life/app/pricing](https://xenith.life/app/pricing) to compare

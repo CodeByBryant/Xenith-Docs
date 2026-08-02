@@ -26,13 +26,25 @@ free plan is real and complete, not a demo:
 - White and brown noise soundscapes
 - One [project](./growth-and-insights/projects.md)
 
-**Xenith Pro** ($7.99/mo, or $66.99/yr) unlocks the tool behind each Life
-Dimension — nutrition, workouts, sleep, finances, and the rest across all
-eight — plus [Growth Paths and Coach](./growth-and-insights/coach.md), every
-Focus soundscape, unlimited projects, and priority support. Pro-only screens
-show a preview with an "Unlock with Pro" prompt rather than hiding
-completely, so you always know what you're missing. Upgrade anytime from
-Settings or at [xenith.life/app/pricing](https://xenith.life/app/pricing);
+**Xenith Pro** ($7.99/mo, or $66.99/yr) unlocks the tracking tool inside every
+Life Dimension:
+
+- [Health](./life-dimensions/health.md) — Biometrics, Calories, Water, Workouts
+- [Mind](./life-dimensions/mind.md) — Daily Gratitude, Thought Audit
+- [Work](./life-dimensions/work.md) — Energy & Tasks, Wins & Losses
+- [Relationships](./life-dimensions/relationships.md) — Connections
+- [Finances](./life-dimensions/finances.md) — Transactions
+- [Learning](./life-dimensions/learning.md) — Books
+- [Rest](./life-dimensions/rest.md) — Sleep, Recharge
+- [Purpose](./life-dimensions/purpose.md) — Values, Decisions
+
+— plus [Growth Paths and Coach](./growth-and-insights/coach.md), every Focus
+soundscape, unlimited [projects](./growth-and-insights/projects.md), and
+priority support. Each dimension's **score** and its place on the 8-point
+overview stay free regardless of plan — Pro unlocks the logging tools behind
+them. Pro-only screens show a preview with an "Unlock with Pro" prompt rather
+than hiding completely, so you always know what you're missing. Upgrade
+anytime from Settings or at [xenith.life/app/pricing](https://xenith.life/app/pricing);
 cancel anytime, and new subscriptions include a 14-day money-back guarantee.
 See [Creating an Account](./getting-started/creating-an-account.md) to get
 started.

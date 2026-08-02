@@ -16,6 +16,10 @@ Big goals fail for a simple reason: they stay abstract. Xenith's **Growth** turn
 a long-term ambition into a concrete **path** of achievable steps — generated for
 you, then yours to work through at your own pace.
 
+> **Pro feature**
+>
+> Growth Paths is part of [Xenith Pro](https://xenith.life/app/pricing).
+
 ## How it works
 
 1. Open **Growth** from the sidebar (**/app/growth**).

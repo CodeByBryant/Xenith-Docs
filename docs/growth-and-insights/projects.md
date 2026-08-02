@@ -16,6 +16,11 @@ keywords:
 life — side ventures, creative work, personal research. It's built for *you*, not
 a team: no sharing, no comment threads, no notifications pile.
 
+> **Free vs Pro**
+>
+> The free plan includes **one** project. [Xenith Pro](https://xenith.life/app/pricing)
+> unlocks unlimited projects.
+
 ## Structure
 
 - **Projects** act as folders for related work.

@@ -15,6 +15,12 @@ The **Rest** dimension (shown in indigo) treats recovery as part of the work, no
 the absence of it. Sustained output depends on sustained rest, and this dimension
 helps you give it the attention it deserves.
 
+> **Pro feature**
+>
+> Sleep and Recharge are part of [Xenith Pro](https://xenith.life/app/pricing).
+> Rest's score and its place on your [Life Dimensions overview](./overview.md)
+> stay free either way.
+
 ## Tools
 
 ### Sleep

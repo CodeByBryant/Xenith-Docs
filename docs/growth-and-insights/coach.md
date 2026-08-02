@@ -14,6 +14,10 @@ keywords:
 **Coach** is your built-in AI sounding board — there when you want to think
 something through, get unstuck, or turn a vague feeling into a clear next step.
 
+> **Pro feature**
+>
+> Coach is part of [Xenith Pro](https://xenith.life/app/pricing).
+
 ## What Coach is good for
 
 - **Thinking out loud.** Talk through a decision, a stuck project, or a goal

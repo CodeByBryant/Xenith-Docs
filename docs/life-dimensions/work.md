@@ -16,6 +16,12 @@ The **Work** dimension (shown in blue) is about doing your best work without
 burning out. It pairs an energy-aware approach to tasks with an honest record of
 what's working and what isn't.
 
+> **Pro feature**
+>
+> Energy & Tasks and Wins & Losses are part of [Xenith Pro](https://xenith.life/app/pricing).
+> Work's score and its place on your [Life Dimensions overview](./overview.md)
+> stay free either way.
+
 ## Tools
 
 ### Energy & Tasks

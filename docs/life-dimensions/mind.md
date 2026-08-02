@@ -16,6 +16,12 @@ The **Mind** dimension (shown in violet) holds Xenith's tools for mental clarity
 a daily gratitude practice and a structured thought audit. Both are quick,
 private, and grounded in well-supported techniques.
 
+> **Pro feature**
+>
+> Daily Gratitude and Thought Audit are part of [Xenith Pro](https://xenith.life/app/pricing).
+> Mind's score and its place on your [Life Dimensions overview](./overview.md)
+> stay free either way.
+
 ## Tools
 
 ### Daily Gratitude

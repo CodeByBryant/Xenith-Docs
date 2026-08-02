@@ -15,6 +15,12 @@ The **Learning** dimension (shown in cyan) keeps your growth as a reader and
 thinker from slipping through the cracks. The books you finish and the ideas you
 gather are worth more when you actually keep track of them.
 
+> **Pro feature**
+>
+> Books is part of [Xenith Pro](https://xenith.life/app/pricing). Learning's score
+> and its place on your [Life Dimensions overview](./overview.md) stay free either
+> way.
+
 ## Tool
 
 ### Books
