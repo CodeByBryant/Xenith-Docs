@@ -37,6 +37,11 @@ plainly — Coach responds in context, oriented around the deliberate-living ide
 Xenith is built on: direction over speed, balance over burnout, intention over
 autopilot.
 
+Coach is meant for focused conversations, not open-ended chat, so each day
+resets with a **10-message limit**. Come back tomorrow, or in the meantime
+capture the thread in a [Project](./projects.md) page or a
+[reflection](../daily-workflow/reflection.md).
+
 ## What Coach is not
 
 > **Not a clinician**

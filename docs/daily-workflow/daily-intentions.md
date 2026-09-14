@@ -34,6 +34,21 @@ Twelve things you might do is just anxiety in list form.
 4. **Tag each intention to a Life Dimension** so patterns surface over time —
    which areas you consistently prioritize, and which you keep deferring.
 
+## Repeating intentions
+
+For commitments that recur on a schedule — a weekly gym session, a monthly
+budget review — add a **Repeat** rule from the intentions add form instead of
+retyping the same intention every day:
+
+- **Weekly**, on whichever specific days you choose.
+- **Monthly**, every N months.
+- An optional **start and end date**, for a recurrence that shouldn't run
+  forever.
+
+Xenith expands the rule into individual, completable intentions on the days
+they're due, so each occurrence still gets its own dimension tag and its own
+completed/partial/deferred review — repeating doesn't mean unreviewed.
+
 ## Reviewing at day's end
 
 Come back in the evening and mark each intention as completed, partial, or

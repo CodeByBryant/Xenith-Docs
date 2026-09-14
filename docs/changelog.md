@@ -17,6 +17,32 @@ Notable changes to Xenith, newest first. We ship improvements often.
 >
 > Check the [status page](https://status.xenith.life) for real-time service health.
 
+## 2.3.1 — September 2026
+
+**Repeating intentions, a real editor for Projects, and a smarter Focus timer.**
+
+- **Repeating intentions.** Set an intention once on a weekly or monthly
+  schedule instead of retyping it every day — each occurrence still gets its
+  own review. See [Daily Intentions](./daily-workflow/daily-intentions.md#repeating-intentions).
+- **Focus timer task linking.** Point a session at one of today's intentions
+  from the setup screen; its title stays visible for the whole session. See
+  [Focus](./daily-workflow/focus.md).
+- **Projects editor, leveled up.** Font family and text alignment controls,
+  image upload (from your device or searched directly from Unsplash), basic
+  tables, inline/block math via KaTeX, and a project cover image. See
+  [Projects](./growth-and-insights/projects.md).
+- **Daily check-in now follows your account**, not just your browser — "done
+  for today" stays consistent across devices, and brand new accounts skip the
+  redundant prompt right after onboarding. See
+  [Daily Check-in](./daily-workflow/daily-check-in.md).
+- **Calendar Sync (Google Calendar & Notion) is now part of Xenith Pro.** The
+  Calendar itself, and everything else it does, stays free. See
+  [Calendar Sync](./integrations/calendar-sync.md).
+- Coach's daily message limit raised from 3 to 10.
+- Fixed two-way Calendar sync sometimes applying the wrong timezone to pulled
+  events, along with a handful of smaller Calendar display and sign-in error
+  message bugs.
+
 ## 2.3.0 — August 2026
 
 **Pro is here.**

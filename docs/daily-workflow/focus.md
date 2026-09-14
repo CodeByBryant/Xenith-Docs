@@ -25,7 +25,11 @@ your full attention.
    settle into a 90-minute deep block, Focus adapts to your rhythm.
 3. **Name your focus** (optional) so you can look back later on what you gave
    your attention to.
-4. Press **Start**, and go **full-screen** for a truly quiet workspace.
+4. **Link a task** (optional) by picking one of today's
+   [intentions](./daily-intentions.md) from the setup screen — its title stays
+   visible for the whole session, so the timer is always pointed at something
+   real instead of running in the abstract.
+5. Press **Start**, and go **full-screen** for a truly quiet workspace.
 
 ## Ambient soundscapes
 
@@ -64,8 +68,8 @@ trend.
 
 - Pair a session with a single [Life Dimension](../life-dimensions/overview.md) —
   for example, a 50-minute block dedicated to *Learning*.
-- Tie the session to one of today's [intentions](./daily-intentions.md) so your
-  focus time pushes a real priority forward.
+- Actually link the session to one of today's intentions (not just mentally) so
+  your focus time pushes a real priority forward.
 - Full-screen plus a soundscape is the fastest way to drop into flow.
 
 ## Next steps

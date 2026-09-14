@@ -38,9 +38,10 @@ Life Dimension:
 - [Rest](./life-dimensions/rest.md) — Sleep, Recharge
 - [Purpose](./life-dimensions/purpose.md) — Values, Decisions
 
-— plus [Growth Paths and Coach](./growth-and-insights/coach.md), every Focus
-soundscape, unlimited [projects](./growth-and-insights/projects.md), and
-priority support. Each dimension's **score** and its place on the 8-point
+— plus [Growth Paths and Coach](./growth-and-insights/coach.md),
+[Calendar Sync](./integrations/calendar-sync.md) with Google Calendar and
+Notion, every Focus soundscape, unlimited
+[projects](./growth-and-insights/projects.md), and priority support. Each dimension's **score** and its place on the 8-point
 overview stay free regardless of plan — Pro unlocks the logging tools behind
 them. Pro-only screens show a preview with an "Unlock with Pro" prompt rather
 than hiding completely, so you always know what you're missing. Upgrade

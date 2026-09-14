@@ -15,6 +15,12 @@ Xenith's [Calendar](../getting-started/the-interface.md#the-calendar) can sync t
 Google Calendar and Notion, so events stay consistent no matter where you
 create or edit them.
 
+> **Pro feature**
+>
+> Calendar Sync is part of [Xenith Pro](https://xenith.life/app/pricing). The
+> Calendar itself is free — Pro unlocks connecting it to Google Calendar or
+> Notion.
+
 ## Connecting
 
 Connect from either place — they share the same connection, so it doesn't

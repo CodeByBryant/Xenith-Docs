@@ -35,7 +35,15 @@ everything into one sprawling note.
 
 The editor supports familiar shortcuts, so you can write strategy docs, research
 notes, and plans without leaving Xenith. Type to format inline, and structure
-longer pieces with headings and lists.
+longer pieces with headings and lists. Beyond the basics, pages also support:
+
+- **Font family and text alignment** controls in the toolbar.
+- **Images** — upload from your device, or search and insert directly from
+  **Unsplash** without leaving the editor.
+- **Tables**, with row/column controls that appear as you work in one.
+- **Math**, both inline and block, written in LaTeX and rendered live via
+  KaTeX.
+- A **cover image** for the project itself, set from the project header.
 
 ## Find anything fast
 

@@ -26,6 +26,11 @@ A check-in is meant to take seconds:
 Morning check-ins set the tone; evening check-ins flow naturally into your
 [Reflection](./reflection.md).
 
+Your check-in is saved to your account, so "done for today" follows you across
+devices instead of resetting when you switch browsers. Brand new accounts skip
+the prompt on their very first day — onboarding already covers today's
+intentions, so there's nothing left to redundantly ask.
+
 ## Why a separate, tiny step
 
 Big rituals get skipped on busy days. The check-in exists so that *something*
