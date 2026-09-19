@@ -40,9 +40,30 @@ https://xenith.life/api/v1
 
 ## Rate limits
 
-Each key is limited to **60 requests per minute**. Responses include a
-`remaining` field showing how many requests you have left in the current
-window; going over returns `429` with `{ "error": "rate_limited" }`.
+Each key is limited to **60 requests per minute**, counted in fixed
+one-minute windows. The limit is enforced atomically, so parallel requests
+can't exceed it. Every response from an authenticated request — including
+`429`s — carries these headers:
+
+| Header | Value |
+|---|---|
+| `X-RateLimit-Limit` | Requests allowed per window (`60`) |
+| `X-RateLimit-Remaining` | Requests left in the current window (never below `0`) |
+| `X-RateLimit-Reset` | Unix time (seconds) when the window resets |
+| `Retry-After` | On `429` only: seconds to wait before retrying |
+
+Going over returns `429` with `{ "error": "rate_limited" }`. Wait for
+`Retry-After` seconds (or until `X-RateLimit-Reset`) before retrying. Response
+bodies also include a `remaining` field with the same count as
+`X-RateLimit-Remaining`.
+
+```http
+HTTP/1.1 429 Too Many Requests
+X-RateLimit-Limit: 60
+X-RateLimit-Remaining: 0
+X-RateLimit-Reset: 1790000040
+Retry-After: 23
+```
 
 ## Errors
 

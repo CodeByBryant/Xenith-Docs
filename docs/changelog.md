@@ -17,6 +17,23 @@ Notable changes to Xenith, newest first. We ship improvements often.
 >
 > Check the [status page](https://status.xenith.life) for real-time service health.
 
+## 2.3.3 — September 2026
+
+**Reliability and accuracy fixes.**
+
+- Billing confirmations are now sent exactly once per subscription, even if
+  our payment provider retries or re-sends an event.
+- **API rate limits are now exact and visible.** Every API response carries
+  `X-RateLimit-Limit`, `X-RateLimit-Remaining` and `X-RateLimit-Reset`
+  headers, and `429` responses include `Retry-After`. Parallel requests can
+  no longer slip past the 60-per-minute limit. See the
+  [API reference](./api-reference.md#rate-limits).
+- Onboarding now counts your intentions step as done only once they've
+  actually been saved.
+- The [status page](https://status.xenith.life) now shows "Status Unknown"
+  instead of "All Systems Operational" when its monitoring data is
+  unavailable or out of date.
+
 ## 2.3.2 — September 2026
 
 **A real timeline for Calendar, and a smoother first week.**
