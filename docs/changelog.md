@@ -17,6 +17,38 @@ Notable changes to Xenith, newest first. We ship improvements often.
 >
 > Check the [status page](https://status.xenith.life) for real-time service health.
 
+## 2.3.2 — September 2026
+
+**A real timeline for Calendar, and a smoother first week.**
+
+- **Gantt/Timeline view for Calendar.** Multi-day events and plans now show
+  as spanning bars you can drag to reshape — shorter, single-day items shrink
+  down to quick markers so your daily plan stays legible next to longer
+  efforts. Multi-day spans now sync both ways with Google Calendar and
+  Notion, not just their start day. See
+  [Calendar Sync](./integrations/calendar-sync.md).
+- **Onboarding now shows you around.** A new step previews Routines,
+  Reflection, Calendar, Projects, and Insights before you dive in, so the
+  rest of Xenith isn't something you find by accident.
+- **A proper welcome for Pro members** — a one-time tour pointing you toward
+  Growth Paths and Calendar Sync, shown the first time your account is Pro.
+- **"Start a focus session" now actually starts one.** Onboarding's launch
+  button used to leave you on an idle timer; it begins your first session
+  automatically now. See [Focus](./daily-workflow/focus.md).
+- **Install prompts now work outside Chrome.** iPhone and iPad visitors get
+  real "Add to Home Screen" instructions instead of nothing, and dismissing
+  the install banner now wears off after 30 days instead of hiding it
+  forever.
+- **Reminders, asked for at a better moment.** The push-notification prompt
+  moved out of onboarding to right after you've actually installed Xenith —
+  the only moment on iPhone where turning them on can actually work.
+- Early-supporter accounts now see accurate messaging on the pricing page
+  instead of a prompt to upgrade to something they already have.
+- Fixed dimension ratings occasionally not saving during onboarding.
+- Fixed Calendar sync failing silently when a connected Google account
+  needed to be reconnected — you'll now see a clear reconnect prompt instead.
+- Various reliability improvements to Calendar sync and notifications.
+
 ## 2.3.1 — September 2026
 
 **Repeating intentions, a real editor for Projects, and a smarter Focus timer.**
