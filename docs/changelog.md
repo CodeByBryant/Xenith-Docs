@@ -17,6 +17,26 @@ Notable changes to Xenith, newest first. We ship improvements often.
 >
 > Check the [status page](https://status.xenith.life) for real-time service health.
 
+## 2.3.4 — September 2026
+
+**Bug fixes and a billing cleanup.**
+
+- Removed the 7-day money-back guarantee and the self-serve refund option.
+  Subscriptions are billed in advance and are non-refundable except where
+  required by law — email us with billing questions and we'll take a look.
+- If our email provider is briefly rate-limited during a signup spike,
+  you'll now see a clear status message instead of a raw error when
+  confirming your email or resending the confirmation link.
+- Fixed a homepage error (Safari) caused by malformed structured data.
+- A stray browser extension crashing the sign-in or onboarding page no
+  longer takes down the whole screen — you'll see a "Something went wrong,
+  refresh" message scoped to that page instead.
+- Signup and onboarding-completion requests now retry once on a transient
+  network failure (most common on iOS) instead of failing silently.
+- If your Google Calendar connection needs reconnecting, you'll now get an
+  email about it, and Settings shows a clear "Reconnect" prompt, not just
+  the Calendar page.
+
 ## 2.3.3 — September 2026
 
 **Reliability and accuracy fixes.**
