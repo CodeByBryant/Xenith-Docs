@@ -1,7 +1,7 @@
 ---
 sidebar_position: 2
 title: Onboarding
-description: What happens the first time you open Xenith — choosing your dimensions and setting up your workspace.
+description: What happens the first time you open Xenith — one intention, one Focus session, and a first reflection, before anything else.
 keywords:
   - xenith onboarding
   - set up xenith
@@ -11,54 +11,43 @@ keywords:
 
 # Onboarding
 
-The first time you sign in, Xenith runs a short onboarding so the app reflects
-*your* life rather than a generic template. It takes about two minutes, and you
-can change every choice later.
+The first time you sign in, Xenith walks you through one real Intention →
+Focus → Reflection loop before asking you to configure anything. It takes
+about ten minutes, and every choice you make can be changed later.
 
-## Choose your dimensions
+## The flow
 
-Xenith organizes life into eight **[Life Dimensions](../life-dimensions/overview.md)**.
-You don't have to track all of them — start with the areas that matter most
-right now.
-
-| Dimension | What it covers |
-| --- | --- |
-| **Health** | Biometrics, calories, water, workouts |
-| **Mind** | Gratitude, thought audits, mental clarity |
-| **Work** | Energy & tasks, wins and losses |
-| **Relationships** | The connections you want to nurture |
-| **Finances** | Transactions and money decisions |
-| **Learning** | Books and ideas |
-| **Rest** | Sleep and recharge |
-| **Purpose** | Values and decisions |
-
-> **Start small**
->
-> Pick three or four dimensions to begin with. It's easier to build a habit around
-> a few areas than to spread yourself thin across all eight. You can add more from
-> **Settings** whenever you're ready.
-
-## Set your first intention
-
-Onboarding nudges you to write your first **[Daily Intention](../daily-workflow/daily-intentions.md)** —
-a single, specific thing you want to accomplish. This is the heart of the
-deliberate-living loop, and it's the fastest way to feel what Xenith is for.
-
-## Personalize the basics
-
-You'll also confirm a few preferences:
-
-- **Display name** — how Xenith greets you.
-- **Theme** — Xenith defaults to a calm dark theme; a light theme is available
-  any time from the header.
-- **Notifications** — optionally enable gentle reminders. See
-  [Notifications](../account/notifications.md).
+1. **Your name and timezone.** Timezone matters — it's what every date and
+   reminder in Xenith is based on.
+2. **Pick one goal.** Seven options (get organized, focus better, improve your
+   health, build better routines, make progress on a project, feel more
+   balanced, understand your patterns). Pick whichever fits today — you can
+   pursue any of the others later.
+3. **Set one intention.** A single, specific thing you want to move forward
+   today. This is the heart of the deliberate-living loop.
+4. **Give it 10 minutes.** A short [Focus](../daily-workflow/focus.md) session
+   tied to your intention (15 and 25 minutes are also available). If now
+   isn't the moment, "I'll do this later" skips straight to step 6 — nothing
+   about finishing onboarding depends on this step.
+5. **Reflect.** Three quick questions once your session ends: did it move
+   things forward, how focused did it feel, and what got in the way (if
+   anything). Only shown if you completed a Focus session in step 4.
+6. **Choose which areas to keep in view.** All eight
+   **[Life Dimensions](../life-dimensions/overview.md)** are shown, with three
+   pre-selected based on your goal. Add or remove any of them — this list is
+   never final.
+7. **Your Xenith system.** A one-screen summary of what you just set up, then
+   straight into the app.
 
 ## Changing your setup later
 
 Nothing chosen during onboarding is permanent. Visit
 [Settings](../account/settings.md) to add or remove dimensions, update your
 profile, or adjust notifications at any time.
+
+If you skipped the Focus session during onboarding, your dashboard shows a
+one-time, no-pressure reminder with your intention for the next 24 hours —
+it disappears on its own after that, whether or not you act on it.
 
 ## Next steps
 

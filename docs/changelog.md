@@ -17,6 +17,23 @@ Notable changes to Xenith, newest first. We ship improvements often.
 >
 > Check the [status page](https://status.xenith.life) for real-time service health.
 
+## 2.4.0 — September 2026
+
+**A shorter first ten minutes.**
+
+- **Onboarding now leads with doing, not configuring.** Pick one goal, set
+  one intention, give it 10 minutes in a real Focus session, then a quick
+  3-question reflection — before you're asked to rate or set up all eight
+  Life Dimensions. Skipping the Focus session never blocks you from
+  finishing; your dashboard shows a one-time reminder for the next 24 hours
+  instead.
+- Fixed the bottom-right corner of the app getting crowded on smaller
+  screens — the quick-capture button, install prompts, and notification
+  toasts no longer stack on top of each other. Feedback now opens from the
+  command palette (⌘K) instead of a permanent floating button.
+- Focus session timers now keep accurate time even if your browser tab was
+  backgrounded or throttled, instead of drifting.
+
 ## 2.3.4 — September 2026
 
 **Bug fixes and a billing cleanup.**
