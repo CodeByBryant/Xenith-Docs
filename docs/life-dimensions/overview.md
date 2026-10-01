@@ -2,7 +2,7 @@
 sidebar_position: 1
 slug: /life-dimensions/overview
 title: Life Dimensions Overview
-description: How Xenith organizes life into eight trackable dimensions — Health, Mind, Work, Relationships, Finances, Learning, Rest, and Purpose.
+description: "How Xenith organizes life into eight trackable dimensions: Health, Mind, Work, Relationships, Finances, Learning, Rest, and Purpose."
 keywords:
   - life dimensions
   - life balance app
@@ -37,12 +37,12 @@ know which area you're looking at.
 > **Free vs Pro**
 >
 > The eight-dimension overview and every dimension's score are **free**, always.
-> The tracking tool(s) inside each dimension — the actual logging screens linked
-> from the table above — are part of [Xenith Pro](https://xenith.life/app/pricing).
+> The tracking tool(s) inside each dimension (the actual logging screens linked
+> from the table above) are part of [Xenith Pro](https://xenith.life/app/pricing).
 
 > **Where does Focus fit?**
 >
-> [Focus](../daily-workflow/focus.md) — deep, intentional work — is a core part of
+> [Focus](../daily-workflow/focus.md) (deep, intentional work) is a core part of
 > your day, but it's a standalone feature rather than one of the eight dimensions.
 > You'll find it in the [Daily Workflow](../daily-workflow/focus.md).
 
@@ -51,9 +51,9 @@ know which area you're looking at.
 1. **Pick your dimensions.** During [onboarding](../getting-started/onboarding.md)
    you choose which areas matter to you right now. Add or remove them any time
    from [Settings](../account/settings.md).
-2. **Log what's meaningful.** Each dimension has dedicated tools — these are part
+2. **Log what's meaningful.** Each dimension has dedicated tools, which are part
    of [Xenith Pro](https://xenith.life/app/pricing). Add entries at whatever
-   cadence fits — daily, weekly, or only when something changes.
+   cadence fits: daily, weekly, or only when something changes.
 3. **Reflect.** Each dimension surfaces gentle insights so you can see patterns
    without being judged.
 
@@ -61,7 +61,7 @@ know which area you're looking at.
 
 Each dimension reflects a **score** based on the recency and frequency of what
 you've logged there. Log consistently and a dimension stays strong; neglect it
-and the score gradually eases down — a quiet signal, not a scolding.
+and the score gradually eases down. It's a quiet signal, not a scolding.
 
 The [Insights dashboard](../growth-and-insights/insights.md) plots all your
 dimensions together on a balance chart. One glance shows which areas are strong
@@ -70,12 +70,12 @@ and which need attention, without reading a report.
 > **No streaks**
 >
 > Like everything in Xenith, dimensions show **trends and history**, never streaks.
-> The aim is broad balance over time — not a perfect record in any single area.
+> The aim is broad balance over time, not a perfect record in any single area.
 
 ## The framework behind it
 
 Xenith's dimensions draw on the Wheel of Life coaching framework, positive
-psychology research on wellbeing, and the idea that energy — not just time — needs
+psychology research on wellbeing, and the idea that energy, not just time, needs
 to be managed across every domain of a full life.
 
 ## Explore each dimension

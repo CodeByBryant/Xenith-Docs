@@ -1,7 +1,7 @@
 ---
 sidebar_position: 7
 title: FAQ
-description: Frequently asked questions about Xenith — pricing, privacy, platforms, AI, streaks, and how the app works.
+description: "Frequently asked questions about Xenith: pricing, privacy, platforms, AI, streaks, and how the app works."
 keywords:
   - xenith faq
   - is xenith free
@@ -14,7 +14,7 @@ keywords:
 
 ## Is Xenith free?
 
-Yes — Xenith is **free to start**: no credit card and no trial countdown. The
+Yes. Xenith is **free to start**: no credit card and no trial countdown. The
 free plan is real and complete, not a demo:
 
 - Daily [Intentions](./daily-workflow/daily-intentions.md), the
@@ -29,20 +29,20 @@ free plan is real and complete, not a demo:
 **Xenith Pro** ($7.99/mo, or $66.99/yr) unlocks the tracking tool inside every
 Life Dimension:
 
-- [Health](./life-dimensions/health.md) — Biometrics, Calories, Water, Workouts
-- [Mind](./life-dimensions/mind.md) — Daily Gratitude, Thought Audit
-- [Work](./life-dimensions/work.md) — Energy & Tasks, Wins & Losses
-- [Relationships](./life-dimensions/relationships.md) — Connections
-- [Finances](./life-dimensions/finances.md) — Transactions
-- [Learning](./life-dimensions/learning.md) — Books
-- [Rest](./life-dimensions/rest.md) — Sleep, Recharge
-- [Purpose](./life-dimensions/purpose.md) — Values, Decisions
+- [Health](./life-dimensions/health.md): Biometrics, Calories, Water, Workouts
+- [Mind](./life-dimensions/mind.md): Daily Gratitude, Thought Audit
+- [Work](./life-dimensions/work.md): Energy & Tasks, Wins & Losses
+- [Relationships](./life-dimensions/relationships.md): Connections
+- [Finances](./life-dimensions/finances.md): Transactions
+- [Learning](./life-dimensions/learning.md): Books
+- [Rest](./life-dimensions/rest.md): Sleep, Recharge
+- [Purpose](./life-dimensions/purpose.md): Values, Decisions
 
-— plus [Growth Paths and Coach](./growth-and-insights/coach.md),
+Pro also includes [Growth Paths and Coach](./growth-and-insights/coach.md),
 [Calendar Sync](./integrations/calendar-sync.md) with Google Calendar and
 Notion, every Focus soundscape, unlimited
 [projects](./growth-and-insights/projects.md), and priority support. Each dimension's **score** and its place on the 8-point
-overview stay free regardless of plan — Pro unlocks the logging tools behind
+overview stay free regardless of plan. Pro unlocks the logging tools behind
 them. Pro-only screens show a preview with an "Unlock with Pro" prompt rather
 than hiding completely, so you always know what you're missing. Upgrade
 anytime from Settings or at [xenith.life/app/pricing](https://xenith.life/app/pricing);
@@ -52,7 +52,7 @@ started.
 
 ## What makes Xenith different from other productivity apps?
 
-Most apps optimize for *activity* — more tasks, longer streaks, more
+Most apps optimize for *activity*: more tasks, longer streaks, more
 notifications. Xenith optimizes for *intention*. It brings the eight
 [Life Dimensions](./life-dimensions/overview.md) that matter into one calm
 workspace and helps you make steady, considered progress. There's no streak to
@@ -60,7 +60,7 @@ protect and no vanity metric to chase.
 
 ## Does Xenith have streaks?
 
-No — by design. Xenith deliberately has **no streak counters** anywhere. You'll
+No, by design. Xenith deliberately has **no streak counters** anywhere. You'll
 see your history and trends, but never a number daring you not to break it.
 Progress here is about direction, not perfect attendance.
 
@@ -96,7 +96,7 @@ than spread thin across all eight.
 
 ## Is Xenith for teams?
 
-No — Xenith is built for **individuals**. [Projects](./growth-and-insights/projects.md)
+No. Xenith is built for **individuals**. [Projects](./growth-and-insights/projects.md)
 is a personal workspace, not a team tool. There's no sharing or collaboration, and
 that's intentional.
 

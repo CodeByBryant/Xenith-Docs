@@ -24,7 +24,7 @@ gather are worth more when you actually keep track of them.
 ## Tool
 
 ### Books
-Maintain your reading life in one place — what you're reading now, what you've
+Maintain your reading life in one place: what you're reading now, what you've
 finished, and what you want to pick up next.
 
 Use it to:
@@ -35,7 +35,7 @@ Use it to:
 
 ## Learning as a deliberate habit
 
-Reading rarely fails from lack of interest — it fails from lack of intention.
+Reading rarely fails from lack of interest. It fails from lack of intention.
 Logging your books turns "I should read more" into something visible and
 trackable. Pair a reading session with [Focus](../daily-workflow/focus.md) when
 you want to give a chapter your full attention, and capture the ideas worth
@@ -43,10 +43,10 @@ keeping in your [Inbox](../getting-started/the-interface.md#the-inbox).
 
 > **Tip**
 >
-> For long-term skills beyond reading — courses, practice, craft — pair Learning
+> For long-term skills beyond reading (courses, practice, craft), pair Learning
 > with an AI-generated [Growth path](../growth-and-insights/growth.md).
 
 ## Related
 
-- [Growth](../growth-and-insights/growth.md) — turn learning goals into steps.
+- [Growth](../growth-and-insights/growth.md): turn learning goals into steps.
 - [Life Dimensions overview](./overview.md)

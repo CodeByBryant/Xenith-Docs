@@ -12,15 +12,15 @@ keywords:
 # Daily Check-in
 
 The Daily Check-in is the lightweight pulse that bookends your day. It's the
-fastest possible way to stay in touch with how you're doing — no writing
+fastest possible way to stay in touch with how you're doing, with no writing
 required.
 
 ## What it captures
 
 A check-in is meant to take seconds:
 
-- **A mood / energy reading** — a quick scale, not an essay.
-- **A nudge toward today's focus** — a gentle prompt to set or review your
+- **A mood / energy reading:** a quick scale, not an essay.
+- **A nudge toward today's focus:** a gentle prompt to set or review your
   [intentions](./daily-intentions.md).
 
 Morning check-ins set the tone; evening check-ins flow naturally into your
@@ -28,7 +28,7 @@ Morning check-ins set the tone; evening check-ins flow naturally into your
 
 Your check-in is saved to your account, so "done for today" follows you across
 devices instead of resetting when you switch browsers. Brand new accounts skip
-the prompt on their very first day — onboarding already covers today's
+the prompt on their very first day, since onboarding already covers today's
 intentions, so there's nothing left to redundantly ask.
 
 ## Why a separate, tiny step
@@ -40,7 +40,7 @@ Those small, consistent data points are what make your
 
 > **Make it frictionless**
 >
-> Treat the check-in as a two-tap habit. The value isn't in any single entry — it's
+> Treat the check-in as a two-tap habit. The value isn't in any single entry. It's
 > in the unbroken thread of small signals you can look back on.
 
 ## Next steps

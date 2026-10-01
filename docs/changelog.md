@@ -1,7 +1,7 @@
 ---
 sidebar_position: 8
 title: Changelog
-description: What's new in Xenith — notable features, improvements, and fixes, newest first.
+description: "What's new in Xenith: notable features, improvements, and fixes, newest first."
 keywords:
   - xenith changelog
   - xenith updates
@@ -17,36 +17,36 @@ Notable changes to Xenith, newest first. We ship improvements often.
 >
 > Check the [status page](https://status.xenith.life) for real-time service health.
 
-## 2.4.0 — September 2026
+## 2.4.0 (September 2026)
 
 **A shorter first ten minutes.**
 
 - **Onboarding now leads with doing, not configuring.** Pick one goal, set
   one intention, give it 10 minutes in a real Focus session, then a quick
-  3-question reflection — before you're asked to rate or set up all eight
+  3-question reflection, before you're asked to rate or set up all eight
   Life Dimensions. Skipping the Focus session never blocks you from
   finishing; your dashboard shows a one-time reminder for the next 24 hours
   instead.
 - Fixed the bottom-right corner of the app getting crowded on smaller
-  screens — the quick-capture button, install prompts, and notification
+  screens. The quick-capture button, install prompts, and notification
   toasts no longer stack on top of each other. Feedback now opens from the
   command palette (⌘K) instead of a permanent floating button.
 - Focus session timers now keep accurate time even if your browser tab was
   backgrounded or throttled, instead of drifting.
 
-## 2.3.4 — September 2026
+## 2.3.4 (September 2026)
 
 **Bug fixes and a billing cleanup.**
 
 - Removed the 7-day money-back guarantee and the self-serve refund option.
   Subscriptions are billed in advance and are non-refundable except where
-  required by law — email us with billing questions and we'll take a look.
+  required by law. Email us with billing questions and we'll take a look.
 - If our email provider is briefly rate-limited during a signup spike,
   you'll now see a clear status message instead of a raw error when
   confirming your email or resending the confirmation link.
 - Fixed a homepage error (Safari) caused by malformed structured data.
 - A stray browser extension crashing the sign-in or onboarding page no
-  longer takes down the whole screen — you'll see a "Something went wrong,
+  longer takes down the whole screen. You'll see a "Something went wrong,
   refresh" message scoped to that page instead.
 - Signup and onboarding-completion requests now retry once on a transient
   network failure (most common on iOS) instead of failing silently.
@@ -54,7 +54,7 @@ Notable changes to Xenith, newest first. We ship improvements often.
   email about it, and Settings shows a clear "Reconnect" prompt, not just
   the Calendar page.
 
-## 2.3.3 — September 2026
+## 2.3.3 (September 2026)
 
 **Reliability and accuracy fixes.**
 
@@ -71,21 +71,21 @@ Notable changes to Xenith, newest first. We ship improvements often.
   instead of "All Systems Operational" when its monitoring data is
   unavailable or out of date.
 
-## 2.3.2 — September 2026
+## 2.3.2 (September 2026)
 
 **A real timeline for Calendar, and a smoother first week.**
 
 - **Gantt/Timeline view for Calendar.** Multi-day events and plans now show
-  as spanning bars you can drag to reshape — shorter, single-day items shrink
-  down to quick markers so your daily plan stays legible next to longer
+  as spanning bars you can drag to reshape, while shorter, single-day items
+  shrink down to quick markers so your daily plan stays legible next to longer
   efforts. Multi-day spans now sync both ways with Google Calendar and
   Notion, not just their start day. See
   [Calendar Sync](./integrations/calendar-sync.md).
 - **Onboarding now shows you around.** A new step previews Routines,
   Reflection, Calendar, Projects, and Insights before you dive in, so the
   rest of Xenith isn't something you find by accident.
-- **A proper welcome for Pro members** — a one-time tour pointing you toward
-  Growth Paths and Calendar Sync, shown the first time your account is Pro.
+- **A proper welcome for Pro members.** A one-time tour points you toward
+  Growth Paths and Calendar Sync the first time your account is Pro.
 - **"Start a focus session" now actually starts one.** Onboarding's launch
   button used to leave you on an idle timer; it begins your first session
   automatically now. See [Focus](./daily-workflow/focus.md).
@@ -94,21 +94,21 @@ Notable changes to Xenith, newest first. We ship improvements often.
   the install banner now wears off after 30 days instead of hiding it
   forever.
 - **Reminders, asked for at a better moment.** The push-notification prompt
-  moved out of onboarding to right after you've actually installed Xenith —
+  moved out of onboarding to right after you've actually installed Xenith,
   the only moment on iPhone where turning them on can actually work.
 - Early-supporter accounts now see accurate messaging on the pricing page
   instead of a prompt to upgrade to something they already have.
 - Fixed dimension ratings occasionally not saving during onboarding.
 - Fixed Calendar sync failing silently when a connected Google account
-  needed to be reconnected — you'll now see a clear reconnect prompt instead.
+  needed to be reconnected. You'll now see a clear reconnect prompt instead.
 - Various reliability improvements to Calendar sync and notifications.
 
-## 2.3.1 — September 2026
+## 2.3.1 (September 2026)
 
 **Repeating intentions, a real editor for Projects, and a smarter Focus timer.**
 
 - **Repeating intentions.** Set an intention once on a weekly or monthly
-  schedule instead of retyping it every day — each occurrence still gets its
+  schedule instead of retyping it every day. Each occurrence still gets its
   own review. See [Daily Intentions](./daily-workflow/daily-intentions.md#repeating-intentions).
 - **Focus timer task linking.** Point a session at one of today's intentions
   from the setup screen; its title stays visible for the whole session. See
@@ -117,9 +117,9 @@ Notable changes to Xenith, newest first. We ship improvements often.
   image upload (from your device or searched directly from Unsplash), basic
   tables, inline/block math via KaTeX, and a project cover image. See
   [Projects](./growth-and-insights/projects.md).
-- **Daily check-in now follows your account**, not just your browser — "done
-  for today" stays consistent across devices, and brand new accounts skip the
-  redundant prompt right after onboarding. See
+- **Daily check-in now follows your account**, not just your browser, so
+  "done for today" stays consistent across devices. Brand new accounts also
+  skip the redundant prompt right after onboarding. See
   [Daily Check-in](./daily-workflow/daily-check-in.md).
 - **Calendar Sync (Google Calendar & Notion) is now part of Xenith Pro.** The
   Calendar itself, and everything else it does, stays free. See
@@ -129,26 +129,26 @@ Notable changes to Xenith, newest first. We ship improvements often.
   events, along with a handful of smaller Calendar display and sign-in error
   message bugs.
 
-## 2.3.0 — August 2026
+## 2.3.0 (August 2026)
 
 **Pro is here.**
 
-- **Xenith Pro.** A paid plan alongside the free plan: every Life Dimension's
-  tracking tool — Biometrics/Calories/Water/Workouts (Health), Daily
+- **Xenith Pro.** A paid plan alongside the free plan. It includes every Life
+  Dimension's tracking tool: Biometrics/Calories/Water/Workouts (Health), Daily
   Gratitude/Thought Audit (Mind), Energy & Tasks/Wins & Losses (Work),
   Connections (Relationships), Transactions (Finances), Books (Learning),
-  Sleep/Recharge (Rest), and Values/Decisions (Purpose) — plus
+  Sleep/Recharge (Rest), and Values/Decisions (Purpose). It also adds
   [AI Coach and Growth Paths](./growth-and-insights/coach.md), every Focus
   soundscape, unlimited [Projects](./growth-and-insights/projects.md), and
   priority support. Each dimension's score and the 8-point overview stay free
-  regardless of plan. The free plan stays real and complete — daily
+  regardless of plan. The free plan stays real and complete: daily
   intentions, Focus timer, reflection, routines, the Life Dimensions
   overview, Insights, and one project, forever. See the
   [FAQ](./faq.md#is-xenith-free) for the full breakdown and
   [xenith.life/app/pricing](https://xenith.life/app/pricing) to compare
   plans or upgrade.
 - **Billing by Stripe.** Subscriptions are billed and managed through
-  Stripe's hosted checkout and billing portal — Xenith never sees or stores
+  Stripe's hosted checkout and billing portal, so Xenith never sees or stores
   your card details. Cancel anytime from Settings; new subscriptions include
   a 7-day money-back guarantee, self-serve from Settings.
 - **Cookie consent.** A first-visit banner now lets you accept or reject
@@ -158,79 +158,79 @@ Notable changes to Xenith, newest first. We ship improvements often.
 - Fixed a layout issue where nutrition macro tags and finance category
   labels could overflow their card on narrow screens.
 
-## 2.2.0 — July 2026
+## 2.2.0 (July 2026)
 
 **Bring your own calendar, and build on top of Xenith.**
 
 - **Two-way Calendar sync (Google Calendar & Notion).** Connect from the
   Calendar page or Settings. Events you create or edit in Xenith push to the
-  connected provider, and events from the provider pull into Xenith —
-  automatically when you open the Calendar, on demand with "Sync now", and
-  daily in the background as a backstop. See [Calendar Sync](./integrations/calendar-sync.md).
+  connected provider, and events from the provider pull into Xenith.
+  Sync runs automatically when you open the Calendar, on demand with "Sync
+  now", and daily in the background as a backstop. See [Calendar Sync](./integrations/calendar-sync.md).
 - **Public API (v1).** Issue an API key in Settings and read/write your
   intentions, focus sessions, and dimension scores from your own scripts and
   tools. See the [API Reference](./api-reference.md).
 
-## 2.1.0 — July 2026
+## 2.1.0 (July 2026)
 
-**Out of beta — and your data is truly yours.**
+**Out of beta, and your data is truly yours.**
 
-- **Xenith is out of beta.** Same calm, no-streaks app you've been using — now on
+- **Xenith is out of beta.** Same calm, no-streaks app you've been using, now on
   its stable 2.x release line.
 - **Delete account now means delete.** Removing your account permanently and
-  immediately erases all of your data — every entry, across every dimension —
+  immediately erases all of your data (every entry, across every dimension),
   and there's no way to recover it. Your data is yours; when you leave, it's gone
   for good. See [Privacy & Data](./account/privacy-and-data.md).
 - Fixed a handful of display and loading glitches, including profile avatars and
   in-app analytics.
 - Behind-the-scenes security and reliability improvements.
 
-## 1.5.0 — June 2026
+## 1.5.0 (June 2026)
 
 **Focus, refined.**
 
-- **New and improved soundscapes** — added Rain & Thunder, plus a gentle fade-in
+- **New and improved soundscapes.** Added Rain & Thunder, plus a gentle fade-in
   for Lo-fi. White and brown noise are generated locally so they start instantly
   and work offline.
-- **Custom session durations** — set any length alongside the presets.
+- **Custom session durations.** Set any length alongside the presets.
 - **Full-screen Focus mode** and a **session goal** field, so you can name what
   you're working on and give it your whole attention.
 - **Volume control** inside the timer, plus a quiet fallback to generated noise if
   a track can't load.
 - Soundscapes now stream from a dedicated CDN for faster, more reliable playback.
 
-## 1.4.0 — May 2026
+## 1.4.0 (May 2026)
 
 **Meet your AI growth tools.**
 
-- **Growth Paths** — describe a long-term goal and Xenith generates a structured,
+- **Growth Paths.** Describe a long-term goal and Xenith generates a structured,
   step-by-step path you can work through at your own pace.
-- **Coach** — a built-in AI sounding board for thinking through decisions, stuck
+- **Coach.** A built-in AI sounding board for thinking through decisions, stuck
   projects, and goals, grounded in Xenith's deliberate-living approach.
 - Reaffirmed our commitment: your private entries are never used to train AI
   models. See [Privacy & Data](./account/privacy-and-data.md).
 
-## 1.3.0 — April 2026
+## 1.3.0 (April 2026)
 
 **Gentle reminders, never nagging.**
 
-- **Push notifications** — opt in to quiet nudges for intentions, routines, and
+- **Push notifications.** Opt in to quiet nudges for intentions, routines, and
   reflection. No streak-loss warnings, ever.
 - **Install to home screen** on mobile for an app-like experience with
   notifications.
 - Reliability and error-monitoring improvements behind the scenes.
 
-## 1.2.0 — March 2026
+## 1.2.0 (March 2026)
 
 **See the bigger picture.**
 
-- **Insights dashboard** — focus trends, intentions completion, mood and energy,
+- **Insights dashboard.** Focus trends, intentions completion, mood and energy,
   and an at-a-glance [life-balance view](./growth-and-insights/insights.md) across
   your dimensions.
-- **Calendar** — a time-based view of your activity and plans.
-- **Inbox & Quick Capture** — jot a thought from anywhere and process it later.
+- **Calendar.** A time-based view of your activity and plans.
+- **Inbox & Quick Capture.** Jot a thought from anywhere and process it later.
 
-## 1.1.0 — February 2026
+## 1.1.0 (February 2026)
 
 **Deeper dimension tools.**
 
@@ -243,7 +243,7 @@ Notable changes to Xenith, newest first. We ship improvements often.
   **Learning** (Books), **Rest** (Sleep, Recharge), and **Purpose** (Values,
   Decisions).
 
-## 1.0.0 — January 2026
+## 1.0.0 (January 2026)
 
 **Public beta launch.**
 
@@ -253,6 +253,6 @@ Notable changes to Xenith, newest first. We ship improvements often.
   [Reflection](./daily-workflow/reflection.md).
 - The [Focus](./daily-workflow/focus.md) timer with ambient audio.
 - A distraction-free [Projects](./growth-and-insights/projects.md) workspace.
-- Secure sign-in — email and password, Google, or Microsoft — and a calm,
+- Secure sign-in (email and password, Google, or Microsoft) and a calm,
   dark-by-default interface.
-- And, on principle: **no streaks** — anywhere.
+- And, on principle: **no streaks**, anywhere.

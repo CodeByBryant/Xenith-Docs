@@ -1,7 +1,7 @@
 ---
 sidebar_position: 3
 title: Privacy & Data
-description: How Xenith stores, uses, and protects your data — and the promise that your private entries are never used to train AI.
+description: How Xenith stores, uses, and protects your data, and the promise that your private entries are never used to train AI.
 keywords:
   - app privacy
   - data protection
@@ -12,7 +12,7 @@ keywords:
 
 # Privacy & Data
 
-Xenith asks you to record some of the most personal things in your life — your
+Xenith asks you to record some of the most personal things in your life: your
 reflections, your gratitude, your decisions. That only works if you trust how it's
 handled. Here's the plain-language version.
 
@@ -28,7 +28,7 @@ handled. Here's the plain-language version.
 - Your journal, reflections, gratitude logs, and thought audits are **private to
   your account**.
 - Xenith does **not** sell your data.
-- Your private content is **never used to train AI models** — not ours, not anyone
+- Your private content is **never used to train AI models**, not ours and not anyone
   else's.
 
 ## Where your data lives
@@ -39,8 +39,8 @@ own authenticated account.
 
 ## How AI features use your data
 
-Some features — [Growth paths](../growth-and-insights/growth.md) and
-[Coach](../growth-and-insights/coach.md) — send the specific text you provide
+Some features ([Growth paths](../growth-and-insights/growth.md) and
+[Coach](../growth-and-insights/coach.md)) send the specific text you provide
 (for example, the goal you describe or the message you send the coach) to an AI
 provider to generate a response. Only the content needed for that feature is sent,
 and it is **not** used to train models. Features that don't use AI never send your

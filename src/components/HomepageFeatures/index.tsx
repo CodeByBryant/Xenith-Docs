@@ -63,7 +63,7 @@ const FeatureList: FeatureItem[] = [
     title: 'Daily Workflow',
     to: '/daily-workflow/daily-intentions',
     icon: Icon.sun,
-    description: <>Intentions, Focus sessions, routines, and end-of-day reflection — the rhythm of a deliberate day.</>,
+    description: <>Intentions, Focus sessions, routines, and end-of-day reflection: the rhythm of a deliberate day.</>,
   },
   {
     title: 'Life Dimensions',

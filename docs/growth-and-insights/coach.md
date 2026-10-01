@@ -1,7 +1,7 @@
 ---
 sidebar_position: 2
 title: Coach
-description: Your AI coach in Xenith — a thoughtful sounding board grounded in your goals and dimensions.
+description: "Your AI coach in Xenith: a thoughtful sounding board grounded in your goals and dimensions."
 keywords:
   - AI life coach
   - AI productivity coach
@@ -11,7 +11,7 @@ keywords:
 
 # Coach
 
-**Coach** is your built-in AI sounding board — there when you want to think
+**Coach** is your built-in AI sounding board, there when you want to think
 something through, get unstuck, or turn a vague feeling into a clear next step.
 
 > **Pro feature**
@@ -33,7 +33,7 @@ something through, get unstuck, or turn a vague feeling into a clear next step.
 ## How to use it
 
 Open **Coach** from the sidebar (**/app/coach**) and start a conversation. Speak
-plainly — Coach responds in context, oriented around the deliberate-living ideas
+plainly. Coach responds in context, oriented around the deliberate-living ideas
 Xenith is built on: direction over speed, balance over burnout, intention over
 autopilot.
 

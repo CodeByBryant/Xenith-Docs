@@ -13,7 +13,7 @@ keywords:
 # Projects
 
 **Projects** is a calm, distraction-free workspace for the bigger efforts in your
-life — side ventures, creative work, personal research. It's built for *you*, not
+life: side ventures, creative work, personal research. It's built for *you*, not
 a team: no sharing, no comment threads, no notifications pile.
 
 > **Free vs Pro**
@@ -25,7 +25,7 @@ a team: no sharing, no comment threads, no notifications pile.
 
 - **Projects** act as folders for related work.
 - **Pages** live inside a project. Each page is a full document with a rich text
-  editor — headings, bold and italic, bulleted and numbered lists, checklists,
+  editor with headings, bold and italic, bulleted and numbered lists, checklists,
   and more.
 
 Use pages to separate a project into phases, documents, or topics without mixing
@@ -38,7 +38,7 @@ notes, and plans without leaving Xenith. Type to format inline, and structure
 longer pieces with headings and lists. Beyond the basics, pages also support:
 
 - **Font family and text alignment** controls in the toolbar.
-- **Images** — upload from your device, or search and insert directly from
+- **Images:** upload from your device, or search and insert directly from
   **Unsplash** without leaving the editor.
 - **Tables**, with row/column controls that appear as you work in one.
 - **Math**, both inline and block, written in LaTeX and rendered live via
@@ -49,7 +49,7 @@ longer pieces with headings and lists. Beyond the basics, pages also support:
 
 Press <kbd>Ctrl</kbd> + <kbd>K</kbd> (or <kbd>Cmd</kbd> + <kbd>K</kbd>) to open
 the [command palette](../getting-started/the-interface.md#command-palette) and
-jump straight to any project or page by name — no clicking through folders.
+jump straight to any project or page by name, with no clicking through folders.
 
 ## Connect projects to your day
 
@@ -62,7 +62,7 @@ jump straight to any project or page by name — no clicking through folders.
 > **Built for individuals**
 >
 > Projects is designed for solo work. If you're looking for team project
-> management with assignees and shared boards, Xenith intentionally isn't that — it's
+> management with assignees and shared boards, Xenith intentionally isn't that. It's
 > a personal workspace.
 
 ## Related

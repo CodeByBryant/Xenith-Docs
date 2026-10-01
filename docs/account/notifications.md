@@ -11,14 +11,14 @@ keywords:
 
 # Notifications
 
-Xenith can send **gentle reminders** to help you keep your rhythm — a nudge to set
+Xenith can send **gentle reminders** to help you keep your rhythm: a nudge to set
 your intentions, run a routine, or close the day with a reflection. They're
 optional, quiet, and entirely under your control.
 
 ## Enabling notifications
 
 1. Go to [Settings](./settings.md) and open the notifications section.
-2. Turn notifications **on**. Your browser will ask for permission — accept it to
+2. Turn notifications **on**. Your browser will ask for permission. Accept it to
    allow Xenith to send push notifications.
 3. That's it. You can fine-tune or disable them any time.
 
@@ -38,7 +38,7 @@ notifications like any other app.
 ## The Xenith philosophy on notifications
 
 Most apps use notifications to pull you back in. Xenith uses them sparingly, to
-support a habit *you* chose — never to manufacture urgency. There are no
+support a habit *you* chose, never to manufacture urgency. There are no
 streak-loss warnings and no guilt-trip badges. If a reminder ever feels like
 noise, turn it off; the app works perfectly without it.
 

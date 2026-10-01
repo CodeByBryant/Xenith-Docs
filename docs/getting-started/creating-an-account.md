@@ -11,7 +11,7 @@ keywords:
 
 # Creating an Account
 
-Getting into Xenith takes about a minute, and it's **free to start** — no
+Getting into Xenith takes about a minute, and it's **free to start**, with no
 credit card and no trial timer.
 
 ## Ways to sign in
@@ -22,31 +22,31 @@ Xenith gives you three ways in:
 - **Continue with Microsoft**
 - **Email and password**
 
-Pick whichever you prefer — they all lead to the same account as long as you use
+Pick whichever you prefer. They all lead to the same account as long as you use
 the same email address.
 
 ## Creating an account with email
 
 1. Go to [xenith.life](https://xenith.life) and choose **Create account**.
 2. Enter your email and a **strong password**. Xenith requires at least 12
-   characters with a mix of uppercase, lowercase, a number, and a symbol — the
+   characters with a mix of uppercase, lowercase, a number, and a symbol. The
    strength meter shows you what's still needed.
 3. Accept the **Privacy Policy** and **Terms of Service**, and complete the quick
    **security check**.
-4. We'll email you a **confirmation link** — click it to activate your account.
+4. We'll email you a **confirmation link**. Click it to activate your account.
    New accounts then go straight into [onboarding](./onboarding.md).
 
 > **Why the strong-password rules**
 >
 > Your entries can be personal, so Xenith holds account security to a high bar.
-> The requirements exist to keep weak, easily-guessed passwords out — not to make
+> The requirements exist to keep weak, easily-guessed passwords out, not to make
 > your life hard.
 
 ## Creating an account with Google or Microsoft
 
 Prefer not to manage another password? Choose **Continue with Google** or
 **Continue with Microsoft**. You'll authenticate with that provider and land
-directly in onboarding — no separate Xenith password needed.
+directly in onboarding, with no separate Xenith password needed.
 
 ## Email addresses
 
@@ -58,11 +58,11 @@ see a "please use a permanent email address" message, switch to your real inbox.
 
 Returning users select **Sign in** and use the same method they signed up with:
 
-- **Email and password** — your usual credentials.
-- **Magic link** — choose "Sign in with magic link instead" and we'll email you a
+- **Email and password:** your usual credentials.
+- **Magic link:** choose "Sign in with magic link instead" and we'll email you a
   one-time link. (Magic links sign in *existing* accounts; to create a new
   account, use a password or an OAuth provider first.)
-- **Google** or **Microsoft** — one tap.
+- **Google** or **Microsoft:** one tap.
 
 > **Forgot your password?**
 >
@@ -73,7 +73,7 @@ Returning users select **Sign in** and use the same method they signed up with:
 
 Every account, free or Pro, gets:
 
-- The core daily loop — [Daily Intentions](../daily-workflow/daily-intentions.md),
+- The core daily loop: [Daily Intentions](../daily-workflow/daily-intentions.md),
   [Routines](../daily-workflow/routines.md),
   [Reflection](../daily-workflow/reflection.md), and the
   [Focus](../daily-workflow/focus.md) timer.
@@ -87,7 +87,7 @@ Every account, free or Pro, gets:
 **Xenith Pro** ($7.99/mo or $66.99/yr) additionally unlocks every Life
 Dimension's tracking tool (nutrition, workouts, sleep, finances, and more),
 [Growth Paths and Coach](../growth-and-insights/coach.md), every Focus
-soundscape, unlimited projects, and priority support — see the
+soundscape, unlimited projects, and priority support. See the
 [FAQ](../faq.md#is-xenith-free) for the full comparison. You can start free
 and upgrade anytime from Settings; nothing here requires a card up front.
 

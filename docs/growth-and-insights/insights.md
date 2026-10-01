@@ -12,8 +12,8 @@ keywords:
 
 # Insights
 
-The **Insights** dashboard pulls data from across Xenith — Focus sessions,
-intentions, reflections, dimension activity — into one view. It's built to show
+The **Insights** dashboard pulls data from across Xenith (Focus sessions,
+intentions, reflections, dimension activity) into one view. It's built to show
 you **trends**, not just today's numbers.
 
 ## What you'll see
@@ -29,13 +29,13 @@ mean you're aiming too low. The pattern tells you more than any single day.
 
 ### Mood and energy
 If you log mood in the morning and energy in the evening, Insights shows how they
-move across the week — surfacing the days you consistently feel worse so you can
+move across the week, surfacing the days you consistently feel worse so you can
 adjust.
 
 ### Life balance
 A combined view of all your active [Life Dimensions](../life-dimensions/overview.md)
 at once. In a single glance you can see which areas are strong and which are
-fading — the fastest way to catch a neglected dimension before it becomes a
+fading. It's the fastest way to catch a neglected dimension before it becomes a
 problem.
 
 ## Trends over snapshots
@@ -43,13 +43,13 @@ problem.
 > **No streaks, no guilt**
 >
 > Insights deliberately emphasizes **direction over perfection**. There are no
-> streaks to protect and no red marks for an off day — just an honest picture of how
+> streaks to protect and no red marks for an off day, just an honest picture of how
 > things are trending so you can make a calm, informed adjustment.
 
 ## You only see what you use
 
 Insights reflects the features you actually use. If you only log Focus sessions
-and intentions, you'll see those charts — not empty placeholders for tools you've
+and intentions, you'll see those charts, not empty placeholders for tools you've
 never touched.
 
 ## Related

@@ -51,10 +51,10 @@ Spotted an error or something unclear? Use the **Edit this page** link on any
 docs page, or open an issue. See [CONTRIBUTING.md](CONTRIBUTING.md) for local
 setup and writing guidelines, and [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
 
-Security issues should be reported privately — see [SECURITY.md](SECURITY.md).
+Security issues should be reported privately. See [SECURITY.md](SECURITY.md).
 
 ## License
 
-This repository is **source-available but proprietary** — © 2026 Xenith, all
+This repository is **source-available but proprietary**. © 2026 Xenith, all
 rights reserved. You may read it and suggest changes, but reuse requires
 permission. See [LICENSE](LICENSE) for the full terms.

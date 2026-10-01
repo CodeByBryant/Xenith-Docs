@@ -1,7 +1,7 @@
 ---
 sidebar_position: 8
 title: Rest
-description: Track sleep and recharge activities in Xenith's Rest dimension — because recovery is part of the work.
+description: Track sleep and recharge activities in Xenith's Rest dimension, because recovery is part of the work.
 keywords:
   - sleep tracker
   - rest and recovery app
@@ -29,7 +29,7 @@ feel and perform. Even a simple record makes the connection between short nights
 and rough days impossible to ignore.
 
 ### Recharge
-Track the deliberate recovery activities that refill you — walks, downtime,
+Track the deliberate recovery activities that refill you: walks, downtime,
 hobbies, time outdoors, whatever genuinely restores you. Recharge isn't wasted
 time; it's what makes the focused time possible.
 
@@ -41,10 +41,10 @@ than only when you've run out of road.
 
 > **Note**
 >
-> Sleep lives here in **Rest**, not Health — a deliberate choice. It keeps recovery
+> Sleep lives here in **Rest**, not Health, and that's a deliberate choice. It keeps recovery
 > from being buried under fitness metrics and gives it the standing it deserves.
 
 ## Related
 
-- [Health](./health.md) — the active, input side of the body.
+- [Health](./health.md): the active, input side of the body.
 - [Life Dimensions overview](./overview.md)

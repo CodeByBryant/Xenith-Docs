@@ -12,13 +12,13 @@ keywords:
 # Settings
 
 Everything about how Xenith works for you lives in **Settings**
-(**/app/settings**). Nothing you chose during onboarding is permanent — this is
+(**/app/settings**). Nothing you chose during onboarding is permanent. This is
 where you adjust it.
 
 ## Profile
 
-Update your **display name** and the basics of your account. How you sign in —
-email and password, Google, or Microsoft — is covered in
+Update your **display name** and the basics of your account. How you sign in
+(email and password, Google, or Microsoft) is covered in
 [Creating an Account](../getting-started/creating-an-account.md).
 
 ## Active dimensions
@@ -36,7 +36,7 @@ office monitor.
 ## Notifications
 
 Enable or disable gentle reminders and manage push notifications. This has its own
-guide — see [Notifications](./notifications.md).
+guide: [Notifications](./notifications.md).
 
 ## Your data
 
@@ -46,7 +46,7 @@ For the full explanation, read [Privacy & Data](./privacy-and-data.md).
 ## Signing out
 
 Sign out from the account menu. To sign back in, use your password, a magic link,
-or your Google/Microsoft account — whichever you set up.
+or your Google/Microsoft account, whichever you set up.
 
 ## Related
 

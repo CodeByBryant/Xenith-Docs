@@ -6,7 +6,7 @@ import type * as Preset from "@docusaurus/preset-classic";
 
 const config: Config = {
   title: "Xenith Docs",
-  tagline: "Build a deliberate life — one dimension at a time.",
+  tagline: "Build a deliberate life, one dimension at a time.",
   favicon: "img/favicon.svg",
 
   future: {
@@ -59,7 +59,7 @@ const config: Config = {
       {
         name: "description",
         content:
-          "Documentation for Xenith — the deliberate-living app. Guides for Life Dimensions, Focus, Growth, and more.",
+          "Documentation for Xenith, the deliberate-living app. Guides for Life Dimensions, Focus, Growth, and more.",
       },
       {
         name: "keywords",

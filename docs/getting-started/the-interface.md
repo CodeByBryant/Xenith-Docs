@@ -1,7 +1,7 @@
 ---
 sidebar_position: 3
 title: The Interface
-description: A tour of the Xenith workspace — the dashboard, sidebar navigation, command palette, quick capture, inbox, and calendar.
+description: "A tour of the Xenith workspace: the dashboard, sidebar navigation, command palette, quick capture, inbox, and calendar."
 keywords:
   - xenith interface
   - xenith dashboard
@@ -25,7 +25,7 @@ relevant right now:
 - A snapshot of recent activity across your [Life Dimensions](../life-dimensions/overview.md).
 - Quick entry points into Focus, Reflection, and your dimensions.
 
-The dashboard is a calm overview, not a control tower — it shows direction, not
+The dashboard is a calm overview, not a control tower. It shows direction, not
 pressure.
 
 ## Sidebar navigation
@@ -38,7 +38,7 @@ Settings. Collapse it when you want maximum room to think.
 
 Press <kbd>Ctrl</kbd> + <kbd>K</kbd> (or <kbd>Cmd</kbd> + <kbd>K</kbd> on Mac)
 anywhere in Xenith to open the **command palette**. Start typing to jump to any
-section, project, or page by name — no clicking through menus.
+section, project, or page by name, with no clicking through menus.
 
 > **Tip**
 >
@@ -48,13 +48,13 @@ section, project, or page by name — no clicking through menus.
 ## Quick capture
 
 A thought shouldn't have to wait for the right screen. **Quick capture** lets you
-jot something down instantly — it lands in your [Inbox](#the-inbox) so you can
+jot something down instantly. It lands in your [Inbox](#the-inbox) so you can
 sort it later without breaking your flow.
 
 ## The inbox
 
 The **Inbox** is your holding area for anything captured on the fly: stray ideas,
-tasks, links, things to revisit. Process it on your own schedule — turn items
+tasks, links, things to revisit. Process it on your own schedule: turn items
 into intentions, project notes, or reflections, or simply clear them.
 
 ## The calendar
@@ -66,7 +66,7 @@ days and weeks.
 ## Light and dark themes
 
 Xenith defaults to a dark theme designed for long, focused sessions. Toggle to
-light from the header control at any time — your choice is remembered per device.
+light from the header control at any time. Your choice is remembered per device.
 
 ## Next steps
 

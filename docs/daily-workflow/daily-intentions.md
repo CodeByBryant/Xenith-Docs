@@ -14,7 +14,7 @@ keywords:
 
 Daily Intentions give you a structured space to commit to what matters *before*
 the day's noise begins. Unlike a bottomless to-do list, intentions are
-deliberate, dimension-tagged, and reviewed — so they actually shape your day.
+deliberate, dimension-tagged, and reviewed, so they actually shape your day.
 
 ## Why three
 
@@ -26,18 +26,18 @@ Twelve things you might do is just anxiety in list form.
 ## Setting your intentions
 
 1. Open **Intentions** from the sidebar (**/app/intentions**).
-2. Optionally log a quick **morning mood** — it takes two seconds and anchors
+2. Optionally log a quick **morning mood**. It takes two seconds and anchors
    your planning to how you actually feel today.
 3. Write each intention as a **specific, completable action**, not a vague goal.
    - Less good: *"Work on the project."*
    - Better: *"Draft the project proposal intro."*
-4. **Tag each intention to a Life Dimension** so patterns surface over time —
+4. **Tag each intention to a Life Dimension** so patterns surface over time:
    which areas you consistently prioritize, and which you keep deferring.
 
 ## Repeating intentions
 
-For commitments that recur on a schedule — a weekly gym session, a monthly
-budget review — add a **Repeat** rule from the intentions add form instead of
+For commitments that recur on a schedule (a weekly gym session, a monthly
+budget review), add a **Repeat** rule from the intentions add form instead of
 retyping the same intention every day:
 
 - **Weekly**, on whichever specific days you choose.
@@ -47,13 +47,13 @@ retyping the same intention every day:
 
 Xenith expands the rule into individual, completable intentions on the days
 they're due, so each occurrence still gets its own dimension tag and its own
-completed/partial/deferred review — repeating doesn't mean unreviewed.
+completed/partial/deferred review. Repeating doesn't mean unreviewed.
 
 ## Reviewing at day's end
 
 Come back in the evening and mark each intention as completed, partial, or
 deferred. This closes the feedback loop most tools skip. The goal isn't a perfect
-score — it's calibration. If three is consistently too many, do two well.
+score. It's calibration. If three is consistently too many, do two well.
 
 > **No streaks here either**
 >

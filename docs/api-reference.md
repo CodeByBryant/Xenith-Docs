@@ -1,7 +1,7 @@
 ---
 sidebar_position: 9
 title: API Reference
-description: Xenith's public API (v1) — authentication, endpoints, rate limits, and examples for building your own tools on top of your Xenith data.
+description: "Xenith's public API (v1): authentication, endpoints, rate limits, and examples for building your own tools on top of your Xenith data."
 keywords:
   - xenith api
   - xenith api reference
@@ -11,15 +11,15 @@ keywords:
 
 # API Reference
 
-Xenith's public API lets you read and write your own data — intentions, focus
-sessions, and dimension scores — from your own scripts, tools, or
+Xenith's public API lets you read and write your own data (intentions, focus
+sessions, and dimension scores) from your own scripts, tools, or
 integrations. It's your data; the API just gives you a way to reach it
 programmatically.
 
 ## Authentication
 
 Create an API key in **Settings → API access**. The raw key is shown once,
-at creation — store it somewhere safe, since Xenith only ever stores its
+at creation. Store it somewhere safe, since Xenith only ever stores its
 hash.
 
 Send it as a bearer token on every request:
@@ -30,7 +30,7 @@ curl https://xenith.life/api/v1/intentions \
 ```
 
 Requests without a valid key get `401 Unauthorized`. You can revoke a key at
-any time from the same Settings page — it stops working immediately.
+any time from the same Settings page, and it stops working immediately.
 
 ## Base URL
 
@@ -42,8 +42,8 @@ https://xenith.life/api/v1
 
 Each key is limited to **60 requests per minute**, counted in fixed
 one-minute windows. The limit is enforced atomically, so parallel requests
-can't exceed it. Every response from an authenticated request — including
-`429`s — carries these headers:
+can't exceed it. Every response from an authenticated request, including
+`429`s, carries these headers:
 
 | Header | Value |
 |---|---|
@@ -90,7 +90,7 @@ Requires scope `intentions:read`.
 | `scheduled_date` | Filter to a single date (`YYYY-MM-DD`) |
 | `completed` | `true` or `false` |
 | `limit` | Max results, 1–100 (default 50) |
-| `cursor` | Pagination cursor — pass the previous response's `next_cursor` |
+| `cursor` | Pagination cursor: pass the previous response's `next_cursor` |
 
 ```bash
 curl "https://xenith.life/api/v1/intentions?scheduled_date=2026-07-12" \
@@ -138,7 +138,7 @@ Requires scope `focus_sessions:read`.
 ### `POST /api/v1/focus-sessions`
 
 Requires scope `focus_sessions:write`. Logs a completed (or in-progress) focus
-session — this is a record of actual timer usage, not a way to schedule a
+session. This is a record of actual timer usage, not a way to schedule a
 future session, so `started_at` can't be more than 24 hours in the future.
 
 **Body:**
@@ -155,7 +155,7 @@ future session, so `started_at` can't be more than 24 hours in the future.
 
 ### `GET /api/v1/dimension-scores`
 
-Requires scope `dimension_scores:read`. Read-only — scores are recorded
+Requires scope `dimension_scores:read`. Read-only: scores are recorded
 through Xenith's own weekly check-in, not writable via the API.
 
 **Query parameters** (all optional):
@@ -178,6 +178,6 @@ everything listed above.
 
 ## CORS
 
-All `/api/v1/*` endpoints allow cross-origin requests from any origin —
-authentication is entirely via the `Authorization` header (never cookies), so
+All `/api/v1/*` endpoints allow cross-origin requests from any origin.
+Authentication is entirely via the `Authorization` header (never cookies), so
 there's no ambient browser credential to protect against.

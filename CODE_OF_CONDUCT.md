@@ -4,7 +4,7 @@
 
 The Xenith project is a welcoming, harassment-free space for everyone,
 regardless of background or identity. We expect everyone interacting in this
-repository — issues, pull requests, and discussions — to be respectful,
+repository (issues, pull requests, and discussions) to be respectful,
 constructive, and considerate.
 
 Examples of behavior that contributes to a positive environment:

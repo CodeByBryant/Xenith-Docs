@@ -12,7 +12,7 @@ keywords:
 # Relationships
 
 The **Relationships** dimension (shown in pink) helps you tend the connections
-that matter. Good relationships rarely fail from a single dramatic moment — they
+that matter. Good relationships rarely fail from a single dramatic moment. They
 fade quietly from neglect. This dimension makes that neglect visible before it
 costs you.
 
@@ -49,5 +49,5 @@ thoughtful message, prompted at the right time, is the whole point.
 
 ## Related
 
-- [Purpose](./purpose.md) — the values that shape who you invest in.
+- [Purpose](./purpose.md): the values that shape who you invest in.
 - [Life Dimensions overview](./overview.md)

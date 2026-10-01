@@ -12,7 +12,7 @@ keywords:
 # Finances
 
 The **Finances** dimension (shown in amber) is about awareness, not accounting.
-You don't need a full budgeting suite to change your relationship with money — you
+You don't need a full budgeting suite to change your relationship with money. You
 need to actually see where it goes.
 
 > **Pro feature**
@@ -37,16 +37,16 @@ Use it to:
 ## Awareness over restriction
 
 Xenith's approach to finances is intentionally light. The goal isn't to police
-every dollar — it's to keep you connected to your spending so the bigger choices
+every dollar. It's to keep you connected to your spending so the bigger choices
 get made on purpose. When a money decision carries real weight, work it through
 in the [Purpose dimension's decision tool](./purpose.md).
 
 > **Tip**
 >
-> Tie a financial habit to a [routine](../daily-workflow/routines.md) — for example,
-> a weekly evening step to review and log the week's transactions.
+> Tie a financial habit to a [routine](../daily-workflow/routines.md) (for example,
+> a weekly evening step to review and log the week's transactions).
 
 ## Related
 
-- [Purpose](./purpose.md) — for weighing significant decisions.
+- [Purpose](./purpose.md): for weighing significant decisions.
 - [Life Dimensions overview](./overview.md)

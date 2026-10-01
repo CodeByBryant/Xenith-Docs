@@ -13,7 +13,7 @@ keywords:
 # Reflection
 
 Reflection gives you a private, structured space to close out each day. Consistent
-prompts plus a quick mood check build a searchable record of your thinking — and
+prompts plus a quick mood check build a searchable record of your thinking, and
 self-awareness that compounds over weeks and months.
 
 ## Why structure matters
@@ -33,7 +33,7 @@ after-action review methodology:
 3. **What's your energy level right now?**
 4. **What's your top priority for tomorrow?**
 
-Each prompt is a free-text field — write as much or as little as is useful.
+Each prompt is a free-text field. Write as much or as little as is useful.
 
 ## Mood and energy
 
@@ -43,7 +43,7 @@ to how you actually feel.
 
 ## Rich text entries
 
-Reflections use a rich text editor — headings, bold, and bullet points — so you
+Reflections use a rich text editor (headings, bold, and bullet points) so you
 can structure longer entries clearly without leaving Xenith.
 
 ## Private and searchable

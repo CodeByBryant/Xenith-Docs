@@ -25,7 +25,7 @@ dimensions stop feeling like a checklist and start feeling like a life.
 
 ### Values
 Name the values that matter most to you and keep them somewhere you'll actually
-revisit. Clear values are what make hard choices easier — they're the criteria
+revisit. Clear values are what make hard choices easier. They're the criteria
 you measure options against when the answer isn't obvious.
 
 ### Decisions
@@ -38,7 +38,7 @@ choice played out and learn from your own reasoning.
 
 The other eight dimensions describe *how* you live. Purpose asks *why*. A decision
 log checked against explicit values is one of the most powerful self-knowledge
-tools you can build — it turns scattered choices into a coherent direction.
+tools you can build. It turns scattered choices into a coherent direction.
 
 > **Tip**
 >
@@ -48,5 +48,5 @@ tools you can build — it turns scattered choices into a coherent direction.
 
 ## Related
 
-- [Relationships](./relationships.md) — values shape who you invest in.
+- [Relationships](./relationships.md): values shape who you invest in.
 - [Life Dimensions overview](./overview.md)

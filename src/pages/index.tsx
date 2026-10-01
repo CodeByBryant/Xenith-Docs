@@ -25,7 +25,7 @@ function HomepageHeader() {
           <span className={styles.heroTitleMuted}>one dimension at a time.</span>
         </Heading>
         <p className={styles.heroSubtitle}>
-          Everything you need to get the most out of {siteConfig.title.replace(' Docs', '')} —
+          Everything you need to get the most out of {siteConfig.title.replace(' Docs', '')},
           from your first intention to eight fully tracked life dimensions, Focus
           sessions, AI growth paths, and beyond.
         </p>
@@ -50,7 +50,7 @@ export default function Home(): ReactNode {
   return (
     <Layout
       title="Documentation"
-      description="Official documentation for Xenith — the deliberate-living app. Guides for Life Dimensions, Focus, Routines, Growth, Insights, and more."
+      description="Official documentation for Xenith, the deliberate-living app. Guides for Life Dimensions, Focus, Routines, Growth, Insights, and more."
     >
       <HomepageHeader />
       <main>

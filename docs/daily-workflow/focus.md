@@ -1,7 +1,7 @@
 ---
 sidebar_position: 2
 title: Focus
-description: Deep, intentional work with the Xenith Focus timer — custom durations, ambient soundscapes, full-screen mode, and automatic session logging.
+description: "Deep, intentional work with the Xenith Focus timer: custom durations, ambient soundscapes, full-screen mode, and automatic session logging."
 keywords:
   - focus timer
   - deep work timer
@@ -18,7 +18,7 @@ your full attention.
 
 ## Starting a session
 
-1. Open **Focus** from the sidebar (**/app/focus**). No setup required — the
+1. Open **Focus** from the sidebar (**/app/focus**). No setup required. The
    timer is ready immediately.
 2. **Set a duration.** Choose a preset (25, 45, or 90 minutes) or
    enter a **custom length**. Whether you sprint in Pomodoro-style blocks or
@@ -26,7 +26,7 @@ your full attention.
 3. **Name your focus** (optional) so you can look back later on what you gave
    your attention to.
 4. **Link a task** (optional) by picking one of today's
-   [intentions](./daily-intentions.md) from the setup screen — its title stays
+   [intentions](./daily-intentions.md) from the setup screen. Its title stays
    visible for the whole session, so the timer is always pointed at something
    real instead of running in the abstract.
 5. Press **Start**, and go **full-screen** for a truly quiet workspace.
@@ -35,10 +35,10 @@ your full attention.
 
 Focus includes ambient audio to help you settle in:
 
-- **White noise** and **brown noise** — generated in your browser, so they're
+- **White noise** and **brown noise:** generated in your browser, so they're
   always available and never need to load.
-- **Rain** and **Rain & thunder** — natural soundscapes.
-- **Lo-fi** — relaxed background music with a gentle fade-in.
+- **Rain** and **Rain & thunder:** natural soundscapes.
+- **Lo-fi:** relaxed background music with a gentle fade-in.
 
 Adjust the **volume** at any time, or turn sound off entirely. If a track can't
 load, Focus quietly falls back to generated noise so your session is never
@@ -53,7 +53,7 @@ interrupted.
 ## During a session
 
 The timer counts down in a clean, full-view layout with a subtle progress ring to
-keep you anchored. The session keeps running even if your connection drops — the
+keep you anchored. The session keeps running even if your connection drops, because the
 timer lives in your browser. When it ends, your session is recorded
 automatically.
 
@@ -66,8 +66,8 @@ trend.
 
 ## Tips for deep work
 
-- Pair a session with a single [Life Dimension](../life-dimensions/overview.md) —
-  for example, a 50-minute block dedicated to *Learning*.
+- Pair a session with a single [Life Dimension](../life-dimensions/overview.md),
+  like a 50-minute block dedicated to *Learning*.
 - Actually link the session to one of today's intentions (not just mentally) so
   your focus time pushes a real priority forward.
 - Full-screen plus a soundscape is the fastest way to drop into flow.

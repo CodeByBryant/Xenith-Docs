@@ -5,7 +5,7 @@
   <text x="92" y="400" font-family="'Playfair Display', Georgia, serif" font-size="64"
         font-weight="600" fill="#fafafa">Xenith Docs</text>
   <text x="94" y="460" font-family="Inter, system-ui, sans-serif" font-size="30"
-        fill="#a3a3a3">Build a deliberate life — one dimension at a time.</text>
+        fill="#a3a3a3">Build a deliberate life, one dimension at a time.</text>
   <rect x="90" y="500" width="1020" height="1" fill="#262626" />
   <text x="92" y="545" font-family="Inter, system-ui, sans-serif" font-size="24"
         fill="#6a6a6a">docs.xenith.life</text>

@@ -26,13 +26,13 @@ what's working and what isn't.
 
 ### Energy & Tasks
 Not every hour is equal. The Energy & Task matcher helps you line up the right
-kind of work with the energy you actually have — demanding, creative work when
+kind of work with the energy you actually have: demanding, creative work when
 you're sharp; lighter, mechanical work when you're depleted. Working *with* your
 energy beats grinding against it.
 
 ### Wins & Losses
-A running journal of what went well and what didn't. Recording both — not just
-the wins — is what turns experience into improvement. Over time you'll see which
+A running journal of what went well and what didn't. Recording both, not just
+the wins, is what turns experience into improvement. Over time you'll see which
 conditions produce your best work and which patterns keep tripping you up.
 
 ## How it connects
@@ -44,10 +44,10 @@ and for the questions you bring to your [Coach](../growth-and-insights/coach.md)
 
 > **Tip**
 >
-> Log a quick win the moment it happens. Momentum is easier to see — and repeat —
+> Log a quick win the moment it happens. Momentum is easier to see (and repeat)
 > when it's written down.
 
 ## Related
 
-- [Projects](../growth-and-insights/projects.md) — a workspace for bigger efforts.
+- [Projects](../growth-and-insights/projects.md): a workspace for bigger efforts.
 - [Life Dimensions overview](./overview.md)
