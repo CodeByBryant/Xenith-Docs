@@ -16,17 +16,21 @@ The **Health** dimension (shown in green) is where you keep an eye on your body:
 the inputs and movement that keep you running well. It's built from a few focused
 tools rather than one overwhelming dashboard.
 
-> **Pro feature**
+> **Free and Pro**
 >
-> Biometrics, Calories, Water, and Workouts are part of [Xenith Pro](https://xenith.life/app/pricing).
-> Health's score and its place on your [Life Dimensions overview](./overview.md)
-> stay free either way.
+> **Biometrics and Calories are free.** Water and Workouts are part of
+> [Xenith Pro](https://xenith.life/app/pricing). Health's score and its place on
+> your [Life Dimensions overview](./overview.md) stay free either way.
 
 ## Tools
 
 ### Biometrics
 A guided way to record the body metrics you care about (things like weight and
-other vitals) so you can watch them trend over time instead of guessing.
+other vitals) so you can watch them trend over time instead of guessing. The
+**Biometric Wizard** uses your weight, height, age, and activity level to
+estimate calorie and macro targets. These are general estimates, not medical
+advice, and the inputs stay in your account (see
+[Privacy & Data](../account/privacy-and-data.md)).
 
 ### Calories
 Log what you eat to keep a simple, honest record of intake. The aim is awareness,

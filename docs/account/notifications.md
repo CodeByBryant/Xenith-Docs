@@ -35,6 +35,15 @@ When you open Xenith in a mobile browser, look for the install prompt (or use yo
 browser's "Add to Home Screen" option). Installed as an app, Xenith can deliver
 notifications like any other app.
 
+## Email reminders
+
+Separate from push, you can ask for an **email reminder** when you add an
+intention. It is one email at the hour you chose, listing what is still open for
+that day, and it is only ever sent because you asked for it. Reminders have their
+own topic in your email preferences (the link at the bottom of any Xenith email),
+so you can turn them off without turning off anything else. If the day's email
+allowance is used up, a reminder is dropped rather than sent late.
+
 ## The Xenith philosophy on notifications
 
 Most apps use notifications to pull you back in. Xenith uses them sparingly, to

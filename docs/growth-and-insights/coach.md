@@ -14,9 +14,10 @@ keywords:
 **Coach** is your built-in AI sounding board, there when you want to think
 something through, get unstuck, or turn a vague feeling into a clear next step.
 
-> **Pro feature**
+> **Free and Pro**
 >
-> Coach is part of [Xenith Pro](https://xenith.life/app/pricing).
+> Free includes **3 Coach messages a day**.
+> [Xenith Pro](https://xenith.life/app/pricing) raises that to **10 a day**.
 
 ## What Coach is good for
 
@@ -37,8 +38,11 @@ plainly. Coach responds in context, oriented around the deliberate-living ideas
 Xenith is built on: direction over speed, balance over burnout, intention over
 autopilot.
 
-Coach is meant for focused conversations, not open-ended chat, so each day
-resets with a **10-message limit**. Come back tomorrow, or in the meantime
+Coach is meant for focused conversations, not open-ended chat, so there is a
+daily message limit: **3 on the free plan, 10 with Pro**. The count resets at
+midnight in your own time zone, and Coach shows how many messages you have left
+(for example, "2 of 3 left today"). A message that fails on our side is not
+counted. When you reach the limit, come back tomorrow, or in the meantime
 capture the thread in a [Project](./projects.md) page or a
 [reflection](../daily-workflow/reflection.md).
 

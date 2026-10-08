@@ -49,6 +49,27 @@ Xenith expands the rule into individual, completable intentions on the days
 they're due, so each occurrence still gets its own dimension tag and its own
 completed/partial/deferred review. Repeating doesn't mean unreviewed.
 
+## Still open
+
+An intention you did not finish does not disappear. Open intentions from the last
+14 days (up to 5) appear in **Still open** on your dashboard and at the top of
+Intentions, labeled with the day they were for. For each one you can:
+
+- **Keep for today**: move it to today.
+- **Done**: mark it complete.
+- **Let it go**: archive it. An undo appears right after, and nothing is ever
+  archived for you.
+
+## Email reminders
+
+When you add an intention for today or a later day, you can choose **Email me
+around** an hour (6:00 AM to 9:00 PM). Reminders are off unless you pick an hour.
+At that hour, in your time zone, Xenith sends **one email** listing what is still
+open that day. Emails go out from an hourly run, so expect it within about the
+hour you chose. Repeating intentions do not have reminders. Turn reminders off
+any time with the unsubscribe link in the email or in
+[Notifications](../account/notifications.md).
+
 ## Reviewing at day's end
 
 Come back in the evening and mark each intention as completed, partial, or
