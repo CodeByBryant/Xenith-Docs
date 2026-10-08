@@ -59,6 +59,11 @@ automatically.
 
 ## After a session
 
+If the session was linked to an intention, a card asks **"How did it go with
+'...'?"** with **Done** and **Not yet**. Done marks the intention complete; Not yet
+closes the card and changes nothing. If you did not link one, Focus suggests
+today's top open intention at the start of the next session.
+
 Completed sessions are logged with their duration and time, building an honest
 picture of when and how deeply you work. That history flows into the
 [Insights dashboard](../growth-and-insights/insights.md) as your focused-minutes

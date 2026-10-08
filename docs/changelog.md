@@ -17,6 +17,29 @@ Notable changes to Xenith, newest first. We ship improvements often.
 >
 > Check the [status page](https://status.xenith.life) for real-time service health.
 
+## 2.4.1 (October 2026)
+
+**A more useful free plan, and a reason to come back tomorrow.**
+
+- **Free is bigger.** The calorie tracker (with the Biometric Wizard), Books and
+  Finance transactions are now free. Coach is free for **3 messages a day** (Pro
+  has 10). Everyone can build **one Growth Path** and use its first two tiers;
+  Pro opens every tier and all eight dimensions.
+- **Upgrade prompts say what they are for.** Each Pro tool, the Coach limit and
+  the Growth tiers now explain what you would get, instead of a generic lock.
+- **Still open.** Intentions you did not finish stay visible for 14 days, with
+  Keep for today, Done and Let it go. Nothing is archived for you.
+- **Finish what you started.** After a Focus session linked to an intention, a
+  card asks how it went, and a Growth step can become today's intention in one tap.
+- **Optional email reminders.** Pick an hour when you add an intention and get one
+  email with what is still open. Off unless you choose it; has its own
+  unsubscribe.
+- **Your day, your time zone.** "Today" for intentions, carry-over and Coach
+  limits now follows your profile time zone everywhere.
+- **Security.** Growth Path generation now requires you to be signed in and uses
+  your own account only. Cached data no longer carries over between accounts on
+  a shared browser.
+
 ## 2.4.0 (September 2026)
 
 **A shorter first ten minutes.**

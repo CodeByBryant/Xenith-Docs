@@ -16,9 +16,11 @@ Big goals fail for a simple reason: they stay abstract. Xenith's **Growth** turn
 a long-term ambition into a concrete **path** of achievable steps, generated for
 you, then yours to work through at your own pace.
 
-> **Pro feature**
+> **Free and Pro**
 >
-> Growth Paths is part of [Xenith Pro](https://xenith.life/app/pricing).
+> Free includes **one Growth Path** (one Life Dimension) and its **first two
+> tiers**. [Xenith Pro](https://xenith.life/app/pricing) adds a path for each of
+> the eight dimensions and opens every tier.
 
 ## How it works
 
@@ -29,6 +31,26 @@ you, then yours to work through at your own pace.
    (steps), each a meaningful, doable milestone toward the goal.
 4. Work through the path, marking nodes complete as you go. Your progress is saved
    and visible as a clear arc of development.
+
+## What free includes
+
+A path is generated in full, in five tiers. On the free plan the first two tiers
+(**Entry** and **Foundation**) are readable and workable. The later tiers
+(**Skill**, **Advanced** and **Mastery**) appear as blurred placeholders below a
+dashed line, with a count of how many steps are waiting there. Their contents
+are not sent to your browser until you upgrade; upgrading opens them without
+regenerating anything.
+
+To start a path in a different dimension on the free plan, **delete** the current
+one first (you will be asked to confirm; its progress is cleared). A path can be
+regenerated at most once every 7 days per dimension, and deleting a path does
+not reset that wait.
+
+## Turn a step into today's plan
+
+On an unlocked step, choose **Plan for today** to add it to today's
+[intentions](../daily-workflow/daily-intentions.md), tagged with the step's
+dimension. Doing that does not mark the step complete; you mark steps yourself.
 
 ## Why a path, not a checklist
 
