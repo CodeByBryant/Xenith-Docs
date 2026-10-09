@@ -36,7 +36,12 @@ about ten minutes, and every choice you make can be changed later.
    **[Life Dimensions](../life-dimensions/overview.md)** are shown, with three
    pre-selected based on your goal. Add or remove any of them. This list is
    never final.
-7. **Your Xenith system.** A one-screen summary of what you just set up, then
+7. **Connect your tools (optional).** A grid of the tools Xenith can work with:
+   Google Calendar, Google Tasks, Notion, Microsoft To Do, Todoist and Apple
+   Calendar. Open a card, switch on only what you want, and Xenith asks that app
+   for just that. Everything here is free, can be skipped, and never blocks
+   finishing setup. See [Integrations](../integrations/calendar-sync.md).
+8. **Your Xenith system.** A one-screen summary of what you just set up, then
    straight into the app.
 
 ## Changing your setup later

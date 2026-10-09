@@ -17,13 +17,25 @@ you can move anywhere in a couple of keystrokes.
 
 ## The dashboard
 
-Your home screen (**/app**) is a personalized dashboard. It surfaces what's
-relevant right now:
+Your home screen (**/app**) is a personalized dashboard. It opens with a
+greeting, today's date and a plain line of facts ("1 of 3 intentions done, 25
+minutes focused today"), then surfaces what's relevant right now:
 
-- Today's [intentions](../daily-workflow/daily-intentions.md) and progress.
-- Your active [routines](../daily-workflow/routines.md).
-- A snapshot of recent activity across your [Life Dimensions](../life-dimensions/overview.md).
-- Quick entry points into Focus, Reflection, and your dimensions.
+- **Today:** your [intentions](../daily-workflow/daily-intentions.md) with
+  progress, the next thing to [Focus](../daily-workflow/focus.md) on, and anything
+  still open from earlier days.
+- **From your tools:** tasks from [Todoist, Microsoft To Do or Google
+  Tasks](../integrations/task-sources.md), if you connected them. Shown only when
+  there is something to decide.
+- **This week:** Focus minutes and intentions done for each day, plus calendar
+  events. Counts only, no comparisons.
+- **Calendar** and a **Balance** wheel of your [Life Dimensions](../life-dimensions/overview.md).
+- Your active [routines](../daily-workflow/routines.md), your latest reflection and
+  your projects.
+- **Your tools:** the free dimension tools (calories, Finances, Books, Growth
+  Path), ordered by the dimensions you chose. Pro tools show as a compact locked
+  tile.
+- A search bar in the header (or <kbd>Ctrl</kbd> + <kbd>K</kbd>) and quick actions.
 
 The dashboard is a calm overview, not a control tower. It shows direction, not
 pressure.

@@ -46,6 +46,21 @@ provider to generate a response. Only the content needed for that feature is sen
 and it is **not** used to train models. Features that don't use AI never send your
 data anywhere for processing.
 
+## Connected tools
+
+If you connect Google Calendar, Notion, Todoist, Microsoft To Do or Google Tasks
+([Calendar Sync](../integrations/calendar-sync.md),
+[Task Sources](../integrations/task-sources.md)), Xenith stores the connection
+so it can sync for you. Access tokens are stored **encrypted** and are never
+sent to your browser. Xenith asks each app only for what you switched on, reads
+event and task titles and dates, and writes back only if you turn on two-way
+sync. It **never deletes** a task in your task app. Data from these apps is used
+only to provide the features you see in Xenith, and is not used for advertising
+or to train AI models. Disconnect any time in Settings; you can also remove
+Xenith's access from the other app's account settings. The private
+[Apple Calendar link](../integrations/apple-calendar.md) can be replaced at any
+time, which stops the old one.
+
 ## Error monitoring
 
 To keep Xenith stable, the app reports technical errors to a monitoring service.
@@ -63,6 +78,8 @@ subscription needed to deliver them. Disabling notifications removes that.
   ([Settings](./settings.md)).
 - **Disable AI features** simply by not using Growth or Coach.
 - **Turn off notifications** any time.
+- **Disconnect** any connected tool, or turn off two-way sync, in
+  [Settings](./settings.md).
 - For account deletion or data requests, follow the process described in the
   [Privacy Policy](https://xenith.life/privacy).
 

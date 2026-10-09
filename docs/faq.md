@@ -41,14 +41,13 @@ free plan is real and complete, not a demo:
 - [Purpose](./life-dimensions/purpose.md): Values, Decisions
 - [Coach](./growth-and-insights/coach.md): 10 messages a day
 - [Growth Paths](./growth-and-insights/growth.md) for all eight dimensions, with every tier
-- [Calendar Sync](./integrations/calendar-sync.md) with Google Calendar and
-  Notion, every Focus soundscape, unlimited
+- Every Focus soundscape, unlimited
 [projects](./growth-and-insights/projects.md), and priority support. Each dimension's **score** and its place on the 8-point
 overview stay free regardless of plan. Pro unlocks the logging tools behind
 them. Pro-only screens show a preview with an upgrade prompt that says what that
 tool does, rather than hiding completely. Upgrade
 anytime from Settings or at [xenith.life/app/pricing](https://xenith.life/app/pricing);
-cancel anytime.
+cancel anytime. [Calendar Sync](./integrations/calendar-sync.md), [task sources](./integrations/task-sources.md) and the [Apple Calendar link](./integrations/apple-calendar.md) are free on every plan.
 See [Creating an Account](./getting-started/creating-an-account.md) to get
 started.
 

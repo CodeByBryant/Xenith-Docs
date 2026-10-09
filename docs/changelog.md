@@ -17,6 +17,34 @@ Notable changes to Xenith, newest first. We ship improvements often.
 >
 > Check the [status page](https://status.xenith.life) for real-time service health.
 
+## 2.4.2 (October 2026)
+
+**Less typing: bring your calendars, tasks and bank statements in.**
+
+- **Connect your tools is free.** [Calendar Sync](./integrations/calendar-sync.md)
+  with Google Calendar and Notion no longer needs Pro. A new optional
+  **Connect your tools** step in onboarding lets you switch on only what you
+  want, and Xenith asks each app for just that.
+- **Tasks from the apps you already use.** Connect
+  [Todoist, Microsoft To Do or Google Tasks](./integrations/task-sources.md) and
+  tasks due soon appear in a **From your tools** card on your dashboard. Add one
+  to today with a tap, or dismiss it. Nothing is created for you.
+- **Two-way sync for Microsoft To Do and Google Tasks (opt-in).** Finish
+  something in either place and it shows as done in the other. Off until you turn
+  it on, and Xenith never deletes a task in your task app.
+- **Apple Calendar.** A private, read-only
+  [calendar link](./integrations/apple-calendar.md) shows your intentions and
+  events in Apple Calendar or any app that can follow a link.
+- **Import transactions from a CSV.** Bring in a bank or card export in
+  [Finances](./life-dimensions/finances.md); duplicates are skipped and you see a
+  preview first.
+- **A new dashboard.** A wider layout with a greeting, today's intentions and
+  focus time, a week view, a balance wheel for your eight dimensions, and your
+  tools ordered by the dimensions you chose. Pro tools show as compact locked
+  tiles instead of a blurred preview.
+- **Sign-in and connection hardening.** Connection requests now expire after 10
+  minutes and can only be used once.
+
 ## 2.4.1 (October 2026)
 
 **A more useful free plan, and a reason to come back tomorrow.**
