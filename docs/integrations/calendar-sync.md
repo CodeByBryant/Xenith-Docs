@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 title: Calendar Sync
-description: Connect Google Calendar or Notion to Xenith for two-way calendar sync.
+description: Connect Google Calendar or Notion to Xenith for free two-way calendar sync.
 keywords:
   - xenith google calendar sync
   - xenith notion calendar
@@ -15,11 +15,11 @@ Xenith's [Calendar](../getting-started/the-interface.md#the-calendar) can sync t
 Google Calendar and Notion, so events stay consistent no matter where you
 create or edit them.
 
-> **Pro feature**
+> **Free**
 >
-> Calendar Sync is part of [Xenith Pro](https://xenith.life/app/pricing). The
-> Calendar itself is free. Pro unlocks connecting it to Google Calendar or
-> Notion.
+> Calendar Sync with Google Calendar and Notion is free on every plan. You can
+> also [follow your intentions in Apple Calendar](./apple-calendar.md) with a
+> private link.
 
 ## Connecting
 
@@ -29,9 +29,12 @@ matter which you use:
 - The **Sync** button on the Calendar page itself, or
 - **Settings → Calendar sync**
 
-You'll be sent to Google or Notion to authorize access, then asked which
-calendar (Google) or database (Notion) to sync with. You can change the
-selected calendar/database at any time without disconnecting.
+You'll be sent to Google or Notion to authorize access. Google starts syncing
+your main calendar straight away (you can pick a different one); with Notion you
+choose which database to sync. You can change the selected calendar or database
+at any time without disconnecting. During [onboarding](../getting-started/onboarding.md)
+there is also a **Connect your tools** step, where you switch on only the things
+you want Xenith to ask for.
 
 ## How sync works
 
@@ -48,7 +51,7 @@ Sync runs automatically:
   trigger unnecessary syncs).
 - **On demand:** click **Sync now** in the Sync popover for an immediate
   refresh.
-- **Daily:** a background sync runs once a day as a safety net, so your
+- **In the background:** a scheduled sync runs regularly as a safety net, so your
   calendar stays current even if you don't open Xenith.
 
 Xenith syncs a rolling window of events: roughly 6 months back to 18 months
@@ -79,4 +82,5 @@ forward.
 ## Disconnecting
 
 Disconnecting a provider removes only the events that were synced from it.
-Events you created directly in Xenith are never affected.
+Events you created directly in Xenith are never affected. You can also remove
+Xenith's access from your Google or Notion account settings.
