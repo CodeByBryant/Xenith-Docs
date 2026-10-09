@@ -42,6 +42,10 @@ Notable changes to Xenith, newest first. We ship improvements often.
   focus time, a week view, a balance wheel for your eight dimensions, and your
   tools ordered by the dimensions you chose. Pro tools show as compact locked
   tiles instead of a blurred preview.
+- **A redesigned homepage.** xenith.life now opens with a slow, animated view of your
+  eight [Life Dimensions](./life-dimensions/overview.md), and the page walks through how
+  intentions, focus, reflection and insights feed each other, and what Xenith
+  connects to. It respects your device's reduced-motion setting.
 - **Sign-in and connection hardening.** Connection requests now expire after 10
   minutes and can only be used once.
 
