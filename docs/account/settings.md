@@ -11,8 +11,9 @@ keywords:
 # Settings
 
 Everything about how Xenith works for you lives in **Settings**
-(**/app/settings**). Nothing you chose during onboarding is permanent. This is
-where you adjust it.
+(**/app/settings**): your profile, appearance, notifications, connected tools and
+more. The goal you pick in onboarding, and the dimensions it keeps in view, are
+covered under Dimensions below.
 
 ## Profile
 

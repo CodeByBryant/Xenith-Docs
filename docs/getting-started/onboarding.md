@@ -13,8 +13,9 @@ keywords:
 
 The first time you sign in, Xenith asks for just enough to give you a useful
 first day: a goal, one intention, and (if you like) a quick sense of where you
-are in each area of life. It takes a couple of minutes, every step after the
-first can be skipped past, and every choice can be changed later.
+are in each area of life. It takes a couple of minutes. The rating step and Connect your tools are
+optional, and **Back** and **Forward** let you review or change anything before
+you finish.
 
 ## The flow
 
@@ -65,7 +66,7 @@ goes away on its own after 24 hours, and for good once you complete a session.
 
 ## Changing your setup later
 
-Nothing chosen during onboarding is permanent.
+Most of what you chose during onboarding can be changed later.
 
 - **Ratings:** re-rate any of the eight dimensions any time under
   **Life Dimensions** in the sidebar.
