@@ -1,11 +1,10 @@
 ---
 sidebar_position: 1
 title: Settings
-description: Manage your profile, active dimensions, theme, and preferences in Xenith.
+description: Manage your profile, theme, and preferences in Xenith.
 keywords:
   - xenith settings
   - account preferences
-  - manage dimensions
   - profile settings
 ---
 
