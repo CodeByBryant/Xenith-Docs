@@ -36,10 +36,11 @@ first can be skipped past, and every choice can be changed later.
 
 3. **Set one intention.** A single, specific thing you want to move forward
    today. This is the heart of the deliberate-living loop.
-4. **Rate your dimensions (optional).** Tap a number from 1 (very low) to 10
+4. **Rate your dimensions (optional).** Drag a slider from 1 (very low) to 10
    (very high) for how each area is going right now. The three areas from your
    goal come first, and the other five are behind **Rate the other 5 areas**.
-   A rough sense is enough. Nothing is pre-filled, and only the areas you rate
+   A rough sense is enough. A slider counts as rated only once you touch it, so
+   nothing is pre-filled, and only the areas you rate
    are saved, as your starting point under **Life Dimensions**. **Skip for now** moves on
    without saving anything.
 5. **Connect your tools (optional).** A grid of the tools Xenith can work with:
