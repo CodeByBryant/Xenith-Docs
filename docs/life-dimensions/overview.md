@@ -48,9 +48,10 @@ know which area you're looking at.
 
 ## How tracking works
 
-1. **Pick your dimensions.** During [onboarding](../getting-started/onboarding.md)
-   you choose which areas matter to you right now. Add or remove them any time
-   from [Settings](../account/settings.md).
+1. **Start from your goal.** During [onboarding](../getting-started/onboarding.md)
+   you pick a goal, and each goal keeps three dimensions in view. You can also
+   rate how each of the eight is going. Re-rate any time under
+   **Life Dimensions**.
 2. **Log what's meaningful.** Each dimension has dedicated tools, which are part
    of [Xenith Pro](https://xenith.life/app/pricing). Add entries at whatever
    cadence fits: daily, weekly, or only when something changes.

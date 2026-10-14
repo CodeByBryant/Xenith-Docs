@@ -93,5 +93,5 @@ and upgrade anytime from Settings; nothing here requires a card up front.
 
 ## Next steps
 
-- [Complete onboarding](./onboarding.md) to choose your dimensions.
+- [Complete onboarding](./onboarding.md) to pick a goal and set your first intention.
 - [Learn the interface](./the-interface.md) so you can move quickly.

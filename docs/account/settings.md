@@ -21,11 +21,13 @@ Update your **display name** and the basics of your account. How you sign in
 (email and password, Google, or Microsoft) is covered in
 [Creating an Account](../getting-started/creating-an-account.md).
 
-## Active dimensions
+## Dimensions
 
-Add or remove [Life Dimensions](../life-dimensions/overview.md) at any time. If a
-dimension stops being relevant, hide it to keep your workspace focused; bring it
-back whenever you like. Your data isn't deleted when you hide a dimension.
+The three [Life Dimensions](../life-dimensions/overview.md) your goal keeps in
+view are chosen in [onboarding](../getting-started/onboarding.md), and they
+decide which tools your dashboard puts first. All eight dimensions stay available
+under **Life Dimensions** in the sidebar, where you can re-rate any of them at
+any time.
 
 ## Appearance
 
