@@ -45,10 +45,12 @@ you finish.
    are saved, as your starting point under **Life Dimensions**. **Skip for now** moves on
    without saving anything.
 5. **Connect your tools (optional).** A grid of the tools Xenith can work with:
-   Google Calendar, Google Tasks, Notion, Microsoft To Do, Todoist and Apple
-   Calendar. Open a card, switch on only what you want, and Xenith asks that app
-   for just that. Everything here is free, can be skipped, and never blocks
-   finishing setup. See [Integrations](../integrations/calendar-sync.md).
+   Google Calendar, Google Tasks, Google Docs, Notion, Microsoft To Do, Todoist and
+   Apple Calendar. Open a card, switch on only what you want, and Xenith asks that
+   app for just that. Google Docs and the Notion import switch connect an account
+   for [importing](../projects-import/import-overview.md); nothing is imported during
+   onboarding. Everything here is free, can be skipped, and never blocks finishing
+   setup. See [Integrations](../integrations/calendar-sync.md).
 6. **Your Xenith system.** A one-screen summary: your goal, the dimensions it
    keeps in view, anything you rated, and your intention. Then straight into
    the app.

@@ -61,6 +61,23 @@ Xenith's access from the other app's account settings. The private
 [Apple Calendar link](../integrations/apple-calendar.md) can be replaced at any
 time, which stops the old one.
 
+## Importing
+
+When you [import](../projects-import/import-overview.md) from Notion, Google Docs or
+Word, Xenith reads only what you pick and copies it into a project. For Google Docs
+it asks for the **drive.file** permission, which covers only the documents you choose
+in Google's picker, and your browser receives a short-lived token to open that picker.
+Word files you upload are kept in private storage only while the import runs and are
+deleted afterwards. Imports are copies; your originals aren't changed. Images and
+files in your pages, imported or added in the editor, are stored under an
+unguessable address: anyone who has the exact link can view the file. They are
+removed when you delete your account; deleting a single page doesn't immediately
+delete its files. If you turn on [syncing for a Notion database](../projects-import/sync-a-notion-database.md),
+Xenith also reads that database on a schedule and writes your changes back, and
+stores Notion page ids and a fingerprint of each cell (not its content). Document
+data from Google is used only to copy the documents you choose, never for
+advertising or to train AI models.
+
 ## Error monitoring
 
 To keep Xenith stable, the app reports technical errors to a monitoring service.
