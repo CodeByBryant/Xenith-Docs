@@ -17,6 +17,33 @@ Notable changes to Xenith, newest first. We ship improvements often.
 >
 > Check the [status page](https://status.xenith.life) for real-time service health.
 
+## 2.4.3 (October 2026)
+
+**Bring your notes in, and work with databases.**
+
+- **Import into Projects.** Copy pages and databases from
+  [Notion](./projects-import/import-from-notion.md), documents from
+  [Google Docs](./projects-import/import-from-google-docs.md) and
+  [Word files](./projects-import/import-word-files.md) into a project. You review
+  what will be imported before anything is added, a report lists what carried
+  over and what didn't, and importing again never overwrites your edits. Free on
+  every plan. See [Import into Projects](./projects-import/import-overview.md).
+- **Databases.** Rows with typed columns (text, number, select, status, date,
+  checkbox, people, files, relations and more), shown as a
+  [table, board, gallery or list](./projects-import/databases.md), with filters,
+  sorts and a notes page behind every row.
+- **Keep a Notion database in sync (opt-in).** After importing a Notion database,
+  you can [sync it both ways](./projects-import/sync-a-notion-database.md). It is
+  off until you turn it on, starts with a preview, keeps your value when both
+  sides change a cell and asks you, and never deletes a row without your say.
+- **A richer editor.** Toggles, callouts, columns, bookmarks, file blocks, code
+  with highlighting, headings up to level 6, page icons and covers, and links to
+  other pages and databases (**/Link to page**, **/Link to database**).
+- **Connect Google Docs and Notion for import** from the **Connect your tools**
+  step in [onboarding](./getting-started/onboarding.md).
+- **The one-project limit on the free plan is now enforced by the server**, not
+  just the screen. Nothing changes if you stay within it.
+
 ## 2.4.2 (October 2026)
 
 **Less typing: bring your calendars, tasks and bank statements in.**

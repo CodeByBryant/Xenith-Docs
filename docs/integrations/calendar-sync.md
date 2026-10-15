@@ -79,6 +79,10 @@ forward.
   supported for Notion sync (Notion pages don't have an equivalent concept of
   event color).
 
+The same Notion connection is also used if you
+[import Notion pages and databases](../projects-import/import-from-notion.md); you can
+choose either or both when you connect, and Xenith asks only for what you pick.
+
 ## Disconnecting
 
 Disconnecting a provider removes only the events that were synced from it.

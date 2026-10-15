@@ -19,7 +19,7 @@ a team: no sharing, no comment threads, no notifications pile.
 > **Free vs Pro**
 >
 > The free plan includes **one** project. [Xenith Pro](https://xenith.life/app/pricing)
-> unlocks unlimited projects.
+> unlocks unlimited projects. Databases and import are free on every plan.
 
 ## Structure
 
@@ -27,6 +27,9 @@ a team: no sharing, no comment threads, no notifications pile.
 - **Pages** live inside a project. Each page is a full document with a rich text
   editor with headings, bold and italic, bulleted and numbered lists, checklists,
   and more.
+- **[Databases](../projects-import/databases.md)** hold rows with typed columns, shown
+  as a table, board, gallery or list.
+- **Folders** group pages and databases inside a project.
 
 Use pages to separate a project into phases, documents, or topics without mixing
 everything into one sprawling note.
@@ -41,9 +44,22 @@ longer pieces with headings and lists. Beyond the basics, pages also support:
 - **Images:** upload from your device, or search and insert directly from
   **Unsplash** without leaving the editor.
 - **Tables**, with row/column controls that appear as you work in one.
+- **Toggles, callouts, columns, bookmarks, file blocks and code** with syntax
+  highlighting, plus headings up to level 6, superscript and subscript.
+- **A page icon and cover**, and links to other pages and databases (type
+  **/Link to page** or **/Link to database**).
 - **Math**, both inline and block, written in LaTeX and rendered live via
   KaTeX.
 - A **cover image** for the project itself, set from the project header.
+
+## Bring your content in
+
+Use **Import** to copy pages and databases from
+[Notion](../projects-import/import-from-notion.md),
+[Google Docs](../projects-import/import-from-google-docs.md) and
+[Word files](../projects-import/import-word-files.md). Imports are copies, free on
+every plan, and re-importing never overwrites your edits. See
+[Import into Projects](../projects-import/import-overview.md).
 
 ## Find anything fast
 

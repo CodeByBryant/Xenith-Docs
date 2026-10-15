@@ -1,0 +1,12 @@
+{
+  "label": "Import and Databases",
+  "position": 3.5,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "title": "Import and Databases",
+    "description": "Bring pages, documents and databases into Projects, and work with databases in Xenith. Free on every plan.",
+    "slug": "/category/import-and-databases"
+  }
+}
