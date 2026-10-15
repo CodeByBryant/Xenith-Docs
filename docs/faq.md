@@ -91,9 +91,10 @@ Everything else works without AI.
 
 ## Do I have to use all eight dimensions?
 
-Not at all. Start with three or four that matter most, and add more later from
-[Settings](./account/settings.md). It's better to be consistent in a few areas
-than spread thin across all eight.
+Not at all. Your goal keeps three in view, and you can ignore the rest. All
+eight stay available under **Life Dimensions** in the sidebar whenever you want
+them. It's better to be consistent in a few areas than spread thin across all
+eight.
 
 ## Is Xenith for teams?
 

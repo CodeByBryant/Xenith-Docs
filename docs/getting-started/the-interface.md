@@ -43,7 +43,7 @@ pressure.
 ## Sidebar navigation
 
 The left sidebar is your map of the app: Dashboard, Intentions, Focus, Routines,
-Reflection, Dimensions, Growth, Insights, Projects, Coach, Calendar, and
+Reflection, Life Dimensions, Growth, Insights, Projects, Coach, Calendar, and
 Settings. Collapse it when you want maximum room to think.
 
 ## Command palette

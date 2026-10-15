@@ -38,6 +38,12 @@ Notable changes to Xenith, newest first. We ship improvements often.
 - **Import transactions from a CSV.** Bring in a bank or card export in
   [Finances](./life-dimensions/finances.md); duplicates are skipped and you see a
   preview first.
+- **A shorter start.** Onboarding is now six steps. The Focus session and the
+  separate dimension picker are gone; your goal decides which three dimensions
+  Xenith keeps in view and shows them as you choose. A new optional step lets you
+  rate where you are in each dimension, and **Back** and **Forward** buttons let
+  you review or change anything. Your dashboard offers a first Focus session
+  instead. See [Onboarding](./getting-started/onboarding.md).
 - **A new dashboard.** A wider layout with a greeting, today's intentions and
   focus time, a week view, a balance wheel for your eight dimensions, and your
   tools ordered by the dimensions you chose. Pro tools show as compact locked

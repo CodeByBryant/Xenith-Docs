@@ -74,8 +74,8 @@ subscription needed to deliver them. Disabling notifications removes that.
 
 ## Your controls
 
-- **Hide dimensions** you no longer use without losing their data
-  ([Settings](./settings.md)).
+- **Ignore dimensions** you don't use. Your goal keeps three in view, and nothing
+  is deleted from the others ([Life Dimensions](../life-dimensions/overview.md)).
 - **Disable AI features** simply by not using Growth or Coach.
 - **Turn off notifications** any time.
 - **Disconnect** any connected tool, or turn off two-way sync, in

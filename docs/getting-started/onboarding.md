@@ -1,58 +1,79 @@
 ---
 sidebar_position: 2
 title: Onboarding
-description: "What happens the first time you open Xenith: one intention, one Focus session, and a first reflection, before anything else."
+description: "What happens the first time you open Xenith: pick a goal, set one intention, and optionally rate your life dimensions and connect your tools."
 keywords:
   - xenith onboarding
   - set up xenith
-  - choose life dimensions
+  - rate life dimensions
   - getting started productivity app
 ---
 
 # Onboarding
 
-The first time you sign in, Xenith walks you through one real Intention →
-Focus → Reflection loop before asking you to configure anything. It takes
-about ten minutes, and every choice you make can be changed later.
+The first time you sign in, Xenith asks for just enough to give you a useful
+first day: a goal, one intention, and (if you like) a quick sense of where you
+are in each area of life. It takes a couple of minutes. The rating step and Connect your tools are
+optional, and **Back** and **Forward** let you review or change anything before
+you finish.
 
 ## The flow
 
 1. **Your name and timezone.** Timezone matters. It's what every date and
    reminder in Xenith is based on.
-2. **Pick one goal.** Seven options (get organized, focus better, improve your
-   health, build better routines, make progress on a project, feel more
-   balanced, understand your patterns). Pick whichever fits today. You can
-   pursue any of the others later.
+2. **Pick one goal.** Seven options. Each one shows the three
+   **[Life Dimensions](../life-dimensions/overview.md)** it keeps in view, so
+   your goal decides which areas Xenith focuses on. Pick whichever fits today.
+
+   | Goal | Dimensions kept in view |
+   | --- | --- |
+   | Get organized | Work, Rest, Purpose |
+   | Focus better | Work, Mind, Rest |
+   | Improve my health | Health, Rest, Mind |
+   | Build better routines | Health, Rest, Purpose |
+   | Make progress on a project | Work, Learning, Purpose |
+   | Feel more balanced | Relationships, Rest, Health |
+   | Understand my patterns | Mind, Rest, Work |
+
 3. **Set one intention.** A single, specific thing you want to move forward
    today. This is the heart of the deliberate-living loop.
-4. **Give it 10 minutes.** A short [Focus](../daily-workflow/focus.md) session
-   tied to your intention (15 and 25 minutes are also available). If now
-   isn't the moment, "I'll do this later" skips straight to step 6, and nothing
-   about finishing onboarding depends on this step.
-5. **Reflect.** Three quick questions once your session ends: did it move
-   things forward, how focused did it feel, and what got in the way (if
-   anything). Only shown if you completed a Focus session in step 4.
-6. **Choose which areas to keep in view.** All eight
-   **[Life Dimensions](../life-dimensions/overview.md)** are shown, with three
-   pre-selected based on your goal. Add or remove any of them. This list is
-   never final.
-7. **Connect your tools (optional).** A grid of the tools Xenith can work with:
+4. **Rate your dimensions (optional).** Drag a slider from 1 (very low) to 10
+   (very high) for how each area is going right now. The three areas from your
+   goal come first, and the other five are behind **Rate the other 5 areas**.
+   A rough sense is enough. A slider counts as rated only once you touch it, so
+   nothing is pre-filled, and only the areas you rate
+   are saved, as your starting point under **Life Dimensions**. **Skip for now** moves on
+   without saving anything.
+5. **Connect your tools (optional).** A grid of the tools Xenith can work with:
    Google Calendar, Google Tasks, Notion, Microsoft To Do, Todoist and Apple
    Calendar. Open a card, switch on only what you want, and Xenith asks that app
    for just that. Everything here is free, can be skipped, and never blocks
    finishing setup. See [Integrations](../integrations/calendar-sync.md).
-8. **Your Xenith system.** A one-screen summary of what you just set up, then
-   straight into the app.
+6. **Your Xenith system.** A one-screen summary: your goal, the dimensions it
+   keeps in view, anything you rated, and your intention. Then straight into
+   the app.
+
+Use **Back** and **Forward** at the top of any step to review or change
+something. Going back keeps what you entered, and an edited intention updates
+the one you already set instead of adding another. Your browser's Back button
+works too.
+
+## After onboarding
+
+Your dashboard offers a short [Focus](../daily-workflow/focus.md) session on
+your intention ("Give it 10 minutes?"). Start it, dismiss it, or leave it. It
+goes away on its own after 24 hours, and for good once you complete a session.
 
 ## Changing your setup later
 
-Nothing chosen during onboarding is permanent. Visit
-[Settings](../account/settings.md) to add or remove dimensions, update your
-profile, or adjust notifications at any time.
+Most of what you chose during onboarding can be changed later.
 
-If you skipped the Focus session during onboarding, your dashboard shows a
-one-time, no-pressure reminder with your intention for the next 24 hours.
-It disappears on its own after that, whether or not you act on it.
+- **Ratings:** re-rate any of the eight dimensions any time under
+  **Life Dimensions** in the sidebar.
+- **Your goal and its dimensions:** these are set during onboarding. Every
+  dimension stays available under **Life Dimensions** whichever goal you picked; the goal
+  decides which tools your dashboard puts first.
+- **Profile and notifications:** [Settings](../account/settings.md).
 
 ## Next steps
 
