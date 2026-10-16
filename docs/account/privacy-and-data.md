@@ -78,6 +78,26 @@ stores Notion page ids and a fingerprint of each cell (not its content). Documen
 data from Google is used only to copy the documents you choose, never for
 advertising or to train AI models.
 
+## Usage analytics
+
+Xenith uses analytics to learn whether the app is useful, so it can be improved.
+There are two parts, and it helps to know the difference:
+
+- **In your browser.** Page views and a handful of in-app actions, sent only
+  after you accept the cookie banner. Session recording and automatic click
+  capture are off.
+- **From Xenith's servers.** A small set of account activity events, recorded
+  without cookies, so the banner doesn't change them: that you signed in, which
+  onboarding step you reached, when you first wrote an intention, completed one,
+  finished a Focus session or saved a reflection, and which calendar days you were
+  active (counted in your timezone). These are names of actions, counts and dates.
+  They never include what you wrote, your reflections, or any health, finance or
+  other personal content.
+
+If you'd like us to stop recording the server events for your account, or delete
+the ones we hold, email [privacy@xenith.life](mailto:privacy@xenith.life). See the
+[Privacy Policy](https://xenith.life/privacy), Section 2, for the full wording.
+
 ## Error monitoring
 
 To keep Xenith stable, the app reports technical errors to a monitoring service.
