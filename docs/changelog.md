@@ -17,6 +17,17 @@ Notable changes to Xenith, newest first. We ship improvements often.
 >
 > Check the [status page](https://status.xenith.life) for real-time service health.
 
+## 2.4.4 (October 2026)
+
+**A clearer account of how usage analytics work.**
+
+- **Usage analytics, explained.** [Privacy & Data](./account/privacy-and-data.md) now
+  separates the analytics that run in your browser (only after you accept the cookie
+  banner) from a small set of account activity events recorded by Xenith's servers
+  without cookies: sign-ins, onboarding progress, first use of a core feature, and
+  which days you were active. They are names of actions, counts and dates, never what
+  you wrote. You can ask us to stop recording them or delete them.
+
 ## 2.4.3 (October 2026)
 
 **Bring your notes in, and work with databases.**
