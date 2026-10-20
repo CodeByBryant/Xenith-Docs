@@ -40,6 +40,12 @@ office monitor.
 Enable or disable gentle reminders and manage push notifications. This has its own
 guide: [Notifications](./notifications.md).
 
+## Worlds
+
+**Show Worlds** turns [Worlds](../growth-and-insights/worlds.md) on or off. Off hides
+it everywhere (the page, the dashboard and the menu) and keeps your World exactly as
+it is. **Customize your World** takes you to the Worlds page.
+
 ## Your data
 
 From the privacy-related controls you can review how your information is handled.

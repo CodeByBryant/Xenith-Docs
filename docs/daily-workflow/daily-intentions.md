@@ -70,6 +70,20 @@ hour you chose. Repeating intentions do not have reminders. Turn reminders off
 any time with the unsubscribe link in the email or in
 [Notifications](../account/notifications.md).
 
+The hour picker appears as soon as you open the add form, and also in
+[onboarding](../getting-started/onboarding.md), where it is optional and never
+pre-selected.
+
+**Mark done from the email.** Each intention in a reminder email has a **Mark
+done** link. It opens a page with one button, and nothing changes until you press
+it, so a mail app that previews links can't complete anything for you. The link
+works for 72 hours, only ever marks that one intention done, and pressing it again
+does nothing. It can't be used for anything else.
+
+**On your calendar.** If you picked a reminder hour, the intention shows up in
+your [calendar link](../integrations/apple-calendar.md) as a timed block at that
+hour instead of an all-day item.
+
 ## Reviewing at day's end
 
 Come back in the evening and mark each intention as completed, partial, or

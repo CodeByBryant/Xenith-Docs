@@ -17,6 +17,38 @@ Notable changes to Xenith, newest first. We ship improvements often.
 >
 > Check the [status page](https://status.xenith.life) for real-time service health.
 
+## 2.4.5 (October 2026)
+
+**A first week that comes back around: a reminder, a one-tap finish, and a planet that grows.**
+
+- **Say when you'll do it.** Under your first intention in
+  [onboarding](./getting-started/onboarding.md), and in the add form for
+  [intentions](./daily-workflow/daily-intentions.md), you can choose **Email me
+  around** an hour. It is off until you pick one.
+- **Mark done from the reminder email.** Each intention in the email has a link to a
+  page with one button. Nothing changes until you press it, it works for 72 hours,
+  and it only marks that intention done.
+- **Intentions in your calendar at their time.** With a reminder hour set, an
+  intention shows in your [calendar link](./integrations/apple-calendar.md) as a
+  timed block instead of an all-day item.
+- **Worlds.** A customizable planet that starts as bare rock and grows as you finish
+  intentions, focus, do routines, reflect and write gratitude. It only goes up, never
+  messages you, is free, and can be turned off in Settings. See
+  [Worlds](./growth-and-insights/worlds.md).
+- **A Focus session and a reflection in onboarding.** Onboarding is now nine steps:
+  after your intention you can create your World, try a short Focus session on it,
+  say how it went, and finish the intention from there. Every step after the
+  intention can be skipped.
+- **A suggested goal.** If you arrive from one of our feature pages or articles, the
+  matching goal is highlighted in onboarding. It never picks for you.
+- **Your week** (rolling out gradually). A calm look back at one week, plus your own
+  reflections from a month and a year ago. See
+  [Your week](./growth-and-insights/your-week.md).
+- **Privacy.** The account activity events our servers record now also include when
+  you mark an intention done from an email, when your World reaches a new stage, and
+  the Focus session you start during onboarding. They are names of actions, counts
+  and dates, never what you wrote. See [Privacy & Data](./account/privacy-and-data.md).
+
 ## 2.4.4 (October 2026)
 
 **A clearer account of how usage analytics work.**
