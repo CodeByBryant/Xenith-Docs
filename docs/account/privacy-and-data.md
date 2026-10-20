@@ -89,7 +89,9 @@ There are two parts, and it helps to know the difference:
 - **From Xenith's servers.** A small set of account activity events, recorded
   without cookies, so the banner doesn't change them: that you signed in, which
   onboarding step you reached, when you first wrote an intention, completed one,
-  finished a Focus session or saved a reflection, and which calendar days you were
+  finished a Focus session (including the one you can start during onboarding) or
+  saved a reflection, when you mark an intention done from the link in a reminder
+  email, when your World reaches a new stage, and which calendar days you were
   active (counted in your timezone). These are names of actions, counts and dates.
   They never include what you wrote, your reflections, or any health, finance or
   other personal content.
@@ -97,6 +99,20 @@ There are two parts, and it helps to know the difference:
 If you'd like us to stop recording the server events for your account, or delete
 the ones we hold, email [privacy@xenith.life](mailto:privacy@xenith.life). See the
 [Privacy Policy](https://xenith.life/privacy), Section 2, for the full wording.
+
+## Your World
+
+[Worlds](../growth-and-insights/worlds.md) stores your World's name and look and a
+growth score. The score is computed on our servers from your own activity: finished
+intentions, Focus time, routine steps, reflections and gratitude entries. Your
+World's name is never sent to analytics. It is included in your data export and
+deleted with your account, and you can turn Worlds off in [Settings](./settings.md).
+
+## Your week
+
+[Your week](../growth-and-insights/your-week.md) is computed in your browser from
+your own entries. "On this day" shows you your own earlier reflections on your own
+screen. That text is not sent to analytics or put in emails.
 
 ## Error monitoring
 

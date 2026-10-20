@@ -44,6 +44,10 @@ own topic in your email preferences (the link at the bottom of any Xenith email)
 so you can turn them off without turning off anything else. If the day's email
 allowance is used up, a reminder is dropped rather than sent late.
 
+Each open intention in the email has a **Mark done** link. It opens a page with a
+single button, works for 72 hours, and only marks that one intention done. See
+[Daily Intentions](../daily-workflow/daily-intentions.md#email-reminders).
+
 ## The Xenith philosophy on notifications
 
 Most apps use notifications to pull you back in. Xenith uses them sparingly, to

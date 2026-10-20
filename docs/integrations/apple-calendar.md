@@ -22,7 +22,10 @@ read-only link** instead.
 ## What it shows
 
 - Your [intentions](../daily-workflow/daily-intentions.md), on the day they are
-  planned.
+  planned. An intention with an email reminder shows as a timed block starting at
+  the reminder hour (30 minutes long, or its estimated time if you set one). One
+  without a reminder stays an all-day item. They are marked as free time, so they
+  never make you look busy.
 - The events you created in Xenith.
 
 It does not include events that came from Google Calendar or Notion (they are
