@@ -17,7 +17,8 @@ as you use Xenith. Its eight regions are your eight
 changes most is the part of your life you have been tending.
 
 It is a quiet picture of what you have done, not a score to defend. Open it from
-**Worlds** in the sidebar.
+**Worlds** in the sidebar. The page fills the whole screen, with the planet in the
+middle and a panel for its look on the right.
 
 ## It only grows
 
@@ -60,21 +61,41 @@ regions with how far each has come (bare, lichen, green, lush or thriving) and t
 The page describes the planet in words as well, so nothing depends on seeing
 colours.
 
+## Look around
+
+Your World is a small 3D planet with real mountains, snowy peaks, shorelines,
+forests, little towns that light up on the night side, clouds and animals.
+
+- **Drag** to turn it, **scroll** or **pinch** to zoom, all the way down to ground
+  level. The plus and minus buttons and the keyboard (`+`, `-`, arrow keys, `0` to
+  go back out) do the same.
+- **Point at a part of the planet** and a small card names its region and the
+  numbers behind it, for example "lush · 22 from Mind activity".
+- **Click or tap a region** to fly to it. It opens in the **Regions** tab of the
+  panel, and **Back to the whole planet** takes you out again. Hovering a region in
+  that list lights it up on the planet.
+- Plants, towns and animals appear as a region grows and never go away. The same
+  World always has the same trees and animals, and nothing appears at random.
+
 ## Customize it
 
-On the Worlds page you can:
+The panel on the right has four tabs. On a phone it is a sheet that opens from the
+**Customize** button.
 
-- Pick what it becomes: **Terra**, **Ocean**, **Desert**, **Ice** or **Ember**.
-- **Roll a new planet** for a different landscape.
-- Give it a name (up to 30 characters).
-- Change the colour of the oceans, plant life and sky, add rings, add up to
-  three moons, and change the stars and the lights on the night side.
-- Tint the regions with the Life Dimension colours.
-- Slow its spin or hold it still. If your device asks for reduced motion, it
-  holds still on its own.
+- **Look:** give it a name (up to 30 characters), pick what it becomes
+  (**Terra**, **Ocean**, **Desert**, **Ice** or **Ember**), **Roll a new planet** for
+  a different landscape, change the colour of the oceans, greenery and atmosphere,
+  choose how dramatic the mountains are, and turn the animals on or off.
+- **Sky:** the stars, a nebula, rings, up to three moons, the lights on the night
+  side, and whether it turns slowly or holds still. If your device asks for reduced
+  motion, it holds still on its own.
+- **Regions:** tint the regions with the Life Dimension colours, and see each
+  region in words with the growth behind it.
+- **About:** how your World grows.
 
-Changes are previewed live and only saved when you save them. If your device
-can't draw the planet, a simple picture of it is shown instead.
+Changes are previewed live and only saved when you press **Save changes**.
+**Discard changes** puts your saved look back. If your device can't draw the planet,
+a simple picture of it is shown instead.
 
 ## Turning Worlds off
 

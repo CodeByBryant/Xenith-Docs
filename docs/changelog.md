@@ -17,6 +17,24 @@ Notable changes to Xenith, newest first. We ship improvements often.
 >
 > Check the [status page](https://status.xenith.life) for real-time service health.
 
+## 2.4.6 (October 2026)
+
+**Worlds, redrawn: a full-screen 3D planet you can zoom into.**
+
+- **A new planet.** Your World is now a stylized 3D planet with mountains and snowy
+  peaks, shorelines, forests, little towns that glow at night, clouds and animals on
+  land, in the sea and in the air. Plants, towns and animals only ever appear as a
+  region grows.
+- **Full screen, with zoom.** The Worlds page fills the screen. Drag to turn, scroll
+  or pinch to zoom down to ground level, point at a part of the planet to see its
+  region and the numbers behind it, and click to fly there.
+- **A panel instead of sliders.** The controls moved to a panel on the right (a sheet
+  on phones) with Look, Sky, Regions and About tabs. New choices: how dramatic the
+  mountains are, and animals on or off. Changes still preview live and save when you
+  press Save.
+- Worlds you already have keep their look settings; they just get the new planet. See
+  [Worlds](./growth-and-insights/worlds.md).
+
 ## 2.4.5 (October 2026)
 
 **A first week that comes back around: a reminder, a one-tap finish, and a planet that grows.**
