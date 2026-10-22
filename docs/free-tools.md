@@ -88,6 +88,20 @@ wheel, share a link and download an image. The **Pomodoro Timer** runs a 25-minu
 and 5-minute break cycle with ambient sound, the same idea as [Focus](./daily-workflow/focus.md)
 in the app.
 
+## Bringing a result into Xenith
+
+If you use the Eisenhower Matrix Maker, the Time Blocking Planner or the Weekly Review
+Generator and then sign up, onboarding can offer your first task, first block or first
+priority as your first intention. If you finish the Work-Life Balance Quiz, it can offer
+your scores as your starting ratings for the eight life dimensions.
+
+- **It is an offer, not a transfer.** You see a small note with a **Use this** button (**Use these scores** for quiz ratings).
+  Nothing is filled in or saved until you press it, and you can ignore it.
+- **It stays on your device.** The result waits in your browser for up to 14 days, is
+  cleared when you finish onboarding, and is never sent to analytics.
+- **Only the latest tool counts.** Starting over in a tool, or clearing its data, removes
+  its offer.
+
 ## Using them with Xenith
 
 The tools are standalone, and Xenith has a matching place for each result: your
