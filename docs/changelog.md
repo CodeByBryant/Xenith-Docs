@@ -17,21 +17,6 @@ Notable changes to Xenith, newest first. We ship improvements often.
 >
 > Check the [status page](https://status.xenith.life) for real-time service health.
 
-## 2.4.7 (October 2026)
-
-**Six new free tools, no account needed.**
-
-- **New tools at [xenith.life/tools](https://xenith.life/tools):** an Eisenhower
-  Matrix Maker, a Time Blocking Planner, a Morning Routine Builder, a Weekly Review
-  Generator, an Energy Audit and a Work-Life Balance Quiz. They join the Pomodoro
-  Timer and the Wheel of Life.
-- **They run in your browser.** What you enter is saved on your device only and is never
-  uploaded. Each tool can copy its result as text and print it, and some download an
-  image, a Markdown file or a calendar file.
-- **Calendar files.** The Time Blocking Planner and the Morning Routine Builder can
-  download an `.ics` file you can open in Apple Calendar, Outlook or, through import,
-  Google Calendar. See [Free tools](./free-tools.md).
-
 ## 2.4.6 (October 2026)
 
 **Worlds, redrawn: a full-screen 3D planet you can zoom into.**
@@ -49,6 +34,23 @@ Notable changes to Xenith, newest first. We ship improvements often.
   press Save.
 - Worlds you already have keep their look settings; they just get the new planet. See
   [Worlds](./growth-and-insights/worlds.md).
+
+**Six new free tools, no account needed.**
+
+- **New tools at [xenith.life/tools](https://xenith.life/tools):** an Eisenhower
+  Matrix Maker, a Time Blocking Planner, a Morning Routine Builder, a Weekly Review
+  Generator, an Energy Audit and a Work-Life Balance Quiz. They join the Pomodoro
+  Timer and the Wheel of Life.
+- **They run in your browser.** What you enter is saved on your device only and is never
+  uploaded. Each tool can copy its result as text and print it, and some download an
+  image, a Markdown file or a calendar file.
+- **Calendar files.** The Time Blocking Planner and the Morning Routine Builder can
+  download an `.ics` file you can open in Apple Calendar, Outlook or, through import,
+  Google Calendar.
+- **Bring a result into Xenith.** If you sign up after using the Eisenhower Matrix
+  Maker, the Time Blocking Planner, the Weekly Review Generator or the Work-Life
+  Balance Quiz, onboarding can offer your result as your first intention or your
+  starting ratings. You choose whether to use it. See [Free tools](./free-tools.md).
 
 ## 2.4.5 (October 2026)
 
