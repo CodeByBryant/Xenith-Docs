@@ -92,10 +92,9 @@ in the app.
 
 If you use the Eisenhower Matrix Maker, the Time Blocking Planner or the Weekly Review
 Generator and then sign up, onboarding can offer your first task, first block or first
-priority as your first intention. If you finish the Work-Life Balance Quiz, it can offer
-your scores as your starting ratings for the eight life dimensions.
+priority as your first intention.
 
-- **It is an offer, not a transfer.** You see a small note with a **Use this** button (**Use these scores** for quiz ratings).
+- **It is an offer, not a transfer.** You see a small note with a **Use this** button.
   Nothing is filled in or saved until you press it, and you can ignore it.
 - **It stays on your device.** The result waits in your browser for up to 14 days, is
   cleared when you finish onboarding, and is never sent to analytics.
