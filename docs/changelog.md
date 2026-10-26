@@ -17,6 +17,36 @@ Notable changes to Xenith, newest first. We ship improvements often.
 >
 > Check the [status page](https://status.xenith.life) for real-time service health.
 
+## 2.4.7 (October 2026)
+
+**Try Pro for $1, and a shorter setup.**
+
+- **Setup is shorter.** Onboarding is now your name, a goal, one intention, your World,
+  connecting tools and the Pro offer. Focus and rating your life dimensions are no longer
+  part of it: Focus starts from your dashboard and you rate your dimensions on the
+  Life Dimensions page. See [Onboarding](./getting-started/onboarding.md).
+- **A first week for $1.** If you have never had Pro, you can start with 7 days for $1.
+  After the week the monthly plan ($7.99) starts unless you cancel. We email you 2
+  days and 1 day before the first full charge. See
+  [Pro and billing](./account/pro-and-billing.md).
+- **A walkthrough for Life Dimensions.** The first time you open the page, a short,
+  skippable walkthrough shows how to pick an area, rate it and read the weekly
+  snapshots. Replay it any time with **Show me around**. If you took the Work-Life
+  Balance Quiz, the page can offer its scores as this week's ratings when you press a
+  button. See [Life Dimensions](./life-dimensions/overview.md).
+- **A clearer first-week offer.** The offer step now says what Pro lets you do: track every
+  part of life, talk things through with the Coach, follow a full Growth Path, get a written
+  read of your week and run as many projects as you like.
+
+**Small fixes.**
+
+- **Nothing sits under the quick capture button.** The Life Dimensions walkthrough, the
+  Worlds panel and its phone button, the Coach message box, and the end of long pages in the
+  calendar, projects and databases all stay clear of the capture button in the bottom-right
+  corner.
+- **The dashboard's columns end together.** The Routines and Reflection cards now stretch to
+  the bottom of the Projects card when it is the taller one.
+
 ## 2.4.6 (October 2026)
 
 **Worlds, redrawn: a full-screen 3D planet you can zoom into.**
@@ -51,22 +81,6 @@ Notable changes to Xenith, newest first. We ship improvements often.
   Maker, the Time Blocking Planner or the Weekly Review Generator, onboarding can
   offer your result as your first intention. You choose whether to use it. See
   [Free tools](./free-tools.md).
-
-**Try Pro for $1, and a shorter setup.**
-
-- **Setup is shorter.** Onboarding is now your name, a goal, one intention, your World,
-  connecting tools and the Pro offer. Focus and rating your life dimensions are no longer
-  part of it: Focus starts from your dashboard and you rate your dimensions on the
-  Life Dimensions page. See [Onboarding](./getting-started/onboarding.md).
-- **A first week for $1.** If you have never had Pro, you can start with 7 days for $1.
-  After the week the monthly plan ($7.99) starts unless you cancel. We email you 2
-  days and 1 day before the first full charge. See
-  [Pro and billing](./account/pro-and-billing.md).
-- **A walkthrough for Life Dimensions.** The first time you open the page, a short,
-  skippable walkthrough shows how to pick an area, rate it and read the weekly
-  snapshots. Replay it any time with **Show me around**. If you took the Work-Life
-  Balance Quiz, the page can offer its scores as this week's ratings when you press a
-  button. See [Life Dimensions](./life-dimensions/overview.md).
 
 ## 2.4.5 (October 2026)
 
