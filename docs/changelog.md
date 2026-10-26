@@ -48,12 +48,16 @@ Notable changes to Xenith, newest first. We ship improvements often.
   download an `.ics` file you can open in Apple Calendar, Outlook or, through import,
   Google Calendar.
 - **Bring a result into Xenith.** If you sign up after using the Eisenhower Matrix
-  Maker, the Time Blocking Planner, the Weekly Review Generator or the Work-Life
-  Balance Quiz, onboarding can offer your result as your first intention or your
-  starting ratings. You choose whether to use it. See [Free tools](./free-tools.md).
+  Maker, the Time Blocking Planner or the Weekly Review Generator, onboarding can
+  offer your result as your first intention. You choose whether to use it. See
+  [Free tools](./free-tools.md).
 
-**Try Pro for $1.**
+**Try Pro for $1, and a shorter setup.**
 
+- **Setup is shorter.** Onboarding is now your name, a goal, one intention, your World,
+  connecting tools and the Pro offer. Focus and rating your life dimensions are no longer
+  part of it: Focus starts from your dashboard and you rate your dimensions on the
+  Life Dimensions page. See [Onboarding](./getting-started/onboarding.md).
 - **A first week for $1.** If you have never had Pro, you can start with 7 days for $1.
   After the week the monthly plan ($7.99) starts unless you cancel. We email you 2
   days and 1 day before the first full charge. See
