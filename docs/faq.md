@@ -70,7 +70,8 @@ Progress here is about direction, not perfect attendance.
 
 Xenith is a web app that works in any modern browser, on desktop and mobile. On a
 phone you can **install it to your home screen** for an app-like experience,
-including [push notifications](./account/notifications.md).
+including [push notifications](./account/notifications.md). Find the steps for your
+device in **Settings** under **Get the app**. There is no app store version yet.
 
 ## How do I sign in?
 

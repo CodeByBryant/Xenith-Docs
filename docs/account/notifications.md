@@ -32,8 +32,10 @@ optional, quiet, and entirely under your control.
 
 For push notifications on a phone, **install Xenith to your home screen** first.
 When you open Xenith in a mobile browser, look for the install prompt (or use your
-browser's "Add to Home Screen" option). Installed as an app, Xenith can deliver
-notifications like any other app.
+browser's "Add to Home Screen" option). You can also find it any time in
+**Settings** under **Get the app**, and at the end of [onboarding](../getting-started/onboarding.md),
+with the steps for your device. Installed as an app, Xenith can deliver notifications
+like any other app.
 
 ## Email reminders
 

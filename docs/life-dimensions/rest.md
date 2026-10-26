@@ -26,7 +26,8 @@ helps you give it the attention it deserves.
 ### Sleep
 Log your sleep so you can see the through-line between how you rest and how you
 feel and perform. Even a simple record makes the connection between short nights
-and rough days impossible to ignore.
+and rough days impossible to ignore. The bedtime and wake time start from your most
+recent log, so a normal night is one rating and a save.
 
 ### Recharge
 Track the deliberate recovery activities that refill you: walks, downtime,

@@ -19,9 +19,12 @@ required.
 
 A check-in is meant to take seconds:
 
-- **A mood / energy reading:** a quick scale, not an essay.
+- **A mood / energy reading:** a quick scale, not an essay. Tap a number and you are
+  on to the next step.
 - **A nudge toward today's focus:** a gentle prompt to set or review your
-  [intentions](./daily-intentions.md).
+  [intentions](./daily-intentions.md). Anything still open from earlier days is
+  offered, and so are today's calendar events, so you can pick instead of typing.
+  Nothing is added until you choose it.
 
 Morning check-ins set the tone; evening check-ins flow naturally into your
 [Reflection](./reflection.md).

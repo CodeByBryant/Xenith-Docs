@@ -45,6 +45,10 @@ later stops the next renewal, and you keep Pro until the end of the period you h
 paid for. Your data is never deleted when Pro ends. Pro-only tools go back to showing a
 preview.
 
+After you cancel, Xenith may ask what made you cancel. It is one tap from a fixed list
+(for example, too much to track by hand, no mobile app, or too expensive), with no text
+box, and you can dismiss it. We use the answers to decide what to build next.
+
 ## Receipts and questions
 
 Stripe's receipt for each payment is emailed to you, and Settings shows your next

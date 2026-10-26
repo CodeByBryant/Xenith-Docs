@@ -43,7 +43,10 @@ logs that add up to a clear daily picture.
 
 ### Workouts
 Record your training sessions (what you did and how it went), building a history
-you can look back on as your fitness evolves.
+you can look back on as your fitness evolves. If you train the same way again, **Repeat
+last session** logs the exercises from your most recent session for the day you are
+viewing, in one tap. It appears only on a day with nothing logged yet, and you can
+remove any of the entries afterwards.
 
 ## How Health fits in
 
