@@ -33,6 +33,11 @@ asks to **read** your tasks.
 | Microsoft To Do | Open tasks due soon | Yes, if you turn it on |
 | Google Tasks | Open tasks due soon | Yes, if you turn it on |
 
+> **Google Tasks is not available to connect yet.** Google is still reviewing
+> Xenith's access to Google Tasks, so the option is hidden until they approve it.
+> If you connected it earlier, it keeps working and you can disconnect it from
+> Settings.
+
 "Due soon" means open tasks due today, due within the next week, or already
 past their due date. Tasks with no due date are left out, so your suggestions
 don't turn into a backlog of someday items.
