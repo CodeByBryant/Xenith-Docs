@@ -47,7 +47,8 @@ overview stay free regardless of plan. Pro unlocks the logging tools behind
 them. Pro-only screens show a preview with an upgrade prompt that says what that
 tool does, rather than hiding completely. Upgrade
 anytime from Settings or at [xenith.life/app/pricing](https://xenith.life/app/pricing);
-cancel anytime. [Calendar Sync](./integrations/calendar-sync.md), [task sources](./integrations/task-sources.md) and the [Apple Calendar link](./integrations/apple-calendar.md) are free on every plan.
+cancel anytime. New to Pro? Your first week is $1, then the monthly plan starts
+unless you cancel (see [Pro and billing](./account/pro-and-billing.md)). [Calendar Sync](./integrations/calendar-sync.md), [task sources](./integrations/task-sources.md) and the [Apple Calendar link](./integrations/apple-calendar.md) are free on every plan.
 See [Creating an Account](./getting-started/creating-an-account.md) to get
 started.
 

@@ -52,6 +52,13 @@ Notable changes to Xenith, newest first. We ship improvements often.
   Balance Quiz, onboarding can offer your result as your first intention or your
   starting ratings. You choose whether to use it. See [Free tools](./free-tools.md).
 
+**Try Pro for $1.**
+
+- **A first week for $1.** If you have never had Pro, you can start with 7 days for $1.
+  After the week the monthly plan ($7.99) starts unless you cancel. We email you 2
+  days and 1 day before the first full charge. See
+  [Pro and billing](./account/pro-and-billing.md).
+
 ## 2.4.5 (October 2026)
 
 **A first week that comes back around: a reminder, a one-tap finish, and a planet that grows.**
