@@ -96,8 +96,11 @@ priority as your first intention.
 
 - **It is an offer, not a transfer.** You see a small note with a **Use this** button.
   Nothing is filled in or saved until you press it, and you can ignore it.
+- **Quiz scores go to Life Dimensions.** A Work-Life Balance Quiz result is offered on
+  the [Life Dimensions](./life-dimensions/overview.md) page instead, as your ratings for
+  this week, with the same **Use these scores** button.
 - **It stays on your device.** The result waits in your browser for up to 14 days, is
-  cleared when you finish onboarding, and is never sent to analytics.
+  cleared once you use it or finish onboarding, and is never sent to analytics.
 - **Only the latest tool counts.** Starting over in a tool, or clearing its data, removes
   its offer.
 

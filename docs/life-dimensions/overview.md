@@ -49,14 +49,36 @@ know which area you're looking at.
 ## How tracking works
 
 1. **Start from your goal.** During [onboarding](../getting-started/onboarding.md)
-   you pick a goal, and each goal keeps three dimensions in view. You can also
-   rate how each of the eight is going. Re-rate any time under
-   **Life Dimensions**.
+   you pick a goal, and each goal keeps three dimensions in view. Rate how each
+   of the eight is going on the **Life Dimensions** page, and re-rate any time.
 2. **Log what's meaningful.** Each dimension has dedicated tools, which are part
    of [Xenith Pro](https://xenith.life/app/pricing). Add entries at whatever
    cadence fits: daily, weekly, or only when something changes.
 3. **Reflect.** Each dimension surfaces gentle insights so you can see patterns
    without being judged.
+
+## Rating your dimensions
+
+Open **Life Dimensions** in the app to see the eight areas as a wheel. Click a point
+on the wheel to open that area, move its slider to a rough number from 1 to 10, and
+let go: it saves when you do (from the keyboard, release an arrow key). Each week is
+its own snapshot, so use the arrows at the top to look at earlier weeks and rate again
+the next week to see how the shape moves. Earlier weeks are for looking, not editing.
+
+**The first-visit walkthrough.** The first time you open the page, a short four-step
+walkthrough points out the wheel, asks you to pick an area, asks you to rate it and
+explains the weekly snapshots. It takes your real actions as the answer, so picking an
+area or saving a rating moves it along, and nothing is skipped ahead of an explanation.
+Close it any time with the close button or Escape. To see it again, choose
+**Show me around**. Whether you have seen it is remembered in your browser only, so a
+different device may show it once more.
+
+**Scores from the quiz.** If you took the
+[Work-Life Balance Quiz](../free-tools.md) before signing up, the page can offer its
+scores as a note with a **Use these scores** button. Nothing is saved until you press
+it. It is only offered for the current week, and only while you have not rated anything
+yet. If a result has no score for an area, that area is left unrated rather than
+guessed.
 
 ## Dimension scores and balance
 

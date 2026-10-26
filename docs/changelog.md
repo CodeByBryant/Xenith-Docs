@@ -62,6 +62,11 @@ Notable changes to Xenith, newest first. We ship improvements often.
   After the week the monthly plan ($7.99) starts unless you cancel. We email you 2
   days and 1 day before the first full charge. See
   [Pro and billing](./account/pro-and-billing.md).
+- **A walkthrough for Life Dimensions.** The first time you open the page, a short,
+  skippable walkthrough shows how to pick an area, rate it and read the weekly
+  snapshots. Replay it any time with **Show me around**. If you took the Work-Life
+  Balance Quiz, the page can offer its scores as this week's ratings when you press a
+  button. See [Life Dimensions](./life-dimensions/overview.md).
 
 ## 2.4.5 (October 2026)
 
