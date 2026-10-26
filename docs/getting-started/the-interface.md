@@ -23,7 +23,10 @@ minutes focused today"), then surfaces what's relevant right now:
 
 - **Today:** your [intentions](../daily-workflow/daily-intentions.md) with
   progress, the next thing to [Focus](../daily-workflow/focus.md) on, and anything
-  still open from earlier days.
+  still open from earlier days. With nothing planned yet, **Draft my day** lists what
+  is already in Xenith, still-open intentions and today's calendar events, each with
+  where it came from. You tick what you want and press **Add** (nothing is added
+  before that).
 - **From your tools:** tasks from [Todoist, Microsoft To Do or Google
   Tasks](../integrations/task-sources.md), if you connected them. Shown only when
   there is something to decide.

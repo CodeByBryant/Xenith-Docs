@@ -60,7 +60,8 @@ dashboard, and rate your dimensions on the **Life Dimensions** page when you wan
    first full charge, and you can cancel any time in Settings. **Not now** skips it
    and costs nothing. See [Pro and billing](../account/pro-and-billing.md).
 7. **Your Xenith system.** A one-screen summary: your goal, the dimensions it
-   keeps in view, and what to do next. Then straight into the app.
+   keeps in view, and what to do next. It also shows how to put Xenith on your home
+   screen, for your device. Then straight into the app.
 
 Use **Back** and **Forward** at the top of any step to review or change
 something. Going back keeps what you entered, and an edited intention updates
