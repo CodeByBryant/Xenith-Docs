@@ -133,6 +133,8 @@ subscription needed to deliver them. Disabling notifications removes that.
 - **Turn off notifications** any time.
 - **Disconnect** any connected tool, or turn off two-way sync, in
   [Settings](./settings.md).
+- **Export your data** any time, in JSON, CSV, Markdown or Word, from
+  [Settings](./settings.md#export-your-data).
 - For account deletion or data requests, follow the process described in the
   [Privacy Policy](https://xenith.life/privacy).
 
