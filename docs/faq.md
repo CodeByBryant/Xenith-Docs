@@ -106,8 +106,10 @@ that's intentional.
 
 ## Can I export my data?
 
-Data export is on the roadmap. For account or data requests in the meantime,
-follow the process in the [Privacy Policy](https://xenith.life/privacy).
+Yes, and it's free. In [Settings](./account/settings.md#export-your-data) choose
+**Export my data** and pick a format: everything as JSON, a daily log as CSV for a
+spreadsheet, or a readable journal as Markdown or Word. For other account or data
+requests, follow the process in the [Privacy Policy](https://xenith.life/privacy).
 
 ## Where can I see what's new?
 
