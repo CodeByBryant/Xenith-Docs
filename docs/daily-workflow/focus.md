@@ -1,12 +1,14 @@
 ---
 sidebar_position: 2
 title: Focus
-description: "Deep, intentional work with the Xenith Focus timer: custom durations, ambient soundscapes, full-screen mode, and automatic session logging."
+description: "Deep, intentional work with the Xenith Focus timer: custom durations, ambient soundscapes, an end-of-session sound, optional session ratings, full-screen mode, and automatic session logging."
 keywords:
   - focus timer
   - deep work timer
   - pomodoro timer
   - ambient sounds for focus
+  - focus timer alarm
+  - rate focus session
   - distraction free timer
 ---
 
@@ -35,10 +37,12 @@ your full attention.
 
 Focus includes ambient audio to help you settle in:
 
-- **White noise** and **brown noise:** generated in your browser, so they're
-  always available and never need to load.
-- **Rain** and **Rain & thunder:** natural soundscapes.
-- **Lo-fi:** relaxed background music with a gentle fade-in.
+- **White noise**, **pink noise** and **brown noise:** generated in your browser, so
+  they're always available and never need to load. These are free.
+- **Ocean**, **wind** and **fireplace:** also generated in your browser, so they start
+  instantly and work offline. Pro.
+- **Rain** and **Rain & thunder:** natural soundscapes. Pro.
+- **Lo-fi:** relaxed background music with a gentle fade-in. Pro.
 
 Adjust the **volume** at any time, or turn sound off entirely. If a track can't
 load, Focus quietly falls back to generated noise so your session is never
@@ -57,6 +61,24 @@ keep you anchored. The session keeps running even if your connection drops, beca
 timer lives in your browser. When it ends, your session is recorded
 automatically.
 
+## When time is up
+
+Focus plays a sound when the timer reaches zero. Choose **Soft bell**, **Chime**,
+**Marimba** or **Gong**, or **Off**, from the alert settings on the setup screen or
+while a session is running. Tap a sound to hear it first. In Pomodoro mode it rings at
+the end of every focus block and every break.
+
+You can also switch on a **notification**, which appears when the tab is in the
+background. It is off until you turn it on, and your browser asks for permission the
+first time. If you blocked notifications in your browser, Focus says so and tells you
+where to change it. Your sound and notification choices stay on your device.
+
+> **On a locked phone**
+>
+> A web page cannot wake a phone whose screen is locked, so the sound or notification
+> can arrive late or not at all there. Keep the screen on for sessions where you need
+> the alert. The mobile app is planned to fix this.
+
 ## After a session
 
 If the session was linked to an intention, a card asks **"How did it go with
@@ -68,6 +90,15 @@ Completed sessions are logged with their duration and time, building an honest
 picture of when and how deeply you work. That history flows into the
 [Insights dashboard](../growth-and-insights/insights.md) as your focused-minutes
 trend.
+
+### Rating a session
+
+When a session ends, **How did this session go?** offers 1 to 5: Rough, Low, Okay, Good,
+Great. It is optional and there is nothing to dismiss, so skip it freely. Tap another
+word to change it later. In Pomodoro mode it asks once, when the whole run ends, about
+the last focus block. Recent sessions shows the word beside each rated session, and
+your [export](../account/settings.md#export-your-data) includes it. Xenith does not
+add ratings up into a score or compare them with anything.
 
 ## Tips for deep work
 
