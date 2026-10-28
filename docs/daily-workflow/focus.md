@@ -86,6 +86,11 @@ If the session was linked to an intention, a card asks **"How did it go with
 closes the card and changes nothing. If you did not link one, Focus suggests
 today's top open intention at the start of the next session.
 
+Completed sessions are logged with their duration and time, building an honest
+picture of when and how deeply you work. That history flows into the
+[Insights dashboard](../growth-and-insights/insights.md) as your focused-minutes
+trend.
+
 ### Rating a session
 
 When a session ends, **How did this session go?** offers 1 to 5: Rough, Low, Okay, Good,
@@ -94,11 +99,6 @@ word to change it later. In Pomodoro mode it asks once, when the whole run ends,
 the last focus block. Recent sessions shows the word beside each rated session, and
 your [export](../account/settings.md#export-your-data) includes it. Xenith does not
 add ratings up into a score or compare them with anything.
-
-Completed sessions are logged with their duration and time, building an honest
-picture of when and how deeply you work. That history flows into the
-[Insights dashboard](../growth-and-insights/insights.md) as your focused-minutes
-trend.
 
 ## Tips for deep work
 
