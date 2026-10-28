@@ -79,7 +79,7 @@ Every account, free or Pro, gets:
   [Focus](../daily-workflow/focus.md) timer.
 - The 8-point [Life Dimensions](../life-dimensions/overview.md) overview and
   the [Insights](../growth-and-insights/insights.md) dashboard.
-- One [project](../growth-and-insights/projects.md), white and brown noise,
+- One [project](../growth-and-insights/projects.md), white, pink and brown noise,
   and your data synced across every device you sign in on.
 - No ads, and your private entries are never used to train AI models. See
   [Privacy & Data](../account/privacy-and-data.md) for the details.

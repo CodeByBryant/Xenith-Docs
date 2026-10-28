@@ -61,7 +61,8 @@ format is free.
 - **Daily log (CSV).** One row for each day, for a spreadsheet or your own analysis.
   The columns are your energy check-in, mood (as a number from 1 to 5 and as a word),
   sleep hours and quality, caffeine, screen time before bed, exercise and stress,
-  workouts, water, calories, Focus sessions, minutes and distractions, intentions
+  workouts, water, calories, Focus sessions, minutes, distractions and your average
+  focus rating (`focus_quality_1to5`, from 1 to 5), intentions
   completed and gratitude items. Each supplement you have logged and each routine
   step gets its own column. A cell holds 1 for yes, 0 for something you recorded as
   no, and nothing at all when nothing was recorded, so you can tell a "no" from a
@@ -69,7 +70,8 @@ format is free.
 - **Journal (Markdown) and Journal (Word).** The same journal in two formats: your
   days by month, with mood, energy, sleep and the rest, what you completed, your
   gratitude and your reflections. A summary at the top gives counts and averages
-  worked out from the entries below it.
+  worked out from the entries below it. Days with rated Focus sessions show
+  "rated X of 5".
 
 The daily log and the journal only contain what you recorded. The sleep and
 supplement trackers are Pro tools, so those columns are filled only if you used them.

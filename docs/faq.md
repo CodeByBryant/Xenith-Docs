@@ -28,7 +28,7 @@ free plan is real and complete, not a demo:
 - [Learning](./life-dimensions/learning.md): Books
 - [Coach](./growth-and-insights/coach.md): 3 messages a day
 - One [Growth Path](./growth-and-insights/growth.md), with its first two tiers
-- White and brown noise soundscapes
+- White, pink and brown noise soundscapes
 - One [project](./growth-and-insights/projects.md)
 
 **Xenith Pro** ($7.99/mo, or $66.99/yr) adds:

@@ -17,6 +17,32 @@ Notable changes to Xenith, newest first. We ship improvements often.
 >
 > Check the [status page](https://status.xenith.life) for real-time service health.
 
+## 2.4.8 (October 2026)
+
+**Focus tells you when time is up, and asks how it went.**
+
+- **Focus rings when time is up.** Pick a sound (soft bell, chime, marimba or gong) or
+  turn it off, and preview each one before you choose. Pomodoro rings at the end of
+  every focus block and every break. You can also turn on a notification for when the
+  tab is in the background. It is off until you switch it on. A phone with a locked
+  screen can still miss the sound, because a web page cannot wake itself; the mobile
+  app is the fix for that. See [Focus](./daily-workflow/focus.md#when-time-is-up).
+- **Rate a session, if you want to.** When a session ends, one tap from 1 to 5 (Rough,
+  Low, Okay, Good, Great) says how it went. It is optional, you can change it, and
+  Recent sessions shows it. In Pomodoro it asks once, when the run ends, about the last
+  focus block. See [Focus](./daily-workflow/focus.md#rating-a-session).
+- **More Focus sounds.** Pink noise joins white and brown noise on Free. Ocean, wind and
+  fireplace join the Pro sounds. All three are made in your browser, so they start
+  instantly and work offline.
+- **Export your data in more formats.** In Settings, **Export my data** now offers a
+  daily-log CSV, a Markdown journal and a Word journal next to the full JSON backup.
+  The daily log gains a `focus_quality_1to5` column and the journal shows your focus
+  ratings. See [Settings](./account/settings.md#export-your-data).
+
+**Small fixes.**
+
+- **The full JSON export no longer stops early** on accounts with a lot of history.
+
 ## 2.4.7 (October 2026)
 
 **Try Pro for $1, and a shorter setup.**
