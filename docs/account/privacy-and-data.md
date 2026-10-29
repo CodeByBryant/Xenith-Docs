@@ -39,10 +39,12 @@ own authenticated account.
 
 ## How AI features use your data
 
-Some features ([Growth paths](../growth-and-insights/growth.md) and
-[Coach](../growth-and-insights/coach.md)) send the specific text you provide
-(for example, the goal you describe or the message you send the coach) to an AI
-provider to generate a response. Only the content needed for that feature is sent,
+Some features ([Growth paths](../growth-and-insights/growth.md),
+[Coach](../growth-and-insights/coach.md) and the
+[weekly brief](../growth-and-insights/insights.md#weekly-brief-pro)) send what they
+need to an AI provider to generate a response: the text you provide (for example, the
+goal you describe or the message you send the coach), or, for the weekly brief, a few
+sentences made from your recorded numbers. Only the content needed for that feature is sent,
 and it is **not** used to train models. Features that don't use AI never send your
 data anywhere for processing.
 
@@ -107,6 +109,18 @@ growth score. The score is computed on our servers from your own activity: finis
 intentions, Focus time, routine steps, reflections and gratitude entries. Your
 World's name is never sent to analytics. It is included in your data export and
 deleted with your account, and you can turn Worlds off in [Settings](./settings.md).
+
+## Insights
+
+[Insights](../growth-and-insights/insights.md) is computed on our servers, from the
+numbers you recorded (sleep hours, mood and energy ratings, yes or no answers,
+supplement and routine ticks, Focus minutes and ratings) within the last 180 days. It
+doesn't read what you wrote: reflection text, intention titles and gratitude entries
+are not loaded. The weekly brief sends a handful of sentences made from those numbers
+to the AI provider, such as "Sleep hours averaged 7.5 h, higher than the 7 h over the
+four weeks before", and nothing else. Analytics records that you compared two things,
+by kind only (for example "mood" or "supplement"), never the names you gave your
+supplements or habits and never a value.
 
 ## Your week
 

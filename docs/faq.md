@@ -41,8 +41,12 @@ free plan is real and complete, not a demo:
 - [Purpose](./life-dimensions/purpose.md): Values, Decisions
 - [Coach](./growth-and-insights/coach.md): 10 messages a day
 - [Growth Paths](./growth-and-insights/growth.md) for all eight dimensions, with every tier
-- Every Focus soundscape, unlimited
-[projects](./growth-and-insights/projects.md), and priority support. Each dimension's **score** and its place on the 8-point
+- The weekly brief, [Compare](./growth-and-insights/insights.md#compare-pro) and found patterns in Insights
+- Every Focus soundscape
+- Unlimited [projects](./growth-and-insights/projects.md)
+- Priority support
+
+Each dimension's **score** and its place on the 8-point
 overview stay free regardless of plan. Pro unlocks the logging tools behind
 them. Pro-only screens show a preview with an upgrade prompt that says what that
 tool does, rather than hiding completely. Upgrade
@@ -82,14 +86,17 @@ Microsoft**. Existing accounts can also request a one-time **magic link**. See
 ## Is my data private? Do you train AI on it?
 
 Your private entries are yours. Xenith does **not** sell your data and **never**
-uses your private content to train AI models. AI features only send the specific
-text you give them. Read the details in [Privacy & Data](./account/privacy-and-data.md).
+uses your private content to train AI models. AI features only send what they
+need: the text you give them, or, for the weekly brief, a few sentences made from your
+recorded numbers. Read the details in [Privacy & Data](./account/privacy-and-data.md).
 
 ## Which features use AI?
 
 [Growth paths](./growth-and-insights/growth.md) (to generate your step-by-step
-path) and [Coach](./growth-and-insights/coach.md) (your AI sounding board).
-Everything else works without AI.
+path), [Coach](./growth-and-insights/coach.md) (your AI sounding board) and the
+[weekly brief](./growth-and-insights/insights.md#weekly-brief-pro) in Insights (a short
+read of your trends, written only from numbers on the page). Everything else works
+without AI.
 
 ## Do I have to use all eight dimensions?
 
