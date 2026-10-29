@@ -17,6 +17,38 @@ Notable changes to Xenith, newest first. We ship improvements often.
 >
 > Check the [status page](https://status.xenith.life) for real-time service health.
 
+## 2.4.9 (October 2026)
+
+**Insights shows what moved, and lets you compare any two things.**
+
+- **Trends, not tiles.** For everything you track, Insights now shows how the last 7
+  days compare with the 4 weeks before, with an eight-week line and the sentence it
+  came from. Anything without enough days yet sits in **Still collecting** and says
+  what it needs. The fixed targets, the Strengths and Watch lists, the "Needs
+  attention" labels and the red and green colours are gone. See
+  [Insights](./growth-and-insights/insights.md).
+- **Compare two things (Pro).** Pick any two things you track, like sleep and mood or a
+  supplement and your focus rating, on the same day or from one day to the next. You
+  get the numbers, how many days each rests on, the range the gap could plausibly be
+  in, and a chart. It is always a pattern in your data, never proof of cause.
+- **Patterns found in your days (Pro).** Xenith looks through a short list of sensible
+  pairs and shows up to three links that are clear enough to mention. Most people will
+  see none for the first few weeks, which is normal.
+- **A try-it you choose (Pro).** When a result is clear and the thing is a yes or no,
+  you can add a small experiment to today. Nothing is added unless you press the
+  button.
+- **The weekly brief is written from the page's own numbers (Pro).** It now uses the
+  same trend sentences you can see, so nothing in it comes from anywhere else, and it
+  doesn't use up an attempt when there isn't enough logged yet.
+- **Your week is a tab in Insights.** Where Your week is on, it is the **This week**
+  tab, and older links still work. See [Your week](./growth-and-insights/your-week.md).
+
+**Small fixes.**
+
+- **Sleep logs are read the way they are made.** Sleep hours count as last night's
+  sleep for the day of the log, and the caffeine, screen time, exercise and stress
+  answers count for the day before.
+
 ## 2.4.8 (October 2026)
 
 **Focus tells you when time is up, and asks how it went.**

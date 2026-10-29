@@ -108,6 +108,18 @@ intentions, Focus time, routine steps, reflections and gratitude entries. Your
 World's name is never sent to analytics. It is included in your data export and
 deleted with your account, and you can turn Worlds off in [Settings](./settings.md).
 
+## Insights
+
+[Insights](../growth-and-insights/insights.md) is computed on our servers, from the
+numbers you recorded (sleep hours, mood and energy ratings, yes or no answers,
+supplement and routine ticks, Focus minutes and ratings) within the last 180 days. It
+doesn't read what you wrote: reflection text, intention titles and gratitude entries
+are not loaded. The weekly brief sends a handful of sentences made from those numbers
+to the AI provider, such as "Sleep hours averaged 7.5 h, higher than the 7 h over the
+four weeks before", and nothing else. Analytics records that you compared two things,
+by kind only (for example "mood" or "supplement"), never the names you gave your
+supplements or habits and never a value.
+
 ## Your week
 
 [Your week](../growth-and-insights/your-week.md) is computed in your browser from

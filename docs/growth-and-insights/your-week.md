@@ -17,8 +17,9 @@ own entries. It says what happened, and nothing else.
 > **Being released gradually**
 >
 > Your week is rolling out in stages, so you may not see it yet. When it is on for
-> you, it appears as **Your week** in the sidebar, as a link on the **This week**
-> card on your dashboard, and as a link in the weekly recap email.
+> you, it is the **This week** tab in [Insights](./insights.md), and it is linked from
+> the **This week** card on your dashboard and from the weekly recap email. Older links
+> to Your week take you to the same tab.
 
 ## What it shows
 

@@ -42,6 +42,7 @@ free plan is real and complete, not a demo:
 - [Coach](./growth-and-insights/coach.md): 10 messages a day
 - [Growth Paths](./growth-and-insights/growth.md) for all eight dimensions, with every tier
 - Every Focus soundscape, unlimited
+- The weekly brief, [Compare](./growth-and-insights/insights.md#compare-pro) and found patterns in Insights
 [projects](./growth-and-insights/projects.md), and priority support. Each dimension's **score** and its place on the 8-point
 overview stay free regardless of plan. Pro unlocks the logging tools behind
 them. Pro-only screens show a preview with an upgrade prompt that says what that
