@@ -25,7 +25,7 @@ Notable changes to Xenith, newest first. We ship improvements often.
   days compare with the 4 weeks before, with an eight-week line and the sentence it
   came from. Anything without enough days yet sits in **Still collecting** and says
   what it needs. The fixed targets, the Strengths and Watch lists, the "Needs
-  attention" labels and the red and green colours are gone. See
+  attention" labels and the red and green tile borders are gone. See
   [Insights](./growth-and-insights/insights.md).
 - **Compare two things (Pro).** Pick any two things you track, like sleep and mood or a
   supplement and your focus rating, on the same day or from one day to the next. You
@@ -48,6 +48,9 @@ Notable changes to Xenith, newest first. We ship improvements often.
 - **Sleep logs are read the way they are made.** Sleep hours count as last night's
   sleep for the day of the log, and the caffeine, screen time, exercise and stress
   answers count for the day before.
+- **Colour is back on Insights.** Each kind of thing has its own hue on its heading,
+  card and chart, and the balance radar is purple again. Money is green when it comes
+  in and red when it goes out, and your net is green or red by its sign.
 
 ## 2.4.8 (October 2026)
 
