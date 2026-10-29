@@ -39,10 +39,12 @@ own authenticated account.
 
 ## How AI features use your data
 
-Some features ([Growth paths](../growth-and-insights/growth.md) and
-[Coach](../growth-and-insights/coach.md)) send the specific text you provide
-(for example, the goal you describe or the message you send the coach) to an AI
-provider to generate a response. Only the content needed for that feature is sent,
+Some features ([Growth paths](../growth-and-insights/growth.md),
+[Coach](../growth-and-insights/coach.md) and the
+[weekly brief](../growth-and-insights/insights.md#weekly-brief-pro)) send what they
+need to an AI provider to generate a response: the text you provide (for example, the
+goal you describe or the message you send the coach), or, for the weekly brief, a few
+sentences made from your recorded numbers. Only the content needed for that feature is sent,
 and it is **not** used to train models. Features that don't use AI never send your
 data anywhere for processing.
 
