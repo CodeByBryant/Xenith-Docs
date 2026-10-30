@@ -1,10 +1,12 @@
 /**
- * Xenith Docs theme: monochrome, dark by default.
- * Mirrors the web app: #0a0a0a / #fafafa, Inter body, Playfair headings,
- * Chomsky blackletter for the brand mark.
+ * Xenith Docs theme: the same warm monochrome as the web app.
+ * Light #FBFBFA / #37352F, dark #191918 / #ECEBE9, no pure white or black.
+ * Inter for text and headings, Chomsky blackletter for the brand mark only.
+ * Control borders meet 3:1 against the page; hairlines are decorative.
  */
 
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Playfair+Display:wght@500;600;700&family=JetBrains+Mono:wght@400;500&display=swap');
+@import '@fontsource-variable/inter';
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500&display=swap');
 
 /* Brand blackletter font (used for the homepage "X" mark). */
 @font-face {
@@ -17,68 +19,100 @@
 
 /* ── Light mode ──────────────────────────────────────────────────────── */
 :root {
-  --ifm-color-primary: #18181b;
-  --ifm-color-primary-dark: #161618;
-  --ifm-color-primary-darker: #0f0f11;
-  --ifm-color-primary-darkest: #0a0a0a;
-  --ifm-color-primary-light: #3f3f46;
-  --ifm-color-primary-lighter: #52525b;
-  --ifm-color-primary-lightest: #71717a;
+  --xn-bg: #fbfbfa;
+  --xn-surface: #f3f2ef;
+  --xn-fg: #37352f;
+  --xn-fg-muted: #6b6863;
+  --xn-hairline: #e6e4e0;
+  --xn-control-border: #8c8883;
+  --xn-ring: #5a5750;
 
-  --ifm-font-family-base: 'Inter', system-ui, -apple-system, sans-serif;
-  --ifm-heading-font-family: 'Playfair Display', Georgia, serif;
+  --ifm-color-primary: #37352f;
+  --ifm-color-primary-dark: #32302b;
+  --ifm-color-primary-darker: #302e29;
+  --ifm-color-primary-darkest: #272622;
+  --ifm-color-primary-light: #54514a;
+  --ifm-color-primary-lighter: #5a5750;
+  --ifm-color-primary-lightest: #6b6863;
+  --ifm-color-primary-contrast-background: #f3f2ef;
+  --ifm-color-primary-contrast-foreground: #37352f;
+
+  --ifm-background-color: var(--xn-bg);
+  --ifm-background-surface-color: var(--xn-surface);
+  --ifm-navbar-background-color: rgba(251, 251, 250, 0.85);
+  --ifm-footer-background-color: var(--xn-bg);
+  --ifm-color-content: var(--xn-fg);
+  --ifm-color-content-secondary: var(--xn-fg-muted);
+  --ifm-heading-color: var(--xn-fg);
+  --ifm-toc-border-color: var(--xn-hairline);
+  --ifm-hr-border-color: var(--xn-hairline);
+  --ifm-table-border-color: var(--xn-hairline);
+  --ifm-table-stripe-background: transparent;
+  --ifm-menu-color: var(--xn-fg-muted);
+  --ifm-menu-color-active: var(--xn-fg);
+  --ifm-menu-color-background-hover: var(--xn-surface);
+  --ifm-menu-color-background-active: var(--xn-surface);
+  --ifm-code-background: var(--xn-surface);
+  --ifm-link-color: var(--xn-fg);
+  --ifm-link-hover-color: var(--xn-fg);
+
+  --ifm-font-family-base: 'Inter Variable', system-ui, -apple-system, sans-serif;
+  --ifm-heading-font-family: 'Inter Variable', system-ui, -apple-system, sans-serif;
   --ifm-font-family-monospace: 'JetBrains Mono', ui-monospace, monospace;
+  --ifm-heading-font-weight: 600;
 
   --ifm-code-font-size: 90%;
-  --ifm-global-radius: 0.75rem;
+  --ifm-global-radius: 0.5rem;
   --ifm-navbar-shadow: none;
 
-  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.08);
+  --docusaurus-highlighted-code-line-bg: rgba(55, 53, 47, 0.08);
 
   /* Homepage hero accents. */
-  --xn-grid-line: rgba(0, 0, 0, 0.035);
-  --xn-glow: rgba(0, 0, 0, 0.05);
+  --xn-grid-line: rgba(55, 53, 47, 0.04);
+  --xn-glow: rgba(55, 53, 47, 0.05);
 }
 
 /* ── Dark mode (default) ─────────────────────────────────────────────── */
 [data-theme='dark'] {
-  --ifm-color-primary: #fafafa;
-  --ifm-color-primary-dark: #e4e4e7;
-  --ifm-color-primary-darker: #d4d4d8;
-  --ifm-color-primary-darkest: #a1a1aa;
-  --ifm-color-primary-light: #ffffff;
-  --ifm-color-primary-lighter: #ffffff;
-  --ifm-color-primary-lightest: #ffffff;
+  --xn-bg: #191918;
+  --xn-surface: #242423;
+  --xn-fg: #ecebe9;
+  --xn-fg-muted: #9c9994;
+  --xn-hairline: #2e2d2b;
+  --xn-control-border: #75736c;
+  --xn-ring: #c9c7c2;
 
-  --ifm-background-color: #0a0a0a;
-  --ifm-background-surface-color: #161616;
-  --ifm-navbar-background-color: rgba(10, 10, 10, 0.8);
-  --ifm-footer-background-color: #0a0a0a;
-  --ifm-color-content: #fafafa;
-  --ifm-color-content-secondary: #a3a3a3;
-  --ifm-toc-border-color: #262626;
-  --ifm-hr-border-color: #262626;
-  --ifm-table-border-color: #262626;
+  --ifm-color-primary: #ecebe9;
+  --ifm-color-primary-dark: #dad9d6;
+  --ifm-color-primary-darker: #cfcecb;
+  --ifm-color-primary-darkest: #aeadaa;
+  --ifm-color-primary-light: #f4f3f1;
+  --ifm-color-primary-lighter: #f8f7f6;
+  --ifm-color-primary-lightest: #fcfcfb;
+  --ifm-color-primary-contrast-background: #242423;
+  --ifm-color-primary-contrast-foreground: #ecebe9;
 
-  --docusaurus-highlighted-code-line-bg: rgba(255, 255, 255, 0.08);
+  --ifm-navbar-background-color: rgba(25, 25, 24, 0.85);
+
+  --docusaurus-highlighted-code-line-bg: rgba(236, 235, 233, 0.08);
 
   /* Homepage hero accents. */
-  --xn-grid-line: rgba(255, 255, 255, 0.035);
-  --xn-glow: rgba(255, 255, 255, 0.06);
+  --xn-grid-line: rgba(236, 235, 233, 0.04);
+  --xn-glow: rgba(236, 235, 233, 0.06);
 }
 
 /* ── Refinements ─────────────────────────────────────────────────────── */
-.navbar {
-  backdrop-filter: saturate(180%) blur(10px);
-  border-bottom: 1px solid #e5e5e5;
+:focus-visible {
+  outline: 2px solid var(--xn-ring);
+  outline-offset: 2px;
 }
 
-[data-theme='dark'] .navbar {
-  border-bottom-color: #1a1a1a;
+.navbar {
+  backdrop-filter: saturate(180%) blur(10px);
+  border-bottom: 1px solid var(--xn-hairline);
 }
 
 .navbar__title {
-  font-family: var(--ifm-heading-font-family);
   font-weight: 600;
   letter-spacing: -0.01em;
 }
@@ -88,25 +122,42 @@
   font-weight: 500;
 }
 
-/* Links: keep them legible against near-monochrome body text in dark mode. */
-[data-theme='dark']
-  a:not(.navbar__link):not(.menu__link):not(.footer__link-item):not(.card) {
-  text-decoration-color: #525252;
+.menu__link--active:not(.menu__link--sublist) {
+  font-weight: 600;
+}
+
+/* Links read as links even though the accent is the text color. */
+.markdown a:not(.button):not(.card):not(.pagination-nav__link):not(.menu__link),
+.theme-doc-markdown a:not(.button):not(.card) {
+  text-decoration: underline;
+  text-decoration-color: var(--xn-control-border);
+  text-decoration-thickness: 1px;
   text-underline-offset: 0.2em;
 }
 
-article header h1 {
+.markdown a:not(.button):not(.card):hover {
+  text-decoration-color: var(--xn-fg);
+}
+
+h1,
+h2,
+h3,
+h4 {
   letter-spacing: -0.02em;
 }
 
-.footer--dark {
-  --ifm-footer-background-color: #0a0a0a;
-  border-top: 1px solid #1a1a1a;
+.footer--dark,
+.footer {
+  --ifm-footer-background-color: var(--xn-bg);
+  --ifm-footer-color: var(--xn-fg-muted);
+  --ifm-footer-link-color: var(--xn-fg-muted);
+  background-color: var(--xn-bg);
+  border-top: 1px solid var(--xn-hairline);
 }
 
 /* ── Content polish ──────────────────────────────────────────────────── */
 
-/* Tables read better with surface headers and roomier cells. */
+/* Tables: flat, hairline rows, surface header. */
 .markdown table {
   display: table;
   width: 100%;
@@ -114,7 +165,7 @@ article header h1 {
 }
 
 .markdown table thead {
-  background: var(--ifm-background-surface-color);
+  background: var(--xn-surface);
 }
 
 .markdown table th,
@@ -122,7 +173,42 @@ article header h1 {
   padding: 0.6rem 0.9rem;
 }
 
-/* Sidebar section labels: quieter, uppercase. */
+/* Callouts (blockquotes): one quiet hairline box, no heavy left bar. */
+.markdown blockquote {
+  border: 1px solid var(--xn-hairline);
+  border-left-width: 1px;
+  border-radius: var(--ifm-global-radius);
+  background: var(--xn-surface);
+  color: var(--ifm-color-content);
+  padding: 0.75rem 1rem;
+  box-shadow: none;
+}
+
+.markdown blockquote > :last-child {
+  margin-bottom: 0;
+}
+
+/* Code: warm surface instead of the syntax theme's own background. */
+.theme-code-block {
+  --prism-background-color: var(--xn-surface) !important;
+  border: 1px solid var(--xn-hairline);
+  border-radius: var(--ifm-global-radius);
+  box-shadow: none;
+}
+
+[data-theme='light'] .theme-code-block {
+  --prism-color: var(--xn-fg) !important;
+}
+
+.markdown code {
+  border: 1px solid var(--xn-hairline);
+}
+
+.markdown pre code {
+  border: 0;
+}
+
+/* Sidebar section labels: quieter. */
 .menu__list-item-collapsible .menu__link--sublist,
 .theme-doc-sidebar-item-category > .menu__list-item-collapsible > .menu__link {
   font-weight: 600;
@@ -136,16 +222,26 @@ article .markdown > p:first-of-type {
 
 /* Cards rendered inside docs (e.g. via the docusaurus card classes). */
 .card {
-  border: 1px solid var(--ifm-toc-border-color);
+  border: 1px solid var(--xn-hairline);
   border-radius: var(--ifm-global-radius);
+  box-shadow: none;
+  background: var(--xn-bg);
 }
 
 /* Pagination buttons match the monochrome system. */
 .pagination-nav__link {
-  border-color: var(--ifm-toc-border-color);
+  border-color: var(--xn-hairline);
   border-radius: var(--ifm-global-radius);
 }
 
 .pagination-nav__link:hover {
-  border-color: var(--ifm-color-content-secondary);
+  border-color: var(--xn-control-border);
+}
+
+/* Search and form controls: filled field with a 3:1 border. */
+input,
+select,
+textarea {
+  background: var(--xn-surface);
+  border-color: var(--xn-control-border);
 }

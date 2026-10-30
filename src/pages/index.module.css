@@ -1,7 +1,7 @@
 /**
  * Homepage hero: Xenith branded.
  * Mirrors the marketing site: grid backdrop, soft radial glow,
- * Chomsky brand mark, serif headline, monochrome buttons.
+ * Chomsky brand mark, Inter headline, monochrome buttons.
  */
 
 .heroBanner {
@@ -62,11 +62,9 @@
   background: var(--ifm-background-surface-color);
   color: var(--ifm-color-content-secondary);
   border-radius: 999px;
-  padding: 0.35rem 0.9rem;
-  font-size: 0.7rem;
-  font-weight: 600;
-  letter-spacing: 0.28em;
-  text-transform: uppercase;
+  padding: 0.3rem 0.85rem;
+  font-size: 0.8rem;
+  font-weight: 500;
   margin-bottom: 1.5rem;
 }
 
@@ -74,7 +72,7 @@
   font-family: var(--ifm-heading-font-family);
   font-size: 3.25rem;
   font-weight: 600;
-  line-height: 1.05;
+  line-height: 1.08;
   letter-spacing: -0.03em;
   margin-bottom: 1rem;
   max-width: 20ch;
@@ -115,13 +113,13 @@
 .secondaryBtn {
   background: var(--ifm-background-surface-color);
   color: var(--ifm-color-content);
-  border: 1px solid var(--ifm-toc-border-color);
+  border: 1px solid var(--xn-control-border);
   font-weight: 600;
 }
 
 .secondaryBtn:hover {
   color: var(--ifm-color-content);
-  border-color: var(--ifm-color-content-secondary);
+  border-color: var(--ifm-color-content);
 }
 
 @media screen and (max-width: 996px) {
