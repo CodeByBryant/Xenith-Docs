@@ -17,6 +17,37 @@ Notable changes to Xenith, newest first. We ship improvements often.
 >
 > Check the [status page](https://status.xenith.life) for real-time service health.
 
+## 2.4.10 (October 2026)
+
+**A new look across Xenith.** Same monochrome, calmer and more consistent. No features
+were added or removed.
+
+- **Warm grays, no pure white or black.** Light and dark both use softer tones, with
+  Inter as the typeface. The Xenith "X" wordmark stays.
+- **A labeled sidebar.** The sidebar now shows names next to the icons. Press
+  **Ctrl+B** to collapse it back to the icon rail.
+- **One page header everywhere.** Tools and trackers have a title, a link back to where
+  you came from, and their main action in the same place.
+- **Flatter pages.** Lists use thin dividers instead of a box around every row. Cards
+  are kept for things that are a unit, like dashboard widgets and plans.
+- **Clearer fields.** Inputs are filled and have a border that stays visible in light
+  and dark.
+- **Real dialogs.** Pickers that used to be hand-built overlays, like the Routines
+  templates and the Unsplash picker, are now standard dialogs: Escape closes them and
+  focus stays inside.
+- **New icons.** One consistent set of line icons across the app. The Features page
+  uses them instead of emoji.
+- **Emails match.** Xenith emails use the same palette. The logo in emails is now a
+  solid tile, so it no longer disappears when an email app switches to its own dark
+  mode.
+- **Docs and the status page** use the same palette.
+
+**Small fixes.**
+
+- **Decisions and Values save again.** The two Purpose tools were failing to save an
+  entry. They save normally now.
+- **The top bar names Pricing.** On the pricing page it said "Dashboard".
+
 ## 2.4.9 (October 2026)
 
 **Insights shows what moved, and lets you compare any two things.**
