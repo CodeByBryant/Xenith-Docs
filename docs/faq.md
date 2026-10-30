@@ -27,7 +27,7 @@ free plan is real and complete, not a demo:
 - [Finances](./life-dimensions/finances.md): Transactions
 - [Learning](./life-dimensions/learning.md): Books
 - [Coach](./growth-and-insights/coach.md): 3 messages a day
-- One [Growth Path](./growth-and-insights/growth.md), with its first two tiers
+- One [Growth Path](./growth-and-insights/growth.md), with everything above the dashed line (at least its first two tiers)
 - White, pink and brown noise soundscapes
 - One [project](./growth-and-insights/projects.md)
 
