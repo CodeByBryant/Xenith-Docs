@@ -18,8 +18,8 @@ you, then yours to work through at your own pace.
 
 > **Free and Pro**
 >
-> Free includes **one Growth Path** (one Life Dimension) and its **first two
-> tiers**. [Xenith Pro](https://xenith.life/app/pricing) adds a path for each of
+> Free includes **one Growth Path** (one Life Dimension) and everything above the
+> dashed line, which is at least its **first two tiers**. [Xenith Pro](https://xenith.life/app/pricing) adds a path for each of
 > the eight dimensions and opens every tier.
 
 ## How it works
@@ -34,12 +34,15 @@ you, then yours to work through at your own pace.
 
 ## What free includes
 
-A path is generated in full, in five tiers. On the free plan the first two tiers
-(**Entry** and **Foundation**) are readable and workable. The later tiers
-(**Skill**, **Advanced** and **Mastery**) appear as blurred placeholders below a
-dashed line, with a count of how many steps are waiting there. Their contents
-are not sent to your browser until you upgrade; upgrading opens them without
-regenerating anything.
+A path is generated in full, in five tiers, usually with 40 to 60 steps. Steps are
+drawn in rows by how they depend on each other: a step always sits below the
+steps it needs. On the free plan, everything above a dashed line is readable and
+workable. That always includes the first two tiers (**Entry** and
+**Foundation**), and also any later step that sits on or above the last row those
+tiers reach. The rest (steps from **Skill**, **Advanced** and **Mastery** that
+sit below the line) appear as blurred placeholders, with a count of how many
+steps are waiting there. Their contents are not sent to your browser until you
+upgrade; upgrading opens them without regenerating anything.
 
 To start a path in a different dimension on the free plan, **delete** the current
 one first (you will be asked to confirm; its progress is cleared). A path can be
