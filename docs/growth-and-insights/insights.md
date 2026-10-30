@@ -15,7 +15,10 @@ keywords:
 
 **Insights** shows which way the things you track are moving. It only uses what you
 have logged, and it states numbers without grading them: there is no target, no score
-for a week and no colour that says a number is good or bad.
+for a week. Colour is used for what something is, not how it is going: each kind of
+thing (Focus, Mind, Sleep, Body and so on) has its own hue, whichever way its number
+moved. The one place colour carries a plain meaning is money, where money in is green,
+money out is red and your net is green or red by its sign.
 
 ## Overview
 
