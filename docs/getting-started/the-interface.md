@@ -43,6 +43,34 @@ minutes focused today"), then surfaces what's relevant right now:
 The dashboard is a calm overview, not a control tower. It shows direction, not
 pressure.
 
+### Arrange your dashboard
+
+Press **Customize** at the top right of the dashboard to make it yours. It is free
+for everyone, and the dashboard stays exactly as it was until you change something.
+
+- **Reorder.** Drag a card by its handle, or use the **Move up** and **Move down**
+  buttons (they work from the keyboard too). A card stays in its own column: *This
+  week*, routines and reflection in the main column, *Calendar* and the rest in the
+  side column.
+- **Hide and add back.** Hide what you don't use. Hidden cards wait under **Hidden**,
+  and you can add them back at any time.
+- **Your tools.** The row of tools under the cards arranges the same way. Which tools
+  you have still follows the dimensions you chose and your plan. Locked Pro tiles
+  stay at the end and can't be moved.
+- **Reset to default** puts everything back. Changes save as you make them.
+
+*Today* and *From your tools* always stay at the top of the main column.
+
+Four more cards start hidden. Add any of them from **Customize**:
+
+- **Quick capture:** type a thought and it goes to your [Inbox](#the-inbox).
+- **Water & supplements:** today's water with one-tap **+250 ml** and **+500 ml**, and
+  your supplements to tick off.
+- **Mood check:** one tap sets today's mood. It changes only the mood, so a
+  [reflection](../daily-workflow/reflection.md) you already wrote today stays as it is.
+- **Reach out:** the people you set a contact goal for whose time has come (see
+  [Relationships](../life-dimensions/relationships.md); Connections is part of Pro).
+
 ## Sidebar navigation
 
 The left sidebar is your map of the app: Dashboard, Intentions, Focus, Routines,

@@ -41,6 +41,11 @@ Log your end-of-day mood and energy on a simple scale. These few data points fee
 [Insights](../growth-and-insights/insights.md), revealing how your habits relate
 to how you actually feel.
 
+You can also set today's mood in one tap from the **Mood check** card on your
+[dashboard](../getting-started/the-interface.md#arrange-your-dashboard) (add it from
+**Customize**). It changes only the mood and leaves any reflection you wrote today as
+it is.
+
 ## Rich text entries
 
 Reflections use a rich text editor (headings, bold, and bullet points) so you

@@ -34,6 +34,18 @@ Use it to:
 - Note the people who matter most across different parts of your life.
 - Remember the last meaningful interaction.
 - Nudge yourself to reconnect before too much time passes.
+- **Tag** each person in your own words. You can use several tags ("Family",
+  "Climbing club"), and a few suggestions are one tap away.
+- **Set a contact goal** if you want one: "about every 14 days". When that many days
+  have passed since you last connected, the person shows a small **Due** marker. It is
+  a plain prompt, not a score. Anyone without a goal is never marked Due.
+- **Record who reached out**, with **I reached out** or **They reached out**, so the
+  last contact reads "7 days ago, they reached out".
+- **Sort** by name, longest since contact, most recent contact or Due first, and
+  **filter** by tag or to show only who is Due.
+
+If you add the **Reach out** card to your [dashboard](../getting-started/the-interface.md#arrange-your-dashboard),
+it lists the people who are Due and lets you log a contact in one tap.
 
 ## A deliberate, low-pressure approach
 
