@@ -17,6 +17,41 @@ Notable changes to Xenith, newest first. We ship improvements often.
 >
 > Check the [status page](https://status.xenith.life) for real-time service health.
 
+## 2.4.11 (November 2026)
+
+**Arrange your dashboard.** Move, hide and add the cards you want. Free for everyone,
+and nothing changes until you choose to.
+
+- **Customize.** Press **Customize** on the dashboard to drag cards (or use the
+  arrows), hide the ones you don't use, add them back, or reset to the default.
+  Changes save as you make them.
+- **Four new cards, hidden until you add them.** **Quick capture**, **Water &
+  supplements**, **Mood check** and **Reach out** (Reach out is part of Pro, like
+  Connections).
+- **Your tools, your order.** The row of tools under the dashboard arranges the same
+  way. Which tools you have still follows your dimensions and your plan.
+
+**Connections** (part of [Pro](https://xenith.life/app/pricing)).
+
+- **Several tags per person**, in your own words.
+- **A contact goal.** Say "about every 14 days" and the person shows a small **Due**
+  marker once that time has passed. Nobody without a goal is ever marked Due.
+- **Who reached out.** Log **I reached out** or **They reached out**.
+- **Sort and filter** by name, time since contact or tag, and show only who is Due.
+- The old 30-day warning mark is gone. Without a goal, nothing is flagged.
+
+**Your day follows your time zone.** Entries are now filed under the day you lived
+them, in the time zone on your profile. Before, an evening entry could land on the
+next day. Older entries that had been filed under the wrong day were moved to the
+right one.
+
+**Small fixes.**
+
+- **The last day of the month** no longer drops out of the Finances month view on
+  devices ahead of UTC, such as in Australia and Asia.
+- **Stepping back through months** in Finances no longer skips a month when you start
+  from the 31st.
+
 ## 2.4.10 (October 2026)
 
 **A new look across Xenith.** Same monochrome, calmer and more consistent. No features
