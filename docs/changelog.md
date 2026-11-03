@@ -26,7 +26,8 @@ and nothing changes until you choose to.
   arrows), hide the ones you don't use, add them back, or reset to the default.
   Changes save as you make them.
 - **Four new cards, hidden until you add them.** **Quick capture**, **Water &
-  supplements**, **Mood check** and **Reach out**.
+  supplements**, **Mood check** and **Reach out** (Reach out is part of Pro, like
+  Connections).
 - **Your tools, your order.** The row of tools under the dashboard arranges the same
   way. Which tools you have still follows your dimensions and your plan.
 

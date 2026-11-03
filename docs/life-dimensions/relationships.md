@@ -45,7 +45,8 @@ Use it to:
   **filter** by tag or to show only who is Due.
 
 If you add the **Reach out** card to your [dashboard](../getting-started/the-interface.md#arrange-your-dashboard),
-it lists the people who are Due and lets you log a contact in one tap.
+it lists the people who are Due and lets you log a contact in one tap. Like the rest of
+Connections, the card is part of Pro.
 
 ## A deliberate, low-pressure approach
 
