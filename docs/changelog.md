@@ -17,6 +17,26 @@ Notable changes to Xenith, newest first. We ship improvements often.
 >
 > Check the [status page](https://status.xenith.life) for real-time service health.
 
+## 2.4.12 (November 2026)
+
+**Habits.** A daily checklist for the things you do and the things you'd like to do
+less of. Free for everyone.
+
+- **Something I do, or do less of.** Tick the first kind. For the second, log each time
+  it happens, with an optional daily limit that is shown beside your count as a plain
+  fact ("2 today, limit 3") and never as a pass or a fail.
+- **Any day.** Look at an earlier day and log it there. Each habit shows a plain total
+  for the last seven days. No streaks, no scores.
+- **A dashboard card.** Add **Habits** from **Customize** to tick today's habits from
+  the dashboard.
+
+**Choose your pages.** Settings has a new **Pages** section: hide Habits, Routines,
+Inbox, Calendar or Insights from the menu and the dashboard. Hiding a page keeps
+everything in it, and showing it again brings it back as it was.
+
+**Fold the menu.** The Daily, Growth and Other groups in the sidebar fold. The page you
+are on stays visible.
+
 ## 2.4.11 (November 2026)
 
 **Arrange your dashboard.** Move, hide and add the cards you want. Free for everyone,

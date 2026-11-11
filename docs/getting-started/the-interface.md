@@ -61,21 +61,33 @@ for everyone, and the dashboard stays exactly as it was until you change somethi
 
 *Today* and *From your tools* always stay at the top of the main column.
 
-Four more cards start hidden. Add any of them from **Customize**:
+If you hide a page in [Settings](../account/settings.md#pages), its card leaves the
+dashboard too. Showing the page again brings the card back where it was.
+
+Five more cards start hidden. Add any of them from **Customize**:
 
 - **Quick capture:** type a thought and it goes to your [Inbox](#the-inbox).
 - **Water & supplements:** today's water with one-tap **+250 ml** and **+500 ml**, and
   your supplements to tick off.
 - **Mood check:** one tap sets today's mood. It changes only the mood, so a
   [reflection](../daily-workflow/reflection.md) you already wrote today stays as it is.
+- **Habits:** today's [habits](../daily-workflow/habits.md), ticked or counted in a tap.
 - **Reach out:** the people you set a contact goal for whose time has come (see
   [Relationships](../life-dimensions/relationships.md); Connections is part of Pro).
 
 ## Sidebar navigation
 
-The left sidebar is your map of the app: Dashboard, Intentions, Focus, Routines,
-Reflection, Life Dimensions, Growth, Insights, Projects, Coach, Calendar, and
-Settings. Collapse it when you want maximum room to think.
+The left sidebar is your map of the app: Dashboard, Intentions, Focus, Coach,
+Reflection, Life Dimensions, Growth, Projects, Worlds, Inbox, Habits, Routines,
+Calendar and Insights, in three groups (Daily, Growth and Other). Settings opens from
+your profile button at the bottom.
+
+- **Fold a group.** Press a group's name to fold it. The page you are on stays visible,
+  and Xenith remembers what you folded on that device.
+- **Hide pages you don't use.** [Settings](../account/settings.md#pages) can take
+  Habits, Routines, Inbox, Calendar and Insights out of the menu.
+- **Collapse the whole sidebar** (<kbd>Ctrl</kbd> + <kbd>B</kbd>) when you want
+  maximum room to think. In the narrow version every page stays one tap away.
 
 ## Command palette
 
