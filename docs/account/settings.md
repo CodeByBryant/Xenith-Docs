@@ -40,6 +40,16 @@ office monitor.
 Enable or disable gentle reminders and manage push notifications. This has its own
 guide: [Notifications](./notifications.md).
 
+## Pages
+
+**Pages** chooses which optional pages show in the menu and on your dashboard:
+[Habits](../daily-workflow/habits.md), [Routines](../daily-workflow/routines.md),
+Inbox, Calendar and Insights. Turn one off and it leaves the menu, the command
+palette (<kbd>Ctrl</kbd> + <kbd>K</kbd>) and the dashboard. **Hiding a page keeps
+everything in it**: nothing is changed or removed, the page still opens from a link,
+and turning it back on shows it as it was, with its dashboard card in its old place.
+Each switch saves as soon as you flip it.
+
 ## Worlds
 
 **Show Worlds** turns [Worlds](../growth-and-insights/worlds.md) on or off. Off hides
