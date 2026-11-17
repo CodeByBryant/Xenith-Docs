@@ -53,11 +53,17 @@ On the free plan, choosing **All pages** shows a note that it is part of Pro.
 - Only links between **pages** are drawn. Links to databases and to your intentions,
   habits, reflections and Focus sessions are not.
 - The notes inside a database row are not part of the graph.
-- Drag to move around and use the scroll wheel or the zoom buttons to zoom. With more
-  than 40 pages an overview map appears in the corner.
-- The layout is fixed once drawn: dots do not drift or wobble, and the same pages
-  always look the same.
-- Click a page to open it.
+- The busiest pages (the top tenth, and at least three links) carry their names. Point at
+  a page to see its name and the pages it links to; the rest dim. Zoom in and every name
+  appears.
+- Drag the background to move the picture and use the scroll wheel to zoom. It is a
+  framed window onto your pages, not an endless plane: you cannot push the pages out of
+  view. **Reset view** (or a double click on the background) fits everything again.
+- Drag a dot to nudge it. It settles back into the layout when you let go, and the pages
+  you did not touch stay where they are. If your device is set to reduce motion, a
+  dragged dot simply follows the pointer.
+- The layout is the same every time you open it: the same pages always look the same.
+- Click a page to open it. The page you opened the graph from is shown in green.
 
 ## Prefer a list?
 
