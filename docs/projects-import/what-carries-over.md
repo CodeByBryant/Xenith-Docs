@@ -39,7 +39,7 @@ hiding it. The report shows counts and reasons, never the content itself.
 | Very long pages | Split into continuation pages |
 | Text in a monospace font (Google Docs) | Code |
 | Fonts Xenith doesn't have | The default font |
-| Notion formulas and rollups | The value they had, read-only |
+| Notion formulas and rollups | The value they had, until you write your own formula or rollup there ([Formulas and properties](../projects-workspace/formulas-and-properties.md)) |
 | Notion people | Names |
 
 ## Left out

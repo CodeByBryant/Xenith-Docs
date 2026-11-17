@@ -41,8 +41,13 @@ it, or delete it (deleting a column deletes its values from every row, after a
 confirmation). Changing a column's type keeps the stored values until you edit the
 cell.
 
-**Formulas, rollups, created and edited times and IDs** only arrive through an
-import. They show the value they had and can't be edited.
+**Created and edited times and IDs** only arrive through an import. They show the
+value they had and can't be edited.
+
+**Formulas and rollups** from an import show the value they had. You can also add
+your own formula or rollup column, or write a formula into an imported one, and it
+is calculated in Xenith from then on. See
+[Formulas and properties](../projects-workspace/formulas-and-properties.md).
 
 ### Relations
 
@@ -64,6 +69,7 @@ and visible columns:
 - **Gallery:** a grid of cards. A row's first image uploaded to Xenith shows above
   its title.
 - **List:** one line per row, the compact view that reads well on a phone.
+- **Calendar, timeline, chart and dashboard:** see [Database views](/projects-workspace/database-views).
 
 Use **Filter** (rules combined with and/or) and **Sort** (several keys, empty
 values last). The **Properties** menu chooses which columns show in the current view.
