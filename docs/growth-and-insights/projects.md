@@ -18,8 +18,10 @@ a team: no sharing, no comment threads, no notifications pile.
 
 > **Free vs Pro**
 >
-> The free plan includes **one** project. [Xenith Pro](https://xenith.life/app/pricing)
-> unlocks unlimited projects. Databases and import are free on every plan.
+> The free plan includes **one** project and **one** [canvas](../projects-workspace/canvas.md).
+> [Xenith Pro](https://xenith.life/app/pricing) unlocks unlimited projects and canvases and
+> the [graph](../projects-workspace/graph.md) of every page at once. Databases, import,
+> links and backlinks are free on every plan.
 
 ## Structure
 
@@ -46,11 +48,22 @@ longer pieces with headings and lists. Beyond the basics, pages also support:
 - **Tables**, with row/column controls that appear as you work in one.
 - **Toggles, callouts, columns, bookmarks, file blocks and code** with syntax
   highlighting, plus headings up to level 6, superscript and subscript.
-- **A page icon and cover**, and links to other pages and databases (type
-  **/Link to page** or **/Link to database**).
+- **A page icon and cover**, and [links](../projects-workspace/links-and-backlinks.md) to
+  other pages, headings and your own records (type **`[[`** or **`@`**), or to a page or
+  database in this project with **/Link to page** or **/Link to database**.
 - **Math**, both inline and block, written in LaTeX and rendered live via
   KaTeX.
 - A **cover image** for the project itself, set from the project header.
+
+## Links, graph and canvas
+
+- [**Links and backlinks**](../projects-workspace/links-and-backlinks.md): type `[[` to link
+  pages across all your projects, or `@` to link your own intentions, habits, reflections
+  and Focus sessions. Every page shows what links to it.
+- [**Graph**](../projects-workspace/graph.md): a picture of how your pages link together.
+  The pages around the one you have open are free.
+- [**Canvas**](../projects-workspace/canvas.md): an endless board for text, pages, sections,
+  records and images, joined by arrows. One canvas is free.
 
 ## Bring your content in
 

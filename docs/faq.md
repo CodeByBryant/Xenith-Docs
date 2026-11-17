@@ -29,7 +29,7 @@ free plan is real and complete, not a demo:
 - [Coach](./growth-and-insights/coach.md): 3 messages a day
 - One [Growth Path](./growth-and-insights/growth.md), with everything above the dashed line (at least its first two tiers)
 - White, pink and brown noise soundscapes
-- One [project](./growth-and-insights/projects.md)
+- One [project](./growth-and-insights/projects.md) and one [canvas](./projects-workspace/canvas.md)
 
 **Xenith Pro** ($7.99/mo, or $66.99/yr) adds:
 
@@ -43,7 +43,7 @@ free plan is real and complete, not a demo:
 - [Growth Paths](./growth-and-insights/growth.md) for all eight dimensions, with every tier
 - The weekly brief, [Compare](./growth-and-insights/insights.md#compare-pro) and found patterns in Insights
 - Every Focus soundscape
-- Unlimited [projects](./growth-and-insights/projects.md)
+- Unlimited [projects](./growth-and-insights/projects.md) and [canvases](./projects-workspace/canvas.md), and the [graph](./projects-workspace/graph.md) of every page at once
 - Priority support
 
 Each dimension's **score** and its place on the 8-point
