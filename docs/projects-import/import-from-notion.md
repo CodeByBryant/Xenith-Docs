@@ -46,9 +46,11 @@ is listed in the report: see [What carries over](./what-carries-over.md).
 - Each Notion database becomes a Xenith database with the same columns, options and
   rows. Select, multi-select, status, date, number, checkbox, URL, email, phone,
   text, people, files and relation columns all have a home.
-- **Formulas, rollups, created and edited times, and unique IDs** are copied as
-  the values they had at the time of the import and can't be recalculated or
-  edited in Xenith.
+- **Formulas and rollups** are copied as the values they had at the time of the
+  import. They stay that value until you write a formula (or set up a rollup) in
+  the column; see [Formulas and properties](../projects-workspace/formulas-and-properties.md).
+- **Created and edited times and unique IDs** are copied as the values they had
+  and can't be edited in Xenith.
 - **People** become names. **Relations** keep their links, and they show the
   linked rows' titles once the related database is imported too (until then they
   show as unavailable).
