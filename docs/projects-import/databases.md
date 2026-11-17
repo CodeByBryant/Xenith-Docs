@@ -69,6 +69,7 @@ and visible columns:
 - **Gallery:** a grid of cards. A row's first image uploaded to Xenith shows above
   its title.
 - **List:** one line per row, the compact view that reads well on a phone.
+- **Calendar, timeline, chart and dashboard:** see [Database views](/projects-workspace/database-views).
 
 Use **Filter** (rules combined with and/or) and **Sort** (several keys, empty
 values last). The **Properties** menu chooses which columns show in the current view.
