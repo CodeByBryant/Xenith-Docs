@@ -29,7 +29,7 @@ closes it.
 
 **This page** shows the open page, the pages it links to, and the pages that link to it.
 Choose **1 step** for those neighbours, or **2 steps** to include their neighbours too.
-The page you opened is drawn darker.
+The page you opened is drawn in green.
 
 If the page has no links yet, the graph says so. Type [`[[`](./links-and-backlinks.md)
 in a page to link it to another.
