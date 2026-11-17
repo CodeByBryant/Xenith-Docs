@@ -133,7 +133,7 @@ to the rows that wait on a row you move or resize on a timeline:
   Nothing moves earlier.
 
 Only plain dates move. A row that has a time on its date, or a calculated date, stays where it is and you are told. All the rows
-move together or none does (up to 199 rows besides the one you moved). If more rows than that depend on it, or rows wait on each
+move together or none does (up to 199 rows besides the one you moved, or 99 when the timeline uses separate start and end properties, because each row then takes two writes). If more rows than that depend on it, or rows wait on each
 other in a loop, only the row you moved changes, and you are told why.
 
 ## Limits
