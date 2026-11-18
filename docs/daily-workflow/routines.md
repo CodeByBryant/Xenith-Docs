@@ -23,8 +23,8 @@ maintenance mid-day, and a wind-down in the evening.
 
 ## Building a routine
 
-1. Open **Routines** from the sidebar (**/app/routines**) and create a new
-   routine.
+1. Open **Plan** from the sidebar (**/app/plan**), choose **Manage**, and create a
+   new routine. Your routines for the day are on **Today**, under *Routines*.
 2. **Name it** (for example, *Weekday Morning*) and assign it a slot.
 3. **Add steps**, each an ordered habit or task. Keep them specific and binary,
    things you can clearly complete or skip. Aim for roughly 5–10 steps.
