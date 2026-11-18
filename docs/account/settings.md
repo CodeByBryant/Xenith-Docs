@@ -42,11 +42,13 @@ guide: [Notifications](./notifications.md).
 
 ## Pages
 
-**Pages** chooses which optional pages show in the menu and on your dashboard:
-[Habits](../daily-workflow/habits.md), [Routines](../daily-workflow/routines.md),
-Inbox, Calendar and Insights. Turn one off and it leaves the menu, the command
-palette (<kbd>Ctrl</kbd> + <kbd>K</kbd>) and the dashboard. **Hiding a page keeps
-everything in it**: nothing is changed or removed, the page still opens from a link,
+**Pages** chooses what shows in the menu, on [Plan](../getting-started/the-interface.md#plan)
+and on your dashboard: [Habits](../daily-workflow/habits.md),
+[Routines](../daily-workflow/routines.md), Inbox, Calendar and Insights. Habits,
+Routines and Inbox are parts of Plan: turn one off and it leaves Plan and the dashboard
+(if Routines and Habits are both off, Plan has no Manage tab). Calendar and Insights
+leave the menu and the command palette (<kbd>Ctrl</kbd> + <kbd>K</kbd>) and the
+dashboard. **Hiding something keeps everything in it**: nothing is changed or removed,
 and turning it back on shows it as it was, with its dashboard card in its old place.
 Each switch saves as soon as you flip it.
 

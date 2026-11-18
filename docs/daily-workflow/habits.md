@@ -13,7 +13,7 @@ keywords:
 # Habits
 
 **Habits** is a daily checklist for the things you do, and for the things you'd like to
-do less of. Open it from **Habits** in the menu. It is free for everyone.
+do less of. Open **Plan** from the menu: today's habits are on **Today**, and adding, editing and putting habits away is on **Manage**. It is free for everyone.
 
 It is built to state facts, not to keep score. There are no streaks, no
 consecutive-day counts and no scores, and nothing changes colour or wording based on

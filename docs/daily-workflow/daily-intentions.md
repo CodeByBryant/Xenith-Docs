@@ -25,7 +25,8 @@ Twelve things you might do is just anxiety in list form.
 
 ## Setting your intentions
 
-1. Open **Intentions** from the sidebar (**/app/intentions**).
+1. Open **Plan** from the sidebar (**/app/plan**). **Today** starts with your
+   intentions. Use the arrows above them to look at another day.
 2. Optionally log a quick **morning mood**. It takes two seconds and anchors
    your planning to how you actually feel today.
 3. Write each intention as a **specific, completable action**, not a vague goal.

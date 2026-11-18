@@ -77,15 +77,16 @@ Five more cards start hidden. Add any of them from **Customize**:
 
 ## Sidebar navigation
 
-The left sidebar is your map of the app: Dashboard, Intentions, Focus, Coach,
-Reflection, Life Dimensions, Growth, Projects, Worlds, Inbox, Habits, Routines,
-Calendar and Insights, in three groups (Daily, Growth and Other). Settings opens from
-your profile button at the bottom.
+The left sidebar is your map of the app: Dashboard, Focus, Coach, Plan, Reflection,
+Life Dimensions, Growth, Projects, Worlds, Calendar and Insights, in three groups
+(Daily, Growth and Other). Settings opens from your profile button at the bottom.
+**Plan** is where your intentions, routines, habits and inbox live, on one page.
 
 - **Fold a group.** Press a group's name to fold it. The page you are on stays visible,
   and Xenith remembers what you folded on that device.
-- **Hide pages you don't use.** [Settings](../account/settings.md#pages) can take
-  Habits, Routines, Inbox, Calendar and Insights out of the menu.
+- **Hide what you don't use.** [Settings](../account/settings.md#pages) can take
+  Calendar and Insights out of the menu, and can leave Habits, Routines and the Inbox
+  out of Plan.
 - **Collapse the whole sidebar** (<kbd>Ctrl</kbd> + <kbd>B</kbd>) when you want
   maximum room to think. In the narrow version every page stays one tap away.
 
@@ -100,17 +101,31 @@ section, project, or page by name, with no clicking through menus.
 > The command palette is the fastest way to navigate. If you only learn one
 > shortcut, make it <kbd>Ctrl</kbd> + <kbd>K</kbd>.
 
+## Plan
+
+**Plan** puts the things you do each day on one page. **Today** has, from the top:
+a box to capture a thought, the day you are looking at (the arrows move both your
+intentions and your habits), your [intentions](../daily-workflow/daily-intentions.md),
+your [routines](../daily-workflow/routines.md), your [habits](../daily-workflow/habits.md),
+and anything you captured that is waiting to be sorted. **Manage** is where you set up
+routines and habits.
+
+The addresses of the four pages it replaced (Intentions, Routines, Habits and Inbox)
+still work: they open Plan.
+
 ## Quick capture
 
 A thought shouldn't have to wait for the right screen. **Quick capture** lets you
-jot something down instantly. It lands in your [Inbox](#the-inbox) so you can
-sort it later without breaking your flow.
+jot something down instantly, from anywhere (press <kbd>Q</kbd>) or from the box at the
+top of [Plan](#plan). It lands in your inbox so you can sort it later without breaking
+your flow.
 
 ## The inbox
 
-The **Inbox** is your holding area for anything captured on the fly: stray ideas,
-tasks, links, things to revisit. Process it on your own schedule: turn items
-into intentions, project notes, or reflections, or simply clear them.
+The **inbox** is your holding area for anything captured on the fly: stray ideas,
+tasks, links, things to revisit. It shows on [Plan](#plan), under *To sort*, whenever
+something is waiting; with nothing waiting it takes no room. Process it on your own
+schedule: turn items into intentions, or simply clear them.
 
 ## The calendar
 
