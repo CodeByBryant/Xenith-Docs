@@ -109,6 +109,5 @@ priority as your first intention.
 The tools are standalone, and Xenith has a matching place for each result: your
 [daily intentions](./daily-workflow/daily-intentions.md) for a sorted task list,
 [Routines](./daily-workflow/routines.md) for a morning routine, the
-[Reflection](./daily-workflow/reflection.md) page for a review, the
-[daily check-in](./daily-workflow/daily-check-in.md) for energy, and
+[Reflection](./daily-workflow/reflection.md) page for a review, and
 [Life Dimensions](./life-dimensions/overview.md) for your balance over time.

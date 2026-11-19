@@ -459,7 +459,7 @@ were added or removed.
 - **Daily check-in now follows your account**, not just your browser, so
   "done for today" stays consistent across devices. Brand new accounts also
   skip the redundant prompt right after onboarding. See
-  [Daily Check-in](./daily-workflow/daily-check-in.md).
+  Daily Check-in (since removed).
 - **Calendar Sync (Google Calendar & Notion) is now part of Xenith Pro.** The
   Calendar itself, and everything else it does, stays free. See
   [Calendar Sync](./integrations/calendar-sync.md).
