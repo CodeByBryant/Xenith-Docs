@@ -1,7 +1,7 @@
 ---
 sidebar_position: 3
 title: The Interface
-description: "A tour of the Xenith workspace: the dashboard, sidebar navigation, command palette, quick capture, inbox, and calendar."
+description: "A tour of the Xenith workspace: the dashboard, sidebar navigation, command palette, Plan, quick capture, the Focus timer, offline use and what's new."
 keywords:
   - xenith interface
   - xenith dashboard
@@ -21,6 +21,10 @@ Your home screen (**/app**) is a personalized dashboard. It opens with a
 greeting, today's date and a plain line of facts ("1 of 3 intentions done, 25
 minutes focused today"), then surfaces what's relevant right now:
 
+- **Projects**, across the top: the pages you opened most recently, your favorites,
+  and what is dated in the next week in your databases, with **New page** (or one from a
+  template) to start something. It reads page titles only, and a date that has passed
+  is shown as a date, not as something overdue.
 - **Today:** your [intentions](../daily-workflow/daily-intentions.md) with
   progress, the next thing to [Focus](../daily-workflow/focus.md) on, and anything
   still open from earlier days. With nothing planned yet, **Draft my day** lists what
@@ -32,12 +36,13 @@ minutes focused today"), then surfaces what's relevant right now:
   there is something to decide.
 - **This week:** Focus minutes and intentions done for each day, plus calendar
   events. Counts only, no comparisons.
-- **Calendar** and a **Balance** wheel of your [Life Dimensions](../life-dimensions/overview.md).
-- Your active [routines](../daily-workflow/routines.md), your latest reflection and
-  your projects.
-- **Your tools:** the free dimension tools (calories, Finances, Books, Growth
-  Path), ordered by the dimensions you chose. Pro tools show as a compact locked
-  tile.
+- **Calendar**.
+- Your active [routines](../daily-workflow/routines.md) and your latest reflection.
+- A **Balance** wheel of your [Life Dimensions](../life-dimensions/overview.md), your
+  **World**, and **Your tools** (the free dimension tools, ordered by the dimensions you
+  chose, with Pro tools as a compact locked tile). A dashboard you haven't arranged yet
+  doesn't show these three: add them from **Customize**. If you have already arranged
+  your dashboard, nothing is taken away.
 - A search bar in the header (or <kbd>Ctrl</kbd> + <kbd>K</kbd>) and quick actions.
 
 The dashboard is a calm overview, not a control tower. It shows direction, not
@@ -61,7 +66,7 @@ for everyone, and the dashboard stays exactly as it was until you change somethi
 
 *Today* and *From your tools* always stay at the top of the main column.
 
-Five more cards start hidden. Add any of them from **Customize**:
+Six more cards start hidden. Add any of them from **Customize**:
 
 - **Quick capture:** type a thought and it goes to your [Inbox](#the-inbox).
 - **Water & supplements:** today's water with one-tap **+250 ml** and **+500 ml**, and
@@ -69,6 +74,8 @@ Five more cards start hidden. Add any of them from **Customize**:
 - **Mood check:** one tap sets today's mood. It changes only the mood, so a
   [reflection](../daily-workflow/reflection.md) you already wrote today stays as it is.
 - **Habits:** today's [habits](../daily-workflow/habits.md), ticked or counted in a tap.
+- **Projects list:** a short list of your projects. The **Projects** section across the
+  top of the dashboard has taken its place, so it stays hidden unless you want both.
 - **Reach out:** the people you set a contact goal for whose time has come (see
   [Relationships](../life-dimensions/relationships.md); Connections is part of Pro).
 
@@ -135,13 +142,36 @@ schedule: turn items into intentions, or simply clear them.
 ## The calendar
 
 The **Calendar** gives you a time-based view of your activity and plans, so you
-can see your intentions, sessions, and notable entries in context across the
-days and weeks.
+can see your intentions, sessions, and events in context across the days and weeks.
+It has month, week, day and Gantt views: see [Calendar](../daily-workflow/calendar.md).
+
+## The Focus timer
+
+While a [Focus](../daily-workflow/focus.md) session is running, a small timer follows you
+from page to page, so you can leave Focus to write a page or check a database and still
+see the time. It has pause and resume, and a way back to Focus. It isn't shown on the
+Focus page itself.
+
+## Offline
+
+Xenith opens without a connection and shows what your device has saved, read-only. A bar
+under the top of the page tells you when you're offline. See
+[Using Xenith offline](./offline.md).
+
+## What's new
+
+After an update, a card opens once with a picture and what changed. Close it and it
+doesn't come back for that release, on any of your devices. If you were away for several
+releases, you see the latest card only. The full history is in the
+[Changelog](../changelog.md).
 
 ## Light and dark themes
 
-Xenith defaults to a dark theme designed for long, focused sessions. Toggle to
-light from the header control at any time. Your choice is remembered per device.
+Xenith follows your device: if it is set to dark, so is Xenith, and the same for light.
+To choose one yourself, open **Settings** and set **Theme** under **Preferences** to
+**Light**, **Dark** or **System**, then press **Save changes**. On a phone there is also a
+theme button in the top bar. Your choice is remembered per device, so you can run dark on
+your laptop and light on a bright office monitor.
 
 ## Next steps
 
