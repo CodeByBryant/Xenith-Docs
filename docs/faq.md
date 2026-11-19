@@ -20,9 +20,10 @@ free plan is real and complete, not a demo:
 - Daily [Intentions](./daily-workflow/daily-intentions.md), the
   [Focus](./daily-workflow/focus.md) timer, and
   [Reflection](./daily-workflow/reflection.md)
-- [Routines](./daily-workflow/routines.md)
+- [Routines](./daily-workflow/routines.md): up to 3
+- [Habits](./daily-workflow/habits.md): up to 10
 - The 8-point [Life Dimensions](./life-dimensions/overview.md) overview
-- The [Insights](./growth-and-insights/insights.md) dashboard
+- The [Insights](./growth-and-insights/insights.md) dashboard, over the last 8 weeks of your days
 - [Health](./life-dimensions/health.md): Biometrics and Calories
 - [Finances](./life-dimensions/finances.md): Transactions
 - [Learning](./life-dimensions/learning.md): Books
@@ -43,6 +44,8 @@ free plan is real and complete, not a demo:
 - [Growth Paths](./growth-and-insights/growth.md) for all eight dimensions, with every tier
 - The weekly brief, [Compare](./growth-and-insights/insights.md#compare-pro) and found patterns in Insights
 - Every Focus soundscape
+- Unlimited [routines](./daily-workflow/routines.md) and [habits](./daily-workflow/habits.md), and [Insights](./growth-and-insights/insights.md) over up to 180 days
+- [API keys](./api-reference.md#authentication)
 - Unlimited [projects](./growth-and-insights/projects.md) and [canvases](./projects-workspace/canvas.md), and the [graph](./projects-workspace/graph.md) of every page at once
 - Priority support
 

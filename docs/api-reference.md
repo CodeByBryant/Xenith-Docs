@@ -18,7 +18,7 @@ programmatically.
 
 ## Authentication
 
-Create an API key in **Settings → API access**. The raw key is shown once,
+Creating an API key is part of [Xenith Pro](../account/pro-and-billing.md). Create one in **Settings → API access**. The raw key is shown once,
 at creation. Store it somewhere safe, since Xenith only ever stores its
 hash.
 

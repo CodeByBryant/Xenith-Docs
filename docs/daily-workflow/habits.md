@@ -13,7 +13,7 @@ keywords:
 # Habits
 
 **Habits** is a daily checklist for the things you do, and for the things you'd like to
-do less of. Open **Plan** from the menu: today's habits are on **Today**, and adding, editing and putting habits away is on the **Habits** tab. It is free for everyone.
+do less of. Open **Plan** from the menu: today's habits are on **Today**, and adding, editing and putting habits away is on the **Habits** tab. The free plan includes **10 habits**, and [Xenith Pro](../account/pro-and-billing.md) has no limit. Habits you have put away do not count, and if you already have more than 10 you keep them all: you just can't add another (or bring one back) until you are under 10 or on Pro.
 
 It is built to state facts, not to keep score. There are no streaks, no
 consecutive-day counts and no scores, and nothing changes colour or wording based on
