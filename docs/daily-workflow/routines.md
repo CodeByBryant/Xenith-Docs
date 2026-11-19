@@ -15,6 +15,10 @@ keywords:
 Routines let you design repeatable sequences for different parts of your day, so
 the right things happen without re-deciding them every morning.
 
+The free plan includes **3 routines**; [Xenith Pro](../account/pro-and-billing.md) has no limit.
+If you already have more than 3, you keep all of them and can edit and use every one;
+you just can't add another until you are under 3 or on Pro.
+
 ## Three windows for your day
 
 Xenith gives you dedicated **Morning**, **Afternoon**, and **Evening** routine

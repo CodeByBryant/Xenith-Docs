@@ -44,6 +44,13 @@ Below the trends are your [Life Dimensions](../life-dimensions/overview.md) scor
 you rated them, and this month's money in and out if you log
 [transactions](../life-dimensions/finances.md).
 
+### How far back it reads
+
+The free plan reads the last **8 weeks** of your days, which is enough for every trend
+and its eight-week line. [Xenith Pro](../account/pro-and-billing.md) reads up to 180
+days, so the counts of recorded days go back further. When your plan reads fewer days than
+that, the Overview says so at the bottom. Nothing you logged is removed either way.
+
 ## Weekly brief (Pro)
 
 The weekly brief is a short written read of the trends above. It is written from those
