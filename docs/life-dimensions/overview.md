@@ -70,8 +70,8 @@ walkthrough points out the wheel, asks you to pick an area, asks you to rate it 
 explains the weekly snapshots. It takes your real actions as the answer, so picking an
 area or saving a rating moves it along, and nothing is skipped ahead of an explanation.
 Close it any time with the close button or Escape. To see it again, choose
-**Show me around**. Whether you have seen it is remembered in your browser only, so a
-different device may show it once more.
+**Show me around**. Whether you have seen it is saved to your account, so it does not
+come back on another device, in another browser, or after an update.
 
 **Scores from the quiz.** If you took the
 [Work-Life Balance Quiz](../free-tools.md) before signing up, the page can offer its
@@ -79,6 +79,19 @@ scores as a note with a **Use these scores** button. Nothing is saved until you 
 it. It is only offered for the current week, and only while you have not rated anything
 yet. If a result has no score for an area, that area is left unrated rather than
 guessed.
+
+## Opening a tool
+
+Every tool is on the Life Dimensions page itself. Until you pick an area, the column
+beside the wheel lists all of them, grouped under their dimension, and a click opens
+one. Pick an area on the wheel and the same column shows that area's rating with its
+own tools underneath. Tools that are part of Pro say so. From anywhere in the app, press
+<kbd>Ctrl</kbd> + <kbd>K</kbd> (<kbd>Cmd</kbd> + <kbd>K</kbd> on Mac) and type a tool's
+name to go straight to it.
+
+Finances and Learning each have one tool, so their old address
+(**/app/dimensions/finances** and **/app/dimensions/learning**) opens that tool directly.
+The other areas keep a page of their own that lists their tools.
 
 ## Dimension scores and balance
 
