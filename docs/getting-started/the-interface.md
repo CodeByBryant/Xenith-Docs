@@ -61,9 +61,6 @@ for everyone, and the dashboard stays exactly as it was until you change somethi
 
 *Today* and *From your tools* always stay at the top of the main column.
 
-If you hide a page in [Settings](../account/settings.md#pages), its card leaves the
-dashboard too. Showing the page again brings the card back where it was.
-
 Five more cards start hidden. Add any of them from **Customize**:
 
 - **Quick capture:** type a thought and it goes to your [Inbox](#the-inbox).
@@ -77,18 +74,21 @@ Five more cards start hidden. Add any of them from **Customize**:
 
 ## Sidebar navigation
 
-The left sidebar is your map of the app: Dashboard, Focus, Coach, Plan, Reflection,
-Life Dimensions, Growth, Projects, Worlds, Calendar and Insights, in three groups
-(Daily, Growth and Other). Settings opens from your profile button at the bottom.
-**Plan** is where your intentions, routines, habits and inbox live, on one page.
+The left sidebar is ordered the way the app is used. **Dashboard** is on its own at the
+top, then three groups:
 
-- **Fold a group.** Press a group's name to fold it. The page you are on stays visible,
-  and Xenith remembers what you folded on that device.
-- **Hide what you don't use.** [Settings](../account/settings.md#pages) can take
-  Calendar and Insights out of the menu, and can leave Habits, Routines and the Inbox
-  out of Plan.
-- **Collapse the whole sidebar** (<kbd>Ctrl</kbd> + <kbd>B</kbd>) when you want
-  maximum room to think. In the narrow version every page stays one tap away.
+- **Daily:** Plan, Calendar, Focus and Reflection.
+- **Understand:** Insights, Life Dimensions, Growth Path and Coach.
+- **Workspace:** Projects and Worlds.
+
+Every page has its own icon, and Settings opens from your profile button at the bottom.
+Nothing is folded away: all of it is one click from where you are.
+
+**Collapse the sidebar completely** with the button at the left of the top bar, or
+<kbd>Ctrl</kbd> + <kbd>B</kbd> (<kbd>Cmd</kbd> + <kbd>B</kbd> on Mac). It leaves no
+strip behind, so the page gets the whole width. Press the same button or shortcut to
+bring it back; Xenith remembers your choice on that device. On a phone the sidebar opens
+from the menu button instead.
 
 ## Command palette
 
@@ -103,15 +103,21 @@ section, project, or page by name, with no clicking through menus.
 
 ## Plan
 
-**Plan** puts the things you do each day on one page. **Today** has, from the top:
-a box to capture a thought, the day you are looking at (the arrows move both your
-intentions and your habits), your [intentions](../daily-workflow/daily-intentions.md),
-your [routines](../daily-workflow/routines.md), your [habits](../daily-workflow/habits.md),
-and anything you captured that is waiting to be sorted. **Manage** is where you set up
-routines and habits.
+**Plan** puts the things you do each day on one page, in four tabs:
 
-The addresses of the four pages it replaced (Intentions, Routines, Habits and Inbox)
-still work: they open Plan.
+- **Today** is for doing. From the top: a box to capture a thought, the day you are
+  looking at (the arrows move both your intentions and your habits), your
+  [intentions](../daily-workflow/daily-intentions.md), your
+  [routines](../daily-workflow/routines.md) and your
+  [habits](../daily-workflow/habits.md). Anything you finish turns green.
+- **Routines** is where you build and edit your routines.
+- **Habits** is where you add, edit and put away habits.
+- **Inbox** is everything you captured that is waiting to be sorted. The tab shows how
+  many are waiting.
+
+A tab opens straight from its address: **/app/plan?tab=routines**, **habits** or
+**inbox**. The addresses of the four pages Plan replaced (Intentions, Routines, Habits
+and Inbox) still work: they open Plan.
 
 ## Quick capture
 
@@ -123,8 +129,7 @@ your flow.
 ## The inbox
 
 The **inbox** is your holding area for anything captured on the fly: stray ideas,
-tasks, links, things to revisit. It shows on [Plan](#plan), under *To sort*, whenever
-something is waiting; with nothing waiting it takes no room. Process it on your own
+tasks, links, things to revisit. It is the **Inbox** tab on [Plan](#plan), with a count of what is waiting. Capture from the box on Plan and the confirmation has an **Open inbox** button. Process it on your own
 schedule: turn items into intentions, or simply clear them.
 
 ## The calendar
