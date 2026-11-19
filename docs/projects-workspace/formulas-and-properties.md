@@ -77,7 +77,12 @@ cannot read or write anything but the cells of its own row, call out to anything
 A formula that makes numbers filters and sorts as numbers (10 comes after 9), one that makes dates as dates, one that makes
 yes/no as a checkbox, and anything else as text. A list of results filters on whether it is empty.
 
-A formula property that came from a Notion import keeps the value it was imported with until you write a formula in it.
+### Formulas and rollups from a Notion import
+
+An import brings formulas and rollups across as formulas and rollups, so they are worked out in Xenith like any you write. The
+import checks each one against the values Notion showed for your rows first. A formula that uses something Xenith's formulas
+don't have, or that gave a different answer here, keeps the value it had in Notion instead, and the import report says how many.
+Such a property keeps that value until you write a formula in it, and you can edit any imported formula or rollup.
 
 ## Function reference
 

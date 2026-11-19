@@ -34,20 +34,29 @@ hiding it. The report shows counts and reasons, never the content itself.
 | Footnotes | A numbered list at the end of the page |
 | Notion synced blocks | Independent copies that no longer stay in step |
 | Toggle headings | A toggle with a heading inside |
+| Heading level 4 | Level 3 (Xenith has three levels) |
+| Single-column layouts | Ordinary text |
+| Notion's own icons | The matching icon from Xenith's set, or none if there is no match |
+| Notion's colors | The same-named color from Xenith's palette |
 | Callout icons that aren't an emoji | A default icon |
 | Embeds | Bookmarks |
 | Very long pages | Split into continuation pages |
 | Text in a monospace font (Google Docs) | Code |
 | Fonts Xenith doesn't have | The default font |
-| Notion formulas and rollups | The value they had, until you write your own formula or rollup there ([Formulas and properties](../projects-workspace/formulas-and-properties.md)) |
+| Notion formulas and rollups | Formulas and rollups that calculate in Xenith. One that uses something Xenith's formulas don't have, or gives a different answer than Notion did, keeps the value Notion showed ([Formulas and properties](../projects-workspace/formulas-and-properties.md)) |
+| A view's filters, sorts and settings | Carried where Xenith has the same thing; the view is still made when one part isn't, and the report says which |
+| Linked views with several tabs | The first tab |
+| Links to pages | Cards with the page's title and icon |
 | Notion people | Names |
 
 ## Left out
 
 Comments and suggestions, page history, permissions, headers and footers, page
-numbers, equations Xenith can't draw, drawings, tables of contents, page breaks,
-and Notion's saved database views, filters and sorts. A few smaller items (for
-example block types Xenith doesn't have yet) are listed by name in the report.
+numbers, equations Xenith can't draw, drawings, tables of contents, page breaks, and
+pictures used as icons. For database views: form, map and dashboard views, filters on
+formulas and rollups, the order of a view's columns and quick filters. A few smaller
+items (for example block types Xenith doesn't have yet) are listed by name in the
+report.
 
 ## Your edits are protected
 
