@@ -17,6 +17,68 @@ Notable changes to Xenith, newest first. We ship improvements often.
 >
 > Check the [status page](https://status.xenith.life) for real-time service health.
 
+## 2.4.13 (November 2026)
+
+**A calmer menu.** The sidebar is grouped as Daily, Understand and Workspace, and
+every page has its own icon. Hide the whole sidebar with the button at the top left or
+Ctrl+B.
+
+- **Plan in four tabs.** Intentions, routines, habits and quick capture are one page.
+  Today is for doing, Routines and Habits are for setting up, and Inbox shows how many
+  things are waiting.
+- **A Focus timer that stays with you.** Start [Focus](./daily-workflow/focus.md) and a
+  small timer follows you from page to page. It steps aside on the Focus page itself.
+- **A leaner dashboard.** It starts with the essentials and a Projects section for
+  recent pages, favorites and what's due. Add the rest from **Customize**. The daily
+  check-in window is retired.
+- **Life Dimension tools, one click away.** Every tool is listed on the
+  [Life Dimensions](./life-dimensions/overview.md) page and in Ctrl+K. Pick a dimension
+  to rate it with its own tools underneath.
+
+**A bigger Projects.**
+
+- **Links, backlinks and a graph.** Type `[[` to link any page. Links keep the page's
+  current title, a panel shows what points to a page, and you can link to a section.
+  The page graph is free; the whole-workspace graph is part of Pro. See
+  [Links and backlinks](./projects-workspace/links-and-backlinks.md) and
+  [Graph](./projects-workspace/graph.md).
+- **An infinite canvas.** Lay out pages, sections, images and notes and connect them.
+  One canvas is included on Free. See [Canvas](./projects-workspace/canvas.md).
+- **Writing and styling.** Fonts and page width, block colors, toggle headings, a table
+  of contents, columns, math, embeds from YouTube and others, and your own page icons.
+  See [Writing and styling](./projects-workspace/writing-and-styling.md).
+- **Templates, buttons and history.** Save a page as a template, repeat pages on a
+  schedule, add buttons that add an intention or start Focus, and restore earlier
+  versions (7 days on Free, 90 on Pro). See
+  [Templates, buttons and history](./projects-workspace/templates-buttons-and-history.md).
+- **Formulas and rollups.** Notion-style formulas with about 70 functions, rollups
+  across relations, number formats, conditional colors, two-way relations and a button
+  property. See [Formulas and properties](./projects-workspace/formulas-and-properties.md).
+- **More ways to see a database.** Calendar, timeline and chart views, dashboards,
+  sub-items, dependencies, linked views and relative date filters such as this week.
+  See [Database views](./projects-workspace/database-views.md).
+- **A closer copy of your Notion workspace.** Saved views, formulas, linked databases,
+  columns and colors now come across when you
+  [import](./projects-import/what-carries-over.md).
+- **Pages save safely.** A page checks its revision when it saves, so two tabs can't
+  write over each other. If a page changed somewhere else, you choose which version to
+  keep.
+
+**Read your pages offline.** What you've opened on a device opens without a connection,
+pages and databases included. It's read-only until you're back online. See
+[Using Xenith offline](./getting-started/offline.md).
+
+**Free plan limits.** Free includes 3 routines, 10 habits and 8 weeks of Insights
+history. What you already have stays, and anything past a limit needs
+[Pro](./account/pro-and-billing.md).
+
+**Small fixes.**
+
+- **Password reset**, including on accounts that signed in with a provider.
+- **Checklist text** sits on its own line.
+- **Unsplash covers** load.
+- **Your data export** includes sync records.
+
 ## 2.4.12 (November 2026)
 
 **Habits.** A daily checklist for the things you do and the things you'd like to do
