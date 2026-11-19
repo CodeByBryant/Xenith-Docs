@@ -167,8 +167,11 @@ releases, you see the latest card only. The full history is in the
 
 ## Light and dark themes
 
-Xenith defaults to a dark theme designed for long, focused sessions. Toggle to
-light from the header control at any time. Your choice is remembered per device.
+Xenith follows your device: if it is set to dark, so is Xenith, and the same for light.
+To choose one yourself, open **Settings** and set **Theme** under **Preferences** to
+**Light**, **Dark** or **System**, then press **Save changes**. On a phone there is also a
+theme button in the top bar. Your choice is remembered per device, so you can run dark on
+your laptop and light on a bright office monitor.
 
 ## Next steps
 

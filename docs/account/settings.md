@@ -26,9 +26,9 @@ and password, Google, or Microsoft) is covered in
 - **Timezone.** Xenith works out your days from it: when "today" starts and ends for your
   intentions, Focus sessions, habits and the Calendar, and what your reports count. Set it
   to where you live.
-- **Theme.** **System** follows your device, or choose **Light** or **Dark**. The choice is
-  remembered per device, so you can run dark on your laptop and light on a bright office
-  monitor.
+- **Theme.** **System** (what Xenith uses until you choose) follows your device, or choose
+  **Light** or **Dark**. It applies when you press **Save changes**, and it is remembered per
+  device, so you can run dark on your laptop and light on a bright office monitor.
 - **Units.** **Metric** (kg, cm) or **Imperial** (lbs, in), for your weight, height and
   the other measurements you log.
 - **Data sharing.** Lets Xenith use anonymized usage data to improve the product. It never
@@ -63,9 +63,10 @@ offers it, press **Install**. On a phone, open xenith.life in Safari or Chrome a
 **Add to Home Screen**. Once you've used it, Xenith also opens
 [without a connection](../getting-started/offline.md), read-only.
 
-## API keys
+## API access
 
-Pro includes **API keys** for the [public API](../api-reference.md). **Create key** shows
+**API access** in Settings is where you create keys for the [public API](../api-reference.md), and it is
+part of Pro. **Create key** shows
 the key once: copy it then, because it can't be shown again. Each key is listed afterwards
 so you can **revoke** one you no longer use.
 
