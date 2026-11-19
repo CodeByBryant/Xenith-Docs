@@ -46,7 +46,7 @@ You can sync up to **5 databases** at a time.
 - **Columns you add in Xenith.** They stay in Xenith.
 - **People, files and relations.** Changes in Notion come into Xenith, but changes
   you make in Xenith to these are not sent back.
-- **Formulas and rollups.** Notion's values come in as they were. A formula or rollup you write in Xenith is calculated in Xenith and never sent to Notion.
+- **Formulas and rollups.** One that stayed a copied value gets Notion's value as it is. One that Xenith calculates (you wrote it, or it came across as a formula) is worked out in Xenith from the row's other cells every time it is shown, so Notion's value for that cell is not what you see. Formulas and rollups are never sent to Notion.
 - **Created and edited times and IDs**, which Notion calculates.
 - A status option that Notion doesn't have can't be created by Xenith, so that cell
   is listed instead of guessed.
