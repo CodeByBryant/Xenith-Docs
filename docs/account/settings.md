@@ -40,18 +40,6 @@ office monitor.
 Enable or disable gentle reminders and manage push notifications. This has its own
 guide: [Notifications](./notifications.md).
 
-## Pages
-
-**Pages** chooses what shows in the menu, on [Plan](../getting-started/the-interface.md#plan)
-and on your dashboard: [Habits](../daily-workflow/habits.md),
-[Routines](../daily-workflow/routines.md), Inbox, Calendar and Insights. Habits,
-Routines and Inbox are parts of Plan: turn one off and it leaves Plan and the dashboard
-(if Routines and Habits are both off, Plan has no Manage tab). Calendar and Insights
-leave the menu and the command palette (<kbd>Ctrl</kbd> + <kbd>K</kbd>) and the
-dashboard. **Hiding something keeps everything in it**: nothing is changed or removed,
-and turning it back on shows it as it was, with its dashboard card in its old place.
-Each switch saves as soon as you flip it.
-
 ## Worlds
 
 **Show Worlds** turns [Worlds](../growth-and-insights/worlds.md) on or off. Off hides

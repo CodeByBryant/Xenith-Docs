@@ -13,7 +13,7 @@ keywords:
 # Habits
 
 **Habits** is a daily checklist for the things you do, and for the things you'd like to
-do less of. Open **Plan** from the menu: today's habits are on **Today**, and adding, editing and putting habits away is on **Manage**. It is free for everyone.
+do less of. Open **Plan** from the menu: today's habits are on **Today**, and adding, editing and putting habits away is on the **Habits** tab. It is free for everyone.
 
 It is built to state facts, not to keep score. There are no streaks, no
 consecutive-day counts and no scores, and nothing changes colour or wording based on
@@ -56,9 +56,7 @@ you haven't seen. Press **Try again**.
 
 The **Habits** card shows today's habits so you can tick or count them in a tap. It
 starts hidden: add it from **Customize** on the dashboard (see [The
-Interface](../getting-started/the-interface.md#arrange-your-dashboard)). If you don't
-use Habits, you can hide the page and its card from
-[Settings](../account/settings.md#pages).
+Interface](../getting-started/the-interface.md#arrange-your-dashboard)).
 
 ## Your data
 
