@@ -57,9 +57,19 @@ interrupted.
 ## During a session
 
 The timer counts down in a clean, full-view layout with a subtle progress ring to
-keep you anchored. The session keeps running even if your connection drops, because the
-timer lives in your browser. When it ends, your session is recorded
-automatically.
+keep you anchored. The timer lives in your browser, so it keeps running even if your
+connection drops. When it ends, your session is recorded automatically. If you're
+offline at that moment, it can't be recorded, and Focus tells you so. A session also
+can't be started without a connection, because it is saved as it starts.
+
+### Leaving the Focus page
+
+You don't have to stay on Focus. While a session runs, a small timer floats over every
+other page, so you can write a page or look something up and still see the time. It has
+pause and resume and a way back to Focus. There is no stop button on it: ending a session
+goes through Focus, so it is rated and saved there. If the time runs out while you're on
+another page, the small timer says so and points you back to Focus. It isn't shown on the
+Focus page itself.
 
 ## When time is up
 

@@ -66,8 +66,13 @@ Returning users select **Sign in** and use the same method they signed up with:
 
 > **Forgot your password?**
 >
-> Use the **Forgot password?** link on the sign-in form. Xenith emails you a magic
-> link so you can get back in, then reset your password.
+> Use the **Forgot password?** link on the sign-in form and enter your email. Xenith emails
+> you a link (the answer is the same whether or not that address has an account). The
+> link opens a page where you choose a new password. It works once and for a short time;
+> if it has expired, the page offers to send a new one. If you signed up with Google or
+> Microsoft, the page reads **Set a password**, since there is no old one, and it adds a
+> password to the account. You can also do this from **Account** in
+> [Settings](../account/settings.md#change-your-password).
 
 ## What you get
 

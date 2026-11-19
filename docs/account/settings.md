@@ -11,15 +11,31 @@ keywords:
 # Settings
 
 Everything about how Xenith works for you lives in **Settings**
-(**/app/settings**): your profile, appearance, notifications, connected tools and
+(**/app/settings**): your profile, preferences, notifications, connected tools and
 more. The goal you pick in onboarding, and the dimensions it keeps in view, are
 covered under Dimensions below.
 
 ## Profile
 
-Update your **display name** and the basics of your account. How you sign in
-(email and password, Google, or Microsoft) is covered in
+Update your **display name**. Your **email** is shown beside it. How you sign in (email
+and password, Google, or Microsoft) is covered in
 [Creating an Account](../getting-started/creating-an-account.md).
+
+## Preferences
+
+- **Timezone.** Xenith works out your days from it: when "today" starts and ends for your
+  intentions, Focus sessions, habits and the Calendar, and what your reports count. Set it
+  to where you live.
+- **Theme.** **System** follows your device, or choose **Light** or **Dark**. The choice is
+  remembered per device, so you can run dark on your laptop and light on a bright office
+  monitor.
+- **Units.** **Metric** (kg, cm) or **Imperial** (lbs, in), for your weight, height and
+  the other measurements you log.
+- **Data sharing.** Lets Xenith use anonymized usage data to improve the product. It never
+  includes what you write. Turn it off here at any time; see
+  [Privacy & Data](./privacy-and-data.md).
+
+Press **Save changes** at the end of these to keep them.
 
 ## Dimensions
 
@@ -28,12 +44,6 @@ view are chosen in [onboarding](../getting-started/onboarding.md), and they
 decide which tools your dashboard puts first. All eight dimensions stay available
 under **Life Dimensions** in the sidebar, where you can re-rate any of them at
 any time.
-
-## Appearance
-
-Switch between Xenith's **dark** (default) and **light** themes. The choice is
-remembered per device, so you can run dark on your laptop and light on a bright
-office monitor.
 
 ## Notifications
 
@@ -45,6 +55,34 @@ guide: [Notifications](./notifications.md).
 **Show Worlds** turns [Worlds](../growth-and-insights/worlds.md) on or off. Off hides
 it everywhere (the page, the dashboard and the menu) and keeps your World exactly as
 it is. **Customize your World** takes you to the Worlds page.
+
+## Get the app
+
+Xenith installs from the browser, and it works the same installed. Where your browser
+offers it, press **Install**. On a phone, open xenith.life in Safari or Chrome and choose
+**Add to Home Screen**. Once you've used it, Xenith also opens
+[without a connection](../getting-started/offline.md), read-only.
+
+## API keys
+
+Pro includes **API keys** for the [public API](../api-reference.md). **Create key** shows
+the key once: copy it then, because it can't be shown again. Each key is listed afterwards
+so you can **revoke** one you no longer use.
+
+## Calendar sync, task sources and your calendar feed
+
+Connect Google Calendar or Notion on [Calendar Sync](../integrations/calendar-sync.md), and
+bring tasks in from [Todoist, Microsoft To Do or Google Tasks](../integrations/task-sources.md).
+To see your Xenith events in another calendar app, copy your **calendar feed** link; see
+[Apple Calendar](../integrations/apple-calendar.md).
+
+## Change your password
+
+Under **Account**, choose **Change password**, confirm you're human, and press **Send
+reset link**. Xenith emails you a link, and the link opens a page where you choose a new
+password. If you signed up with Google or Microsoft you have no password yet: the button
+reads **Set a password**, and the same link lets you set one. Reset links work once and for
+a short time; if one has expired, ask for a new one.
 
 ## Your data
 
@@ -80,8 +118,15 @@ daily log or the journal, Xenith says so and the full JSON export still works.
 
 ## Signing out
 
-Sign out from the account menu. To sign back in, use your password, a magic link,
-or your Google/Microsoft account, whichever you set up.
+Sign out from the account menu, or under **Account** in Settings. To sign back in, use your
+password, a magic link, or your Google/Microsoft account, whichever you set up. Signing out
+also removes what Xenith saved on that device for [offline use](../getting-started/offline.md).
+
+## Delete your account
+
+**Delete account**, at the bottom of **Account**, asks you to confirm and then permanently
+deletes your account and all of your data. This cannot be undone, so [export your
+data](#export-your-data) first if you want a copy.
 
 ## Related
 
