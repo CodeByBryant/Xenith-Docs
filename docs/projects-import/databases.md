@@ -44,9 +44,9 @@ cell.
 **Created and edited times and IDs** only arrive through an import. They show the
 value they had and can't be edited.
 
-**Formulas and rollups** from an import show the value they had. You can also add
-your own formula or rollup column, or write a formula into an imported one, and it
-is calculated in Xenith from then on. See
+**Formulas and rollups** from an import come across as formulas and rollups and are
+calculated in Xenith (one Xenith can't reproduce exactly keeps the value it had).
+You can also add your own formula or rollup column. See
 [Formulas and properties](../projects-workspace/formulas-and-properties.md).
 
 ### Relations
@@ -72,7 +72,12 @@ and visible columns:
 - **Calendar, timeline, chart and dashboard:** see [Database views](/projects-workspace/database-views).
 
 Use **Filter** (rules combined with and/or) and **Sort** (several keys, empty
-values last). The **Properties** menu chooses which columns show in the current view.
+values last). A date rule can compare with a day you pick, with **today**, **yesterday**
+or **tomorrow**, or ask for **is this week**, **is in the past week**, **is in the next
+week**, **is this month**, **is in the past month** or **is in the next month**. Those
+are measured from your own today, so a saved view keeps showing the current week or
+month. Weeks start on Monday, and "past" and "next" mean the 7 or 30 days up to or
+from today, today included. The **Properties** menu chooses which columns show in the current view.
 
 ## Rows
 
