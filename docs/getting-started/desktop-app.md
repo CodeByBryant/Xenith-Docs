@@ -78,7 +78,7 @@ See [Creating an account](./creating-an-account.md).
 | **File** | New intention (<kbd>Ctrl</kbd> + <kbd>N</kbd>), Quick capture, Settings (<kbd>Ctrl</kbd> + <kbd>,</kbd>), Exit |
 | **Edit** | Undo, Redo, Cut, Copy, Paste, Select all |
 | **View** | Toggle sidebar (<kbd>Ctrl</kbd> + <kbd>B</kbd>), zoom in and out, full screen |
-| **Go** | Dashboard, Plan, Calendar, Focus, Reflection, Insights and Projects (<kbd>Ctrl</kbd> + <kbd>1</kbd> to `7`), Back and Forward (<kbd>Alt</kbd> + <kbd>←</kbd> / `→`) |
+| **Go** | Dashboard, Plan, Calendar, Focus, Reflection, Insights and Projects (<kbd>Ctrl</kbd> + <kbd>1</kbd> to <kbd>7</kbd>), Back and Forward (<kbd>Alt</kbd> + <kbd>←</kbd> / <kbd>→</kbd>) |
 | **Options** | Launch at login, Keep running in the tray when closed, Always on top, the quick-capture shortcut, Check for updates |
 | **Window** | Minimize, Close |
 | **Help** | Xenith help, Report a problem, About Xenith |
