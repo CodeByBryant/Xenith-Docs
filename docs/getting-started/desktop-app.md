@@ -1,7 +1,7 @@
 ---
 sidebar_position: 5
 title: Xenith for desktop
-description: "The Xenith desktop app for Windows and Linux: what it is, how to install it, signing in with Google or Microsoft, the menu bar and search, the tray and quick capture, Focus on the taskbar, updates, and troubleshooting."
+description: "The Xenith desktop app for Windows (Linux files to follow): what it is, how to install it, signing in with Google or Microsoft, the menu bar and search, the tray and quick capture, Focus on the taskbar, updates, and troubleshooting."
 keywords:
   - xenith desktop app
   - xenith for windows
@@ -28,14 +28,13 @@ The downloads are listed at **[xenith.life/download](https://xenith.life/downloa
 | --- | --- | --- |
 | Windows 10 or 11 (64-bit) | **Installer** | A setup wizard. It installs for you by default, or for everyone on the PC if you choose, lets you pick the folder, and adds a desktop and Start-menu shortcut. It updates itself. |
 | Windows 10 or 11 (64-bit) | **Portable** | One file that runs without installing. It does not update itself. |
-| Linux (64-bit) | **.deb** | For Debian and Ubuntu. Install it with your package manager. It does not update itself: install a newer one over it. |
-| Linux (64-bit) | **AppImage** | One file for most distributions. Mark it as executable and run it. It updates itself. |
+| Linux (64-bit) | **.deb** and **AppImage** | Not offered for download yet. They appear on the download page when they are ready. |
 
 ### The first run
 
 - **Windows** may show a SmartScreen warning the first time, because the file isn't signed with a
   paid certificate yet. Choose **More info**, then **Run anyway**.
-- **Ubuntu 24.04 and later:** the AppImage needs to be started with `--no-sandbox`, because that
+- **Linux, once it is offered:** on Ubuntu 24.04 and later the AppImage needs to be started with `--no-sandbox`, because that
   release restricts what the browser engine's sandbox uses. The `.deb` doesn't have this limit.
 
 ## Signing in
