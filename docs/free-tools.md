@@ -85,8 +85,9 @@ of Life to adjust any score.
 
 The **Wheel of Life** lets you rate the eight areas of life from 1 to 10, see them as a
 wheel, share a link and download an image. The **Pomodoro Timer** runs a 25-minute focus
-and 5-minute break cycle with ambient sound, the same idea as [Focus](./daily-workflow/focus.md)
-in the app.
+and 5-minute break cycle with ambient sound, free and with no account. In the app,
+[Focus](./daily-workflow/focus.md) has single sessions of any length on every plan, and its
+Pomodoro mode is part of Pro.
 
 ## Bringing a result into Xenith
 
