@@ -1,7 +1,7 @@
 ---
 sidebar_position: 2
 title: Focus
-description: "Deep, intentional work with the Xenith Focus timer: custom durations, ambient soundscapes, an end-of-session sound, optional session ratings, full-screen mode, and automatic session logging."
+description: "Deep, intentional work with the Xenith Focus timer: custom durations, Pomodoro cycles on Pro, ambient soundscapes, an end-of-session sound, optional session ratings, full-screen mode, a pop-out timer window, and automatic session logging."
 keywords:
   - focus timer
   - deep work timer
@@ -10,6 +10,7 @@ keywords:
   - focus timer alarm
   - rate focus session
   - distraction free timer
+  - pop out timer window
 ---
 
 # Focus
@@ -22,16 +23,34 @@ your full attention.
 
 1. Open **Focus** from the sidebar (**/app/focus**). No setup required. The
    timer is ready immediately.
-2. **Set a duration.** Choose a preset (25, 45, or 90 minutes) or
-   enter a **custom length**. Whether you sprint in Pomodoro-style blocks or
-   settle into a 90-minute deep block, Focus adapts to your rhythm.
-3. **Name your focus** (optional) so you can look back later on what you gave
+2. **Name your focus** (optional) so you can look back later on what you gave
    your attention to.
-4. **Link a task** (optional) by picking one of today's
+3. **Link a task** (optional) by picking one of today's
    [intentions](./daily-intentions.md) from the setup screen. Its title stays
    visible for the whole session, so the timer is always pointed at something
    real instead of running in the abstract.
-5. Press **Start**, and go **full-screen** for a truly quiet workspace.
+4. **Choose a mode and a length.** A **single session** runs for a preset (25, 45,
+   or 90 minutes) or a **custom length**, on every plan. **Pomodoro** is a Pro mode:
+   see [Pomodoro mode](#pomodoro-mode-pro) below.
+5. **Say how your energy is** (1 to 5).
+6. Press **Start**, and go **full-screen** for a truly quiet workspace.
+
+Sound and the end-of-session alert sit in one **Sound and alerts** row, folded away so
+the setup fits on one screen. It shows what is currently set, for example
+"No sound · Soft bell". Open it to change either. Whether it is open is remembered on
+this device.
+
+## Pomodoro mode (Pro)
+
+Pomodoro runs the classic cycle for you: 25 minutes of focus, a 5-minute break, and a
+longer break after four rounds. It moves from one phase to the next on its own, rings
+at each change, and saves every focus block as its own session. It keeps going until
+you end it.
+
+Pomodoro is part of Pro. On a free plan the Pomodoro button is marked **Pro** and shows
+what it adds when you tap it. Single sessions of any length stay free, so a plain
+25-minute session is always available. A Pomodoro that is already running is never
+interrupted.
 
 ## Ambient soundscapes
 
@@ -44,7 +63,8 @@ Focus includes ambient audio to help you settle in:
 - **Rain** and **Rain & thunder:** natural soundscapes. Pro.
 - **Lo-fi:** relaxed background music with a gentle fade-in. Pro.
 
-Adjust the **volume** at any time, or turn sound off entirely. If a track can't
+Pick a sound from **Sound and alerts**, adjust the **volume** at any time, or turn sound
+off entirely. If a track can't
 load, Focus quietly falls back to generated noise so your session is never
 interrupted.
 
@@ -70,6 +90,24 @@ pause and resume and a way back to Focus. There is no stop button on it: ending 
 goes through Focus, so it is rated and saved there. If the time runs out while you're on
 another page, the small timer says so and points you back to Focus. It isn't shown on the
 Focus page itself.
+
+### Pop out the timer
+
+To keep the time beside whatever else you're working in, press **Pop out timer** on the
+Focus page while a session runs, or the pop-out icon on the small floating timer. A small
+square window opens with just the timer: the ring, the time, what phase it is, and pause
+and resume, plus **Open Xenith** to bring the app back to the front.
+
+- **It is the same session.** The pop-out only shows and controls the one running in
+  Xenith, so pausing there pauses the session everywhere. There is no stop button here
+  either.
+- **Browsers.** In Chrome and Edge the window stays on top of your other windows. Other
+  browsers open an ordinary pop-up window, and you may need to allow pop-ups for
+  xenith.life the first time.
+- **Closing.** It closes when you close it, when you press **Close pop-out** on Focus, or
+  when you close the Xenith tab. If you reset the session it says "No session running"
+  instead of showing an old time.
+- **Where.** It is offered on desktop-size screens, not on a phone.
 
 ## When time is up
 
