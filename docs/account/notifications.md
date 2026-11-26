@@ -37,6 +37,13 @@ browser's "Add to Home Screen" option). You can also find it any time in
 with the steps for your device. Installed as an app, Xenith can deliver notifications
 like any other app.
 
+## In the desktop app
+
+Push reminders aren't available in the [desktop app](../getting-started/desktop-app.md), so
+the toggle isn't offered there. The app still shows system notifications for your Focus timer
+and its own notices. To get reminders on a computer, use Xenith in your browser, or the
+[email reminders](#email-reminders) below.
+
 ## Email reminders
 
 Separate from push, you can ask for an **email reminder** when you add an
